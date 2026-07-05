@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register | Music Recommendation System</title>
+    <link rel="stylesheet" href="../css/register.css">
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+
+        <div class="logo">
+            🎵 MusicAI
+        </div>
+
+        <nav>
+            <a href="../html/index.html">Home</a>
+            <a href="../html/dashboard.html" class="active">Dashboard</a>
+            <a href="../html/login.html">Login</a>
+            <a class="register-btn" href="../html/register.html">Register</a>
+        </nav>
+
+    </header>
+
+    <!-- REGISTER SECTION -->
+    <section class="form-section">
+
+        <div class="form-container">
+
+            <h2>Create Account ✨</h2>
+            <p>Join MusicAI and discover personalized music recommendations</p>
+
+          <form action="../php/register.php" method="POST">
+
+<input type="text" name="fullname" placeholder="Full Name" required>
+<input type="email" name="email" placeholder="Email Address" required>
+<input type="password" name="password" placeholder="Password" required>
+<input type="password" name="confirm_password" placeholder="Confirm Password" required>
+
+<button type="submit">Register</button>
+</form>
+
+        </div>
+
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        © 2026 Music Recommendation System | BCA Final Year Project
+    </footer>
+
+</body>
+
+</html>

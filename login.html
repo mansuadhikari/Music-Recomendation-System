@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Login | Music Recommendation System</title>
+    <link rel="stylesheet" href="../css/login.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- NAVBAR -->
+<header class="navbar">
+
+    <div class="logo">
+        🎵 MusicAI
+    </div>
+
+    <nav>
+        <a href="../html/index.html">Home</a>
+        <a href="../html/dashboard.html" class="active">Dashboard</a>
+        <a href="../html/login.html">Login</a>
+        <a class="register-btn" href="../html/register.html">Register</a>
+    </nav>
+
+</header>
+<br><br>
+
+    <div class="login-container">
+
+        <!-- Left Side Design -->
+        <div class="left-panel">
+            <h1>🎵 MusicAI</h1>
+            <p>Discover music that matches your mood using Machine Learning</p>
+            <div class="music-icons">
+                <i class="fa-solid fa-music"></i>
+                <i class="fa-solid fa-headphones"></i>
+                <i class="fa-solid fa-radio"></i>
+            </div>
+        </div>
+
+        <!-- Login Form -->
+        <div class="right-panel">
+
+            <h2>Welcome Back 👋</h2>
+            <p class="subtext">Login to continue your music journey</p>
+
+            <form  action="../php/login.php" method="POST">
+                <div class="input-box">
+                    <i class="fa-solid fa-envelope"></i>
+                    <input type="email" placeholder="Email Address" required>
+                </div>
+
+                <div class="input-box">
+                    <i class="fa-solid fa-lock"></i>
+                    <input type="password" placeholder="Password" required>
+                </div>
+
+                <div class="options">
+                    <label>
+                        <input type="checkbox"> Remember me
+                    </label>
+                    <a href="#">Forgot Password?</a>
+                </div>
+
+                <button type="submit">Login</button>
+
+                <p class="register-link">
+                    Don't have an account? <a href="register.html">Create Account</a>
+                </p>
+            </form>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
