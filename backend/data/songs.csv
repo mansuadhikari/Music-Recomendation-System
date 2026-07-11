@@ -1,0 +1,2001 @@
+id,title,artist,genre,danceability,energy,valence,acousticness,tempo
+1,Comedy,Gen Hoshino,acoustic,0.676,0.461,0.715,0.0322,87.917
+2,Ghost - Acoustic,Ben Woodward,acoustic,0.42,0.166,0.267,0.924,77.489
+3,To Begin Again,Ingrid Michaelson;ZAYN,acoustic,0.438,0.359,0.12,0.21,76.332
+4,Can't Help Falling In Love,Kina Grannis,acoustic,0.266,0.0596,0.143,0.905,181.74
+5,Hold On,Chord Overstreet,acoustic,0.618,0.443,0.167,0.469,119.949
+6,Days I Will Remember,Tyrone Wells,acoustic,0.688,0.481,0.666,0.289,98.017
+7,Say Something,A Great Big World;Christina Aguilera,acoustic,0.407,0.147,0.0765,0.857,141.284
+8,I'm Yours,Jason Mraz,acoustic,0.703,0.444,0.712,0.559,150.96
+9,Lucky,Jason Mraz;Colbie Caillat,acoustic,0.625,0.414,0.669,0.294,130.088
+10,Hunger,Ross Copperman,acoustic,0.442,0.632,0.196,0.426,78.899
+11,Give Me Your Forever,Zack Tabudlo,acoustic,0.627,0.363,0.301,0.279,99.905
+12,I Won't Give Up,Jason Mraz,acoustic,0.483,0.303,0.139,0.694,133.406
+13,Solo,Dan Berk,acoustic,0.489,0.314,0.607,0.749,124.234
+14,Bad Liar,Anna Hamilton,acoustic,0.691,0.234,0.209,0.777,87.103
+15,Hold On - Remix,Chord Overstreet;Deepend,acoustic,0.755,0.78,0.387,0.124,120.004
+16,Falling in Love at a Coffee Shop,Landon Pigg,acoustic,0.489,0.561,0.238,0.2,83.457
+17,ily (i love you baby),Andrew Foy;Renee Foy,acoustic,0.706,0.112,0.414,0.827,110.154
+18,At My Worst,Andrew Foy;Renee Foy,acoustic,0.795,0.0841,0.609,0.742,91.803
+19,Photograph,Boyce Avenue;Bea Miller,acoustic,0.717,0.32,0.322,0.83,107.946
+20,Demons,Boyce Avenue;Jennel Garcia,acoustic,0.678,0.351,0.569,0.747,90.032
+21,93 Million Miles,Jason Mraz,acoustic,0.572,0.454,0.515,0.477,140.182
+22,Unlonely,Jason Mraz,acoustic,0.796,0.667,0.754,0.381,97.988
+23,Bella Luna,Jason Mraz,acoustic,0.755,0.454,0.33,0.757,120.06
+24,Winter Wonderland,Jason Mraz,acoustic,0.62,0.309,0.664,0.788,145.363
+25,If It Kills Me,Jason Mraz,acoustic,0.633,0.429,0.52,0.0444,143.793
+26,All I Want For Christmas Is A Real Good Tan,Chord Overstreet,acoustic,0.593,0.455,0.564,0.366,202.019
+27,Party of One,Brandi Carlile;Sam Smith,acoustic,0.296,0.206,0.202,0.782,165.4
+28,Lonely This Christmas,KT Tunstall,acoustic,0.409,0.153,0.18,0.939,85.262
+29,Throwing Good After Bad,Brandi Carlile,acoustic,0.501,0.0952,0.316,0.963,138.016
+30,This Time Tomorrow,Brandi Carlile,acoustic,0.606,0.326,0.414,0.841,91.626
+31,The Haves,Eddie Vedder,acoustic,0.474,0.519,0.326,0.281,151.832
+32,When You're Wrong,Brandi Carlile,acoustic,0.568,0.301,0.142,0.796,88.029
+33,You and Me on the Rock,Brandi Carlile;Lucius,acoustic,0.568,0.686,0.725,0.15,172.075
+34,"Speak Your Mind (From the Netflix Series ""We The People"")",Brandi Carlile,acoustic,0.476,0.666,0.498,0.314,148.155
+35,Trampoline - Acoustic,Highland Peak,acoustic,0.596,0.2,0.308,0.91,107.893
+36,透明だった世界,Motohiro Hata,acoustic,0.373,0.914,0.56,0.076,168.21
+37,Pieces,Andrew Belle,acoustic,0.494,0.652,0.298,0.0754,137.018
+38,A Drop in the Ocean,Ron Pope,acoustic,0.447,0.393,0.564,0.785,73.139
+39,So Far Away - Acoustic,Adam Christopher,acoustic,0.576,0.331,0.407,0.894,149.02
+40,The Enemy,Andrew Belle,acoustic,0.536,0.89,0.273,0.078,121.974
+41,Build It Better,Aron Wright,acoustic,0.526,0.333,0.159,0.91,94.951
+42,Sleepwalking in the Rain,Chord Overstreet,acoustic,0.501,0.381,0.502,0.687,80.075
+43,Gravity,Sara Bareilles,acoustic,0.27,0.275,0.231,0.834,168.964
+44,What's Left of You,Chord Overstreet,acoustic,0.731,0.507,0.265,0.572,117.969
+45,Pano,Zack Tabudlo,acoustic,0.375,0.457,0.415,0.868,174.839
+46,Sky's Still Blue,Andrew Belle,acoustic,0.43,0.791,0.217,0.0726,171.864
+47,And I Love Her,Kurt Cobain,acoustic,0.616,0.282,0.435,0.983,96.638
+48,We Can't Stop,Boyce Avenue;Bea Miller,acoustic,0.705,0.347,0.36,0.674,80.057
+49,Always Be My Baby,Tim Halperin,acoustic,0.582,0.255,0.285,0.772,139.884
+50,Alone with You,Canyon City,acoustic,0.549,0.274,0.207,0.798,86.664
+51,Making All Things New,Aaron Espe,acoustic,0.787,0.355,0.48,0.896,99.978
+52,She Used To Be Mine,Sara Bareilles,acoustic,0.397,0.303,0.172,0.381,81.05
+53,In My Veins - Feat. Erin Mccarley,Andrew Belle,acoustic,0.548,0.42,0.196,0.198,128.012
+54,I Don't Wanna Live Forever (Fifty Shades Darker),Tyler Ward,acoustic,0.787,0.403,0.264,0.603,118.042
+55,A Drop In the Ocean,Ron Pope,acoustic,0.484,0.573,0.346,0.0882,139.966
+56,Superman (It's Not Easy),Five For Fighting,acoustic,0.382,0.416,0.125,0.0733,102.089
+57,When the End Comes,Andrew Belle,acoustic,0.541,0.575,0.428,0.677,91.98
+58,You're Still The One,Bailey Jehl,acoustic,0.607,0.473,0.54,0.712,119.698
+59,Light Me Up,Ingrid Michaelson,acoustic,0.417,0.595,0.117,0.158,147.928
+60,Kaleidoscope,A Great Big World,acoustic,0.709,0.913,0.519,0.0182,108.024
+61,The Long Road,Eddie Vedder;Nusrat Fateh Ali Khan,acoustic,0.537,0.342,0.253,0.645,109.236
+62,What Would I Do Without You,Drew Holcomb & The Neighbors,acoustic,0.602,0.336,0.335,0.883,90.894
+63,Have It All,Jason Mraz,acoustic,0.643,0.638,0.6,0.204,82.001
+64,Heavy Heart,Gabrielle Aplin,acoustic,0.451,0.7,0.37,0.455,150.055
+65,The House We Never Built,Gabrielle Aplin,acoustic,0.546,0.391,0.202,0.784,139.669
+66,Society,Eddie Vedder,acoustic,0.561,0.327,0.298,0.902,161.858
+67,Please Don't Say You Love Me,Gabrielle Aplin,acoustic,0.479,0.541,0.3,0.74,85.994
+68,Guaranteed,Eddie Vedder,acoustic,0.436,0.4,0.351,0.904,100.734
+69,Brave,Sara Bareilles,acoustic,0.551,0.836,0.758,0.00502,185.063
+70,Heaven Knows,Five For Fighting,acoustic,0.6,0.845,0.392,0.048,97.631
+71,I Heard The Bells On Christmas Day,The Civil Wars,acoustic,0.492,0.145,0.218,0.872,90.078
+72,Fairytale Of New York,KT Tunstall,acoustic,0.447,0.555,0.33,0.218,117.888
+73,Hold On,KT Tunstall,acoustic,0.661,0.937,0.805,0.322,105.549
+74,Suddenly I See,KT Tunstall,acoustic,0.603,0.78,0.693,0.139,100.499
+75,Rain,Motohiro Hata,acoustic,0.626,0.655,0.542,0.503,92.003
+76,Somebody Else - Acoustic,Callum J Wright,acoustic,0.794,0.38,0.617,0.762,114.99
+77,Pieces (Hushed),Andrew Belle,acoustic,0.52,0.279,0.0951,0.894,69.642
+78,Mirrors,Boyce Avenue;Fifth Harmony,acoustic,0.545,0.658,0.683,0.496,76.971
+79,Stand by Me,Boyce Avenue,acoustic,0.728,0.266,0.307,0.872,115.189
+80,Losing Me,Gabrielle Aplin;JP Cooper,acoustic,0.66,0.407,0.257,0.236,133.86
+81,なんでもないや - movie ver.,Mone Kamishiraishi,acoustic,0.357,0.161,0.325,0.971,83.449
+82,You’re Beautiful - Acoustic,John Adams,acoustic,0.479,0.154,0.36,0.915,147.207
+83,Hikare Inochi,Kitri,acoustic,0.592,0.769,0.385,0.319,102.033
+84,How To Lose a Girl,Tyler Ward,acoustic,0.7,0.454,0.34,0.55,80.011
+85,Can’t Help Falling in Love,Boyce Avenue,acoustic,0.402,0.197,0.148,0.858,100.044
+86,Dive Deep (Hushed),Andrew Belle,acoustic,0.507,0.378,0.085,0.852,135.86
+87,When the Party's over (Acoustic Piano),Ben Woodward,acoustic,0.619,0.226,0.188,0.959,124.96
+88,Boston,Augustana,acoustic,0.404,0.571,0.29,0.182,147.01
+89,Living in the Shadows,Matthew Perryman Jones,acoustic,0.418,0.79,0.197,0.0284,175.975
+90,In Case You Didn’t Know,Boyce Avenue,acoustic,0.633,0.299,0.341,0.833,147.549
+91,death bed (coffee for your head),Andrew Foy;Renee Foy,acoustic,0.565,0.0392,0.601,0.835,125.399
+92,You Are My Sunshine,Kina Grannis,acoustic,0.664,0.0755,0.575,0.91,80.004
+93,I Was Born To Love You,Ray LaMontagne;Sierra Ferrell,acoustic,0.65,0.271,0.21,0.794,78.036
+94,Only Love Can Hurt Like This,Meg Birch,acoustic,0.534,0.213,0.0998,0.884,98.385
+95,Mr Blue,Catherine Feeny,acoustic,0.456,0.386,0.612,0.835,165.733
+96,Do Not Let Me Go,Joshua Hyslop,acoustic,0.409,0.234,0.145,0.338,139.832
+97,Holding On And Letting Go,Ross Copperman,acoustic,0.502,0.53,0.102,0.805,78.046
+98,You Already Know,JJ Heller,acoustic,0.496,0.117,0.318,0.933,78.068
+99,Believer (Remix),Ben Woodward,acoustic,0.585,0.724,0.333,0.315,187.484
+100,Collide - Acoustic Version,Howie Day,acoustic,0.582,0.253,0.294,0.827,90.186
+101,Love Like This,Ben Rector,acoustic,0.637,0.14,0.392,0.903,139.78
+102,Come On Get Higher,Matt Nathanson,acoustic,0.672,0.623,0.617,0.241,92.018
+103,"""Something In the Rain"" (Something In the Rain, Pt. 1) [Music from the Original TV Series]",Rachael Yamagata,acoustic,0.422,0.272,0.113,0.496,143.413
+104,Kiss Me Slowly,Parachute,acoustic,0.47,0.801,0.431,0.0758,173.92
+105,Without You,Parachute,acoustic,0.564,0.864,0.534,0.0761,95.984
+106,Absolutely Zero,Jason Mraz,acoustic,0.521,0.495,0.116,0.128,135.061
+107,Sleep All Day,Jason Mraz,acoustic,0.616,0.81,0.79,0.369,97.994
+108,You and I Both,Jason Mraz,acoustic,0.615,0.812,0.74,0.184,98.954
+109,Long Nights,Eddie Vedder,acoustic,0.478,0.305,0.0974,0.675,108.66
+110,Who Needs Shelter,Jason Mraz,acoustic,0.514,0.569,0.264,0.601,142.597
+111,No Stopping Us,Jason Mraz,acoustic,0.646,0.836,0.727,0.301,105.991
+112,I'll Do Anything,Jason Mraz,acoustic,0.57,0.711,0.648,0.119,163.117
+113,Make You Feel My Love,JJ Heller,acoustic,0.678,0.199,0.262,0.957,72.006
+114,The Remedy (I Won't Worry),Jason Mraz,acoustic,0.589,0.867,0.795,0.041,94.52
+115,Too Much Food,Jason Mraz,acoustic,0.626,0.926,0.548,0.0265,99.997
+116,The Boy's Gone,Jason Mraz,acoustic,0.686,0.556,0.36,0.532,112.997
+117,"On Love, in Sadness",Jason Mraz,acoustic,0.56,0.832,0.802,0.108,100.957
+118,Curbside Prophet,Jason Mraz,acoustic,0.619,0.793,0.892,0.263,177.991
+119,"Tonight, Not Again - Live",Jason Mraz,acoustic,0.56,0.278,0.594,0.733,102.187
+120,"Tonight, Not Again",Jason Mraz,acoustic,0.595,0.805,0.359,0.0167,102.44
+121,Hard Sun,Eddie Vedder,acoustic,0.438,0.827,0.645,0.0512,143.377
+122,Here with Me,Susie Suh;Robot Koch,acoustic,0.582,0.375,0.106,0.702,129.909
+123,The Scientist,Tyler Ward;Lindsey Stirling;Kina Grannis,acoustic,0.453,0.295,0.14,0.518,146.022
+124,Collide,Howie Day,acoustic,0.636,0.625,0.342,0.222,93.931
+125,get better,Eden Elf;Ren Avel,acoustic,0.639,0.201,0.4,0.907,88.107
+126,Sympathy,Kitri,acoustic,0.69,0.423,0.59,0.883,130.121
+127,Let It Go,Boyce Avenue;Rachel Grae,acoustic,0.599,0.349,0.444,0.819,147.913
+128,What You Need,Chord Overstreet,acoustic,0.519,0.264,0.192,0.918,140.354
+129,100 Years,Five For Fighting,acoustic,0.643,0.569,0.275,0.544,120.507
+130,You're the Sea,Andrew Belle,acoustic,0.573,0.624,0.529,0.471,161.025
+131,No Direction,Rachael Yamagata,acoustic,0.654,0.821,0.613,0.00666,111.958
+132,Belong,Cary Brothers,acoustic,0.426,0.399,0.217,0.761,115.979
+133,As It Was,The Mayries,acoustic,0.505,0.21,0.323,0.907,80.721
+134,Chi Mai,Joseph Sullinger,acoustic,0.739,0.287,0.557,0.969,80.64
+135,Had It All,Parachute,acoustic,0.606,0.54,0.249,0.182,79.952
+136,Take Me Back ft. Yonnyboii,Zack Tabudlo;Yonnyboii,acoustic,0.595,0.646,0.563,0.11,120.049
+137,Whole Again - Acoustic Version,Tobey Rosen,acoustic,0.736,0.145,0.235,0.855,129.832
+138,Overpass Graffiti,The Mayries,acoustic,0.479,0.126,0.279,0.966,96.327
+139,Love Song,Sara Bareilles,acoustic,0.583,0.786,0.573,0.0208,123.055
+140,Let Her Go,Andrew Foy;Renee Foy,acoustic,0.549,0.291,0.376,0.858,75.153
+141,Brighter Than Sunshine,Aqualung,acoustic,0.418,0.489,0.398,0.287,72.891
+142,Love Story,Tyler Ward;Karis;Ray Lorraine,acoustic,0.498,0.12,0.338,0.851,121.187
+143,Mujer con Abanico,Agustín Amigó;Nylonwings,acoustic,0.769,0.135,0.471,0.986,103.939
+144,In the Shadows,Amy Stroup,acoustic,0.434,0.469,0.0568,0.52,136.282
+145,Can You Feel the Love Tonight,Boyce Avenue;Connie Talbot,acoustic,0.452,0.198,0.217,0.931,119.499
+146,The Story,Brandi Carlile,acoustic,0.544,0.5,0.177,0.0325,93.621
+147,Better,JJ Heller,acoustic,0.662,0.187,0.233,0.969,104.988
+148,Iris,Kina Grannis,acoustic,0.497,0.13,0.179,0.841,130.769
+149,Rockabye - Acoustic Version,The Mayries,acoustic,0.528,0.291,0.355,0.914,76.805
+150,I Need You More Today,Caleb Santos;Viva Music Publishing Inc.,acoustic,0.461,0.522,0.446,0.36,157.768
+151,Beautiful Soul,Boyce Avenue,acoustic,0.483,0.506,0.705,0.394,87.337
+152,Let's See What The Night Can Do,Jason Mraz,acoustic,0.392,0.423,0.288,0.27,113.537
+153,"La La La (Something In the Rain, Pt. 2) [Music from the Original TV Series]",Rachael Yamagata,acoustic,0.42,0.2,0.164,0.929,87.248
+154,Forever And Always,Parachute,acoustic,0.657,0.716,0.435,0.014,93.924
+155,Fine On The Outside,Priscilla Ahn,acoustic,0.495,0.185,0.196,0.692,101.89
+156,Tortured Soul,Chord Overstreet,acoustic,0.55,0.499,0.144,0.472,86.966
+157,I Believe in You,JJ Heller,acoustic,0.534,0.359,0.267,0.449,131.804
+158,At Home,Jon Bryant,acoustic,0.378,0.52,0.357,0.777,73.744
+159,"Portland, Maine",Donovan Woods,acoustic,0.606,0.349,0.156,0.764,80.071
+160,Holding On and Letting Go,Ross Copperman,acoustic,0.486,0.555,0.0992,0.818,77.987
+161,The Flood,Joshua Hyslop,acoustic,0.577,0.446,0.262,0.554,81.005
+162,Hanggang Kailan (Umuwi Ka Na Baby),Angelina Cruz,acoustic,0.59,0.407,0.276,0.861,145.852
+163,Out of My League,Stephen Speaks,acoustic,0.538,0.315,0.4,0.96,91.921
+164,Say Something,A Great Big World,acoustic,0.447,0.158,0.142,0.872,140.942
+165,Rise,Eddie Vedder,acoustic,0.401,0.58,0.526,0.906,173.277
+166,World Spins Madly On,The Weepies;Deb Talan;Steve Tannen,acoustic,0.502,0.311,0.4,0.617,107.612
+167,Stumble,Freddie King,acoustic,0.678,0.612,0.857,0.1,118.381
+168,Paradise,Taj Mahal,acoustic,0.65,0.406,0.862,0.568,79.642
+169,"Moonlight, Mistletoe & You",Keb' Mo';Gerald Albright,acoustic,0.649,0.399,0.342,0.184,97.498
+170,ひまわりの約束,Motohiro Hata,acoustic,0.523,0.445,0.336,0.188,78.957
+171,Since U Been Gone - Acoustic Version,Thomas Daniel,acoustic,0.538,0.162,0.366,0.847,94.981
+172,"One more time,One more chance",Masayoshi Yamazaki,acoustic,0.519,0.429,0.396,0.658,129.491
+173,Creep,Kina Grannis,acoustic,0.585,0.103,0.179,0.801,133.057
+174,Higher Love,Todd Carey;Ariza;Chuck Leavell,acoustic,0.578,0.763,0.394,0.0916,96.808
+175,Hyouriittai,YUZU,acoustic,0.223,0.891,0.333,0.325,159.888
+176,How Long Will I Love You,Canyon City,acoustic,0.382,0.157,0.224,0.878,136.11
+177,Binibini,Zack Tabudlo,acoustic,0.642,0.374,0.0979,0.423,129.863
+178,You Were Supposed to Be Different,Aron Wright,acoustic,0.436,0.239,0.137,0.861,73.761
+179,Thinking out Loud,Boyce Avenue,acoustic,0.702,0.326,0.628,0.705,79.904
+180,Perfect / Style,Jonah Baker,acoustic,0.593,0.292,0.375,0.828,111.121
+181,Poison & Wine,The Civil Wars,acoustic,0.285,0.186,0.203,0.76,153.848
+182,You And I,Ingrid Michaelson,acoustic,0.698,0.285,0.53,0.927,135.027
+183,Give Me Your Forever (ft. Billkin),Zack Tabudlo;Billkin,acoustic,0.601,0.439,0.275,0.0642,99.976
+184,Breathe (2 AM),Anna Nalick,acoustic,0.386,0.452,0.287,0.417,169.837
+185,Habang Buhay,Zack Tabudlo,acoustic,0.62,0.668,0.183,0.088,118.013
+186,Beautiful Soul,Jonah Baker,acoustic,0.394,0.281,0.485,0.826,90.044
+187,Bulletproof,Ben Woodward,acoustic,0.59,0.552,0.635,0.654,155.101
+188,Spectrum,Andrew Belle,acoustic,0.539,0.717,0.212,0.000298,117.973
+189,Girls Like You - Acoustic Version,Jonah Baker,acoustic,0.543,0.138,0.3,0.791,115.65
+190,Nangangamba,Zack Tabudlo,acoustic,0.62,0.547,0.208,0.112,98.032
+191,Better Together,Us The Duo,acoustic,0.761,0.311,0.553,0.647,109.891
+192,Heartbreak Anniversary,Andrew Foy;Renee Foy,acoustic,0.674,0.122,0.339,0.882,130.014
+193,One More Time Around,Tyler Ward;Karis;Ray Lorraine,acoustic,0.429,0.358,0.187,0.614,134.279
+194,Heart Can’t Lose,Zack Tabudlo,acoustic,0.647,0.567,0.374,0.0318,125.871
+195,I Ain't Ever Loved No One - Acoustic,Donovan Woods;Tenille Townes,acoustic,0.322,0.213,0.16,0.611,160.389
+196,Empty,Ray LaMontagne,acoustic,0.482,0.381,0.42,0.455,81.712
+197,"See You Again, Love Me Like You Do, Sugar - Acoustic Mashup",Megan Davies,acoustic,0.393,0.207,0.262,0.877,163.99
+198,The Reason,Tim Halperin,acoustic,0.423,0.207,0.209,0.887,149.664
+199,Fix You,Canyon City,acoustic,0.522,0.152,0.133,0.788,144.055
+200,Hand to Hold,JJ Heller,acoustic,0.547,0.313,0.261,0.612,133.737
+201,Hold You in My Arms,Ray LaMontagne,acoustic,0.504,0.321,0.577,0.149,170.134
+202,One Last Dance,Us The Duo,acoustic,0.466,0.161,0.171,0.979,139.167
+203,Heaven,Boyce Avenue;Megan Nicole,acoustic,0.619,0.28,0.292,0.73,129.948
+204,The Spark - Bonus Track,Joshua Hyslop,acoustic,0.596,0.429,0.229,0.775,148.086
+205,American Beauty,Drew Holcomb & The Neighbors,acoustic,0.645,0.169,0.178,0.844,167.826
+206,Such A Simple Thing,Ray LaMontagne,acoustic,0.522,0.256,0.13,0.86,76.349
+207,Colors,Amos Lee,acoustic,0.681,0.168,0.29,0.793,128.615
+208,Someone You Loved,Boyce Avenue,acoustic,0.736,0.364,0.371,0.741,110.023
+209,More Than Friends (feat. Meghan Trainor),Jason Mraz;Meghan Trainor,acoustic,0.451,0.528,0.527,0.366,139.28
+210,Flurry Rush,Days N Daze,acoustic,0.371,0.674,0.92,0.169,87.603
+211,I Choose You,Sara Bareilles,acoustic,0.731,0.572,0.947,0.105,154.038
+212,I Do Adore,Mindy Gledhill,acoustic,0.69,0.334,0.8,0.947,74.721
+213,I'll Be Home For Christmas,Dave Barnes,acoustic,0.594,0.307,0.24,0.796,94.026
+214,Fuck You,Get Dead,acoustic,0.608,0.917,0.936,0.236,117.875
+215,Christmas Comes But Once A Year,Albert King,acoustic,0.687,0.494,0.621,0.324,93.269
+216,If I Ain't Got You - Acoustic,John Adams,acoustic,0.652,0.15,0.361,0.923,104.018
+217,Believe - Acoustic,John Adams,acoustic,0.765,0.241,0.182,0.873,123.95
+218,Iris - Acoustic,Adam Christopher,acoustic,0.589,0.249,0.363,0.717,150.096
+219,Rain - Long Ver.,Motohiro Hata,acoustic,0.588,0.604,0.351,0.343,92.02
+220,C'est si bon,Aoi Teshima,acoustic,0.735,0.203,0.479,0.854,113.913
+221,Baby (Acoustic Version),Jonah Baker,acoustic,0.655,0.147,0.328,0.88,116.103
+222,Reason,YUZU,acoustic,0.363,0.819,0.468,0.0591,122.527
+223,I Like Me Better,Boyce Avenue;Emma Heesters,acoustic,0.473,0.263,0.315,0.814,87.145
+224,Asan Ka Na Ba,Zack Tabudlo,acoustic,0.676,0.768,0.493,0.149,105.999
+225,A Thousand Years,Boyce Avenue,acoustic,0.41,0.221,0.228,0.768,139.529
+226,drivers license,Thomas Daniel,acoustic,0.439,0.217,0.373,0.933,144.413
+227,Love Someone,Jason Mraz,acoustic,0.582,0.347,0.0797,0.317,97.957
+228,The Winner Takes It All - Acoustic,Jae Hall,acoustic,0.426,0.127,0.149,0.863,62.535
+229,Only Time,Aaron Espe,acoustic,0.696,0.261,0.361,0.737,136.053
+230,Almost Lover,A Fine Frenzy,acoustic,0.549,0.24,0.167,0.947,119.58
+231,Dance Monkey,Roses & Frey,acoustic,0.541,0.192,0.317,0.893,139.938
+232,Ocean,Parachute,acoustic,0.662,0.711,0.352,0.0686,119.989
+233,Dream a Little Dream of Me,Kina Grannis,acoustic,0.665,0.185,0.458,0.913,82.474
+234,Back For Good,The Mayries,acoustic,0.591,0.175,0.352,0.927,139.902
+235,OK,Canyon City,acoustic,0.489,0.183,0.486,0.907,79.961
+236,Just The Two Of Us,Andrew Foy;Renee Foy,acoustic,0.618,0.083,0.597,0.745,90.865
+237,Hey There Delilah,Boyce Avenue,acoustic,0.664,0.319,0.258,0.862,105.036
+238,Arcade,Andrew Foy;Renee Foy,acoustic,0.408,0.266,0.35,0.875,143.651
+239,Yellow,Kina Grannis,acoustic,0.623,0.132,0.266,0.893,82.105
+240,Wake Me Up,Roses & Frey,acoustic,0.494,0.214,0.35,0.92,125.981
+241,Walking Blind,Aidan Hawken,acoustic,0.374,0.183,0.134,0.897,82.042
+242,Headphones,Jon Bryant,acoustic,0.559,0.455,0.396,0.421,159.985
+243,Teenage Dream,The Rescues,acoustic,0.642,0.408,0.411,0.729,119.81
+244,The Worth Of The Wait,Ivan & Alyosha,acoustic,0.48,0.618,0.344,0.844,82.051
+245,Can't Help Falling In Love - Piano Version,Kina Grannis,acoustic,0.271,0.0937,0.147,0.939,164.721
+246,Never Come Back Again,Austin Plaine,acoustic,0.594,0.695,0.172,0.19,104.977
+247,Love You To Death,Chord Overstreet,acoustic,0.574,0.344,0.0987,0.421,147.924
+248,Someone You Loved - Acoustic,Plamina,acoustic,0.647,0.298,0.31,0.861,106.244
+249,What a Wonderful World,Kina Grannis;Imaginary Future,acoustic,0.486,0.0399,0.155,0.953,95.066
+250,You Broke Me First,Andrew Foy;Renee Foy,acoustic,0.734,0.0423,0.14,0.916,123.905
+251,Long Way Down,Joshua Hyslop,acoustic,0.711,0.231,0.186,0.832,125.062
+252,She Is Love,Parachute,acoustic,0.629,0.174,0.305,0.616,134.295
+253,Marigold,Phillip LaRue,acoustic,0.615,0.406,0.541,0.541,166.035
+254,12:51,krissy & ericka,acoustic,0.503,0.357,0.438,0.727,136.135
+255,サンサーラ,Takehara Pistol,acoustic,0.45,0.183,0.219,0.762,61.192
+256,Sons and Daughters,Allman Brown;Liz Lawrence,acoustic,0.525,0.461,0.202,0.775,147.997
+257,Brand New,Ben Rector,acoustic,0.555,0.934,0.422,0.00268,144.874
+258,Gotta Have You,The Weepies;Deb Talan;Steve Tannen,acoustic,0.678,0.363,0.543,0.872,75.004
+259,"30,000 Feet",Ben Rector,acoustic,0.555,0.452,0.321,0.694,179.921
+260,A Thousand Years,Eddy Tyler,acoustic,0.586,0.396,0.16,0.896,142.591
+261,Jolene,Ray LaMontagne,acoustic,0.588,0.142,0.288,0.863,119.656
+262,No Ceiling,Eddie Vedder,acoustic,0.724,0.652,0.75,0.46,106.911
+263,Front Porch,Joy Williams,acoustic,0.567,0.224,0.2,0.887,124.44
+264,Goodbye Lulu,Days N Daze,acoustic,0.544,0.839,0.967,0.784,87.609
+265,Three More Days,Ray LaMontagne,acoustic,0.555,0.68,0.903,0.126,84.518
+266,Isn't She Lovely - Acoustic,Callum J Wright,acoustic,0.69,0.306,0.424,0.805,115.671
+267,We Could Still Be Happy,Rachael Yamagata,acoustic,0.513,0.317,0.177,0.365,84.853
+268,Fix You - Acoustic,John Adams,acoustic,0.494,0.152,0.304,0.947,134.178
+269,I'm Yours - Acoustic,Lusaint,acoustic,0.634,0.267,0.391,0.841,143.514
+270,Closer,Boyce Avenue;Sarah Hyland,acoustic,0.694,0.471,0.466,0.411,95.003
+271,A Sky Full of Stars,Mother's Daughter;Beck Pete,acoustic,0.643,0.11,0.152,0.876,101.995
+272,I Don't Believe in Satan,Aron Wright,acoustic,0.422,0.41,0.354,0.00855,83.952
+273,Pills,The Perishers,acoustic,0.543,0.288,0.293,0.667,95.435
+274,Shallow - Acoustic,Tyler Ward;Madysyn,acoustic,0.332,0.282,0.234,0.825,187.057
+275,Watermelon Sugar - Acoustic,Jonah Baker,acoustic,0.43,0.121,0.461,0.908,91.211
+276,Say You Won't Let Go - Acoustic,Matt Johnson;Jaclyn Davies,acoustic,0.432,0.197,0.348,0.87,163.985
+277,Call You Mine (Acoustic Piano),Ben Woodward,acoustic,0.733,0.297,0.766,0.935,103.953
+278,For Now,Kina Grannis,acoustic,0.394,0.249,0.329,0.927,79.549
+279,Sweet Dream,Greg Laswell,acoustic,0.41,0.234,0.19,0.798,93.72
+280,Love Nwantiti,Andrew Foy,acoustic,0.48,0.158,0.498,0.809,86.107
+281,Stars Are on Your Side,Ross Copperman,acoustic,0.255,0.625,0.191,0.63,84.611
+282,We Don't Talk Anymore / Cold (feat. Sara Phillips),Jonah Baker;Sara Phillips,acoustic,0.524,0.328,0.599,0.817,99.941
+283,Superman,Joe Brooks,acoustic,0.464,0.653,0.416,0.199,162.196
+284,Chasing Cars,Boyce Avenue,acoustic,0.659,0.331,0.0877,0.809,105.01
+285,Calm Me Down,Zack Tabudlo,acoustic,0.592,0.49,0.437,0.395,99.994
+286,KISSして,Masaharu Fukuyama,acoustic,0.467,0.851,0.644,0.000353,93.873
+287,Binibini (Last Day On Earth) (feat. James TW),Zack Tabudlo;James TW,acoustic,0.564,0.391,0.101,0.478,130.03
+288,Left for America,Ciaran Lavery,acoustic,0.498,0.384,0.25,0.818,79.856
+289,Ramparts,John Frusciante,acoustic,0.386,0.428,0.73,0.951,172.311
+290,Hold On - Acoustic,Chord Overstreet,acoustic,0.702,0.259,0.246,0.878,120.102
+291,Dust to Dust,The Civil Wars,acoustic,0.747,0.265,0.2,0.745,138.017
+292,Good night,Masaharu Fukuyama,acoustic,0.522,0.498,0.221,0.0758,145.908
+293,As You Are,Zack Tabudlo,acoustic,0.715,0.438,0.447,0.353,81.07
+294,It Aint Me,Sara Farell,acoustic,0.354,0.415,0.421,0.797,175.537
+295,The Lotto,Ingrid Michaelson;AJR,acoustic,0.687,0.748,0.872,0.24,88.944
+296,Tamacun,Rodrigo y Gabriela,acoustic,0.588,0.914,0.971,0.832,128.553
+297,Make It Without You,Andrew Belle,acoustic,0.456,0.205,0.161,0.92,117.663
+298,Dream,Priscilla Ahn,acoustic,0.512,0.248,0.158,0.75,109.692
+299,"Big Love, Small Moments",JJ Heller,acoustic,0.582,0.282,0.278,0.793,118.019
+300,I Am Not Alone,Priscilla Ahn,acoustic,0.568,0.18,0.228,0.758,112.033
+301,Stand Your Ground,Joshua Hyslop,acoustic,0.71,0.271,0.686,0.658,131.88
+302,Perfect Man,Front Porch Step,acoustic,0.574,0.704,0.338,0.0931,117.086
+303,あ。っという間はあるさ,Takehara Pistol,acoustic,0.64,0.895,0.94,0.273,115.941
+304,Tell The World,Eric Hutchinson,acoustic,0.669,0.854,0.706,0.0653,120.035
+305,Ain't No Reason,Brett Dennen,acoustic,0.615,0.358,0.432,0.705,146.06
+306,A Month from Now,Rail Yard Ghosts,acoustic,0.415,0.619,0.739,0.946,77.009
+307,What If,Five For Fighting,acoustic,0.565,0.895,0.592,0.194,149.919
+308,Pussy Cat,The Bridge City Sinners,acoustic,0.586,0.702,0.644,0.59,177.598
+309,Polaroid Picture,Frank Turner,acoustic,0.564,0.604,0.341,0.0287,113.091
+310,I Bet On Flying High,Matt Costa,acoustic,0.543,0.359,0.346,0.651,109.735
+311,Mirrors - Acoustic,Jonah Baker,acoustic,0.638,0.287,0.445,0.81,128.025
+312,To the Wonder (feat. Kina Grannis),Aqualung;Kina Grannis,acoustic,0.515,0.46,0.259,0.891,140.067
+313,Stay - Acoustic,Jonah Baker,acoustic,0.622,0.221,0.297,0.901,131.827
+314,太陽さん,Ichiko Aoba,acoustic,0.44,0.0353,0.362,0.99,181.988
+315,Oh What A Love,Kina Grannis,acoustic,0.457,0.064,0.0647,0.941,147.824
+316,Leave The Lights On,Meiko,acoustic,0.649,0.821,0.661,0.0302,121.938
+317,I Won't Let You Down,Erin McCarley,acoustic,0.495,0.329,0.0919,0.652,72.992
+318,Look For The Good (Single Version),Jason Mraz,acoustic,0.71,0.615,0.746,0.0384,90.263
+319,Stargazing,Isabella Celander,acoustic,0.69,0.204,0.525,0.932,139.587
+320,Bad Liar,Roses & Frey,acoustic,0.596,0.195,0.176,0.926,82.114
+321,Is It You,Rachael Yamagata,acoustic,0.66,0.743,0.445,0.0329,130.025
+322,Slow Down Time,Us The Duo,acoustic,0.733,0.657,0.433,0.013,109.954
+323,2002 - Acoustic,Amber Leigh Irish,acoustic,0.589,0.296,0.611,0.842,165.799
+324,Sweeter,Jess Penner,acoustic,0.686,0.377,0.551,0.638,92.042
+325,Heat Waves - Acoustic,Daniel Robinson,acoustic,0.659,0.338,0.495,0.842,145.877
+326,アジアの純真,Yosui Inoue;Tamio Okuda,acoustic,0.732,0.83,0.871,0.201,111.664
+327,If the World Was Ending - Acoustic,Jonah Baker;Celine,acoustic,0.522,0.202,0.457,0.918,147.992
+328,Comes And Goes (In Waves),Greg Laswell,acoustic,0.565,0.698,0.155,0.54,120.013
+329,ながれ星,Masaharu Fukuyama,acoustic,0.474,0.408,0.238,0.603,143.881
+330,Dusk Till Dawn - Acoustic,Blame Jones,acoustic,0.543,0.244,0.29,0.864,126.341
+331,Don't Wanna Leave You,Ben Woodward,acoustic,0.672,0.644,0.549,0.795,148.135
+332,Passenger Seat,Stephen Speaks,acoustic,0.515,0.769,0.644,0.0456,153.046
+333,Love,Matt White,acoustic,0.759,0.684,0.759,0.269,107.948
+334,Hallelujah,Boyce Avenue,acoustic,0.62,0.21,0.163,0.911,98.558
+335,Ashes,Madi Diaz,acoustic,0.497,0.254,0.0676,0.891,110.864
+336,明日の☆SHOW,Masaharu Fukuyama,acoustic,0.644,0.603,0.516,0.306,113.413
+337,Love Me Like You Do,Boyce Avenue,acoustic,0.45,0.254,0.248,0.827,92.644
+338,Lost Sparks,Canyon City,acoustic,0.548,0.3,0.264,0.757,135.902
+339,Who We Are,Tristan Prettyman,acoustic,0.521,0.507,0.153,0.0162,108.168
+340,Heart (Original Version),Masaharu Fukuyama,acoustic,0.587,0.842,0.693,0.278,97.013
+341,It'll Be Alright,JJ Heller,acoustic,0.543,0.324,0.181,0.452,139.883
+342,Everybody,Ingrid Michaelson,acoustic,0.742,0.636,0.48,0.446,95.002
+343,Kabilugan Ng Buwan,Mark Oblea,acoustic,0.707,0.402,0.313,0.677,94.99
+344,Keep Breathing,Ingrid Michaelson,acoustic,0.52,0.308,0.187,0.776,125.93
+345,Fast Car,Boyce Avenue;Kina Grannis,acoustic,0.392,0.251,0.508,0.807,204.961
+346,Just the Way You Are,Boyce Avenue,acoustic,0.531,0.296,0.212,0.84,106.359
+347,The Ladder,Andrew Belle,acoustic,0.681,0.608,0.315,0.62,123.991
+348,HELLO (Original Version),Masaharu Fukuyama,acoustic,0.569,0.861,0.511,0.0425,77.983
+349,接吻,Hanare Gumi,acoustic,0.707,0.296,0.65,0.283,88.006
+350,Can't Keep It Inside,Brett Dennen;Benedict Cumberbatch,acoustic,0.519,0.0646,0.395,0.982,121.696
+351,明日天気になれ,Hanare Gumi,acoustic,0.608,0.705,0.621,0.078,111.204
+352,IT'S ONLY LOVE,Masaharu Fukuyama,acoustic,0.585,0.734,0.413,0.0334,117.84
+353,それがすべてさ,Masaharu Fukuyama,acoustic,0.527,0.89,0.425,0.00433,102.644
+354,I Don't Wanna Love Somebody Else,A Great Big World,acoustic,0.495,0.22,0.345,0.847,126.618
+355,Burn It All!,RENT STRIKE,acoustic,0.628,0.424,0.157,0.395,99.696
+356,Carried Me With You,Brandi Carlile,acoustic,0.639,0.666,0.372,0.271,98.384
+357,"O, Pennsyltucky!",Mischief Brew,acoustic,0.245,0.624,0.462,0.11,162.586
+358,"I Believed You, William Blake",Frank Turner,acoustic,0.387,0.526,0.334,0.244,130.719
+359,Pepperspray,Get Dead,acoustic,0.539,0.675,0.719,0.188,142.041
+360,Stickup,Get Dead,acoustic,0.487,0.837,0.207,0.0133,160.025
+361,Heaven - Acoustic,Grace George,acoustic,0.529,0.24,0.487,0.938,131.266
+362,Soldier's Eyes,Jack Savoretti,acoustic,0.666,0.289,0.415,0.641,109.965
+363,Asleep Among Endives,Ichiko Aoba,acoustic,0.451,0.0318,0.148,0.983,123.985
+364,Symphony - Acoustic,Thomas Daniel,acoustic,0.359,0.208,0.105,0.943,83.155
+365,When I Was Your Man,Boyce Avenue;Fifth Harmony,acoustic,0.403,0.237,0.163,0.906,144.174
+366,Save Your Tears - Acoustic,Amber Leigh Irish,acoustic,0.693,0.111,0.247,0.937,110.813
+367,Koi,Gen Hoshino,acoustic,0.598,0.819,0.878,0.00081,158.115
+368,July Bones,Richard Walters,acoustic,0.596,0.27,0.155,0.785,100.006
+369,Autumn Breeze,Kaiak;Viktoria Tolstoy,acoustic,0.589,0.334,0.208,0.832,80.036
+370,Save Your Tears,Boyce Avenue,acoustic,0.735,0.275,0.294,0.746,116.004
+371,You're Still The One - Acoustic,Bailey Rushlow,acoustic,0.605,0.168,0.398,0.887,119.836
+372,Somebody Loved,Kina Grannis,acoustic,0.612,0.107,0.637,0.936,78.393
+373,Rise,Boyce Avenue,acoustic,0.568,0.177,0.354,0.93,103.822
+374,Bohemian Rhapsody - Acoustic,John Adams,acoustic,0.451,0.0665,0.349,0.967,64.289
+375,As It Was - Acoustic,Amber Leigh Irish,acoustic,0.595,0.0477,0.513,0.923,118.162
+376,Wish List,Canyon City,acoustic,0.307,0.11,0.32,0.733,201.008
+377,Beautiful Disaster,Chord Overstreet,acoustic,0.3,0.27,0.214,0.9,144.589
+378,Fake a smile,Wayne Mack,acoustic,0.731,0.191,0.274,0.735,149.91
+379,Marigold,Aimyon,acoustic,0.545,0.745,0.413,0.0452,106.094
+380,River Flows In You,Sungha Jung,acoustic,0.356,0.23,0.11,0.923,129.532
+381,Kill Me Pretty,Tamio Okuda,acoustic,0.432,0.796,0.271,0.000153,141.868
+382,No Matter Where You Are,Us The Duo,acoustic,0.693,0.664,0.436,0.0309,132.059
+383,I Like You,Ben Rector,acoustic,0.624,0.334,0.397,0.321,157.92
+384,The Mess I Made,Parachute,acoustic,0.423,0.572,0.17,0.0158,165.394
+385,Dream a Little Dream of Me,Zee Avi,acoustic,0.555,0.0879,0.428,0.968,84.174
+386,"Here, Right Now",Joshua Radin,acoustic,0.496,0.391,0.492,0.826,108.868
+387,Wonderful Tonight,Boyce Avenue,acoustic,0.671,0.299,0.286,0.753,95.008
+388,Salvation,Gabrielle Aplin,acoustic,0.379,0.267,0.229,0.605,135.198
+389,Wilderness,Jon Bryant,acoustic,0.499,0.209,0.138,0.882,82.892
+390,恋人 (Original Version),Masaharu Fukuyama,acoustic,0.649,0.336,0.47,0.27,71.967
+391,I Just Called To Say I Love You,Bailey Pelkman;Randy Rektor,acoustic,0.746,0.257,0.348,0.772,132.032
+392,Fall on Me,A Great Big World;Christina Aguilera,acoustic,0.393,0.268,0.225,0.697,110.456
+393,Song To Sing When I'm Lonely,John Frusciante,acoustic,0.629,0.673,0.419,0.294,114.243
+394,Have Yourself a Merry Little Christmas,Tres Hermanas,acoustic,0.452,0.268,0.265,0.961,66.805
+395,Message (Original Version),Masaharu Fukuyama,acoustic,0.616,0.791,0.589,0.0599,126.764
+396,Beautiful In White,Matt Johnson,acoustic,0.619,0.278,0.233,0.836,129.948
+397,Heaven Is a Place on Earth,The Mayries,acoustic,0.634,0.176,0.335,0.931,107.974
+398,Passenger Seat (Acoustic),Stephen Speaks,acoustic,0.549,0.437,0.688,0.682,153.604
+399,Guaranteed - Humming Version,Eddie Vedder,acoustic,0.292,0.339,0.343,0.923,100.69
+400,"Hang Me, Oh Hang Me",Dave Van Ronk,acoustic,0.504,0.0273,0.395,0.931,120.24
+401,The Afterglow,John Frusciante;Josh Klinghoffer,acoustic,0.636,0.869,0.369,0.129,124.183
+402,Eat the Meek,Frank Turner,acoustic,0.486,0.913,0.334,2.45e-05,136.073
+403,The Trouble with Wanting,Joy Williams,acoustic,0.396,0.198,0.19,0.912,138.624
+404,You Are the Best Thing,Ray LaMontagne,acoustic,0.578,0.727,0.885,0.0304,170.593
+405,Boycott Me!,Mischief Brew,acoustic,0.684,0.509,0.69,0.571,132.297
+406,To Risk to Live,Days N Daze;Freddie Boatright,acoustic,0.623,0.567,0.929,0.831,129.949
+407,"The Legend of Olog-hai, Pt. 1",The Bridge City Sinners,acoustic,0.228,0.574,0.389,0.517,182.379
+408,No Christmas For Me,Zee Avi,acoustic,0.809,0.313,0.35,0.876,114.955
+409,This One's for Johnny,Get Dead,acoustic,0.482,0.772,0.586,0.0265,129.91
+410,Graveyard - Acoustic,Highland Peak,acoustic,0.425,0.249,0.235,0.87,123.632
+411,bouquet,Ichiko Aoba,acoustic,0.298,0.044,0.115,0.983,85.708
+412,こころをこめて,Aoi Teshima,acoustic,0.468,0.254,0.242,0.938,135.862
+413,Paradise,AcousticTrench,acoustic,0.507,0.191,0.221,0.99,132.131
+414,Better,Parachute,acoustic,0.515,0.249,0.213,0.793,108.89
+415,Laid,Matt Nathanson,acoustic,0.565,0.89,0.744,0.00537,119.862
+416,Same For You,Lee DeWyze,acoustic,0.635,0.433,0.489,0.86,130.111
+417,2U - Acoustic Version,Clementine Duo,acoustic,0.657,0.192,0.305,0.894,130.087
+418,Duet,Rachael Yamagata,acoustic,0.459,0.14,0.146,0.895,128.904
+419,I'll Say I Do,Brandon Chase,acoustic,0.391,0.31,0.295,0.614,83.46
+420,Anyone,Bailey Jehl,acoustic,0.371,0.208,0.309,0.912,199.805
+421,Start of Time,Gabrielle Aplin,acoustic,0.453,0.461,0.0844,0.165,106.84
+422,Heat Waves,Bailey Jehl,acoustic,0.706,0.248,0.401,0.879,125.515
+423,There She Goes,Clementine Duo,acoustic,0.724,0.28,0.527,0.755,106.966
+424,Wells,Joshua Hyslop,acoustic,0.535,0.444,0.217,0.669,83.99
+425,God Only Knows,Kina Grannis;Imaginary Future,acoustic,0.658,0.125,0.507,0.877,106.686
+426,Afterglow,Andrew Foy;Renee Foy,acoustic,0.711,0.168,0.299,0.868,109.937
+427,Burn The Rain,Kurt Cobain,acoustic,0.504,0.415,0.626,0.879,114.263
+428,Already Mine,Us The Duo,acoustic,0.309,0.175,0.198,0.913,155.69
+429,きみはぼくのともだち,Hanare Gumi,acoustic,0.628,0.027,0.203,0.944,122.007
+430,Never Be the Same,Gabrielle Aplin,acoustic,0.49,0.674,0.288,0.19,122.807
+431,All Is Well,Austin Basham,acoustic,0.316,0.413,0.245,0.856,155.69
+432,My Mistake,Gabrielle Aplin,acoustic,0.47,0.271,0.0943,0.799,145.902
+433,Near Or Far,Us The Duo,acoustic,0.515,0.317,0.512,0.816,79.91
+434,Without a Light,Drew Holcomb & The Neighbors,acoustic,0.493,0.435,0.485,0.656,87.952
+435,Lonely With Me,Parachute,acoustic,0.589,0.809,0.628,0.0479,87.013
+436,Time After Time,Boyce Avenue;Megan Davies;Jaclyn Davies,acoustic,0.313,0.321,0.243,0.746,53.845
+437,So Are You To Me,Eastmountainsouth,acoustic,0.302,0.0783,0.231,0.956,140.485
+438,My Arms Were Always Around You,Peter Bradley Adams,acoustic,0.643,0.436,0.422,0.724,91.485
+439,Dance Me to the End of Love - Bonus,The Civil Wars,acoustic,0.482,0.178,0.298,0.843,110.128
+440,Photographs,Eddie Vedder,acoustic,0.539,0.353,0.321,0.571,54.571
+441,Baby Now That I Found You,Suy Galvez,acoustic,0.707,0.531,0.49,0.855,107.994
+442,Right Here Waiting,Suy Galvez,acoustic,0.707,0.467,0.478,0.832,110.096
+443,Smokestack Lightnin',Howlin' Wolf,acoustic,0.661,0.342,0.588,0.844,146.118
+444,Feels Like Rain (feat. Bonnie Raitt),Buddy Guy;Bonnie Raitt,acoustic,0.572,0.348,0.34,0.44,73.304
+445,Sugar Babe,Mance Lipscomb,acoustic,0.554,0.4,0.547,0.979,101.191
+446,Blister In The Sun,Violent Femmes,acoustic,0.726,0.537,0.882,0.316,96.889
+447,"Little Blue Pills, Pt. 2",Days N Daze,acoustic,0.501,0.672,0.961,0.674,122.041
+448,Paano Ang Simbang Gabi - Kung 'Di Ka Katabi,Drei Rana;Selena Marie,acoustic,0.505,0.462,0.113,0.623,139.914
+449,Bob,Frank Turner,acoustic,0.415,0.713,0.361,0.0555,83.69
+450,Psycho,Harley Poe,acoustic,0.458,0.823,0.422,0.382,131.638
+451,Perfect Government,Frank Turner,acoustic,0.474,0.876,0.607,0.00277,91.948
+452,The Fear,The Bridge City Sinners,acoustic,0.444,0.674,0.698,0.586,111.377
+453,Living My Best Life,Ben Rector,acoustic,0.566,0.733,0.636,0.083,178.828
+454,Haven't Been Doing So Well,Frank Turner,acoustic,0.367,0.892,0.799,0.00012,81.928
+455,"The Legend of Olog-hai, Pt. 2",The Bridge City Sinners,acoustic,0.258,0.729,0.462,0.395,116.943
+456,You and Me On The Rock (feat. Lucius),Brandi Carlile;Lucius,acoustic,0.568,0.686,0.725,0.15,172.075
+457,Glitch,Get Dead,acoustic,0.571,0.696,0.662,0.14,155.133
+458,A Thousand Years - Acoustic,Jonah Baker,acoustic,0.385,0.114,0.269,0.917,93.314
+459,2 Oceans,Trevor Hall;Marieme,acoustic,0.588,0.569,0.209,0.303,101.988
+460,Golden Hour - Acoustic Piano,Ben Woodward,acoustic,0.276,0.289,0.118,0.968,86.465
+461,Without Me,Brandon Chase,acoustic,0.664,0.301,0.268,0.739,115.877
+462,You & Me (The Wildfire),Aron Wright,acoustic,0.506,0.24,0.0621,0.854,130.96
+463,Dancing With A Stranger,Sara Farell,acoustic,0.595,0.18,0.261,0.89,79.922
+464,Pero,Zack Tabudlo,acoustic,0.644,0.412,0.206,0.796,118.49
+465,Good 4 U (Acoustic),Jonah Baker,acoustic,0.607,0.178,0.422,0.737,127.956
+466,And Then You,Greg Laswell,acoustic,0.63,0.342,0.552,0.817,77.515
+467,Here With Me - Acoustic,Daniel Robinson,acoustic,0.689,0.299,0.52,0.833,96.825
+468,I'll Be There For You (Friends Theme),Boyce Avenue,acoustic,0.473,0.305,0.524,0.833,81.153
+469,So Far so Good,Gabrielle Aplin,acoustic,0.751,0.565,0.679,0.0777,119.996
+470,More Than Gravity,Colin & Caroline,acoustic,0.62,0.468,0.217,0.715,110.969
+471,Fade into You,Andrew Belle,acoustic,0.478,0.398,0.371,0.0222,159.906
+472,東京にもあったんだ,Masaharu Fukuyama,acoustic,0.376,0.702,0.241,0.00373,134.817
+473,あの夏も 海も 空も,Masaharu Fukuyama,acoustic,0.403,0.631,0.328,0.0502,78.522
+474,21 Guns,Bailey Jehl,acoustic,0.44,0.119,0.279,0.927,145.186
+475,Waves,Canyon City,acoustic,0.407,0.357,0.253,0.775,112.207
+476,Running Up That Hill (A Deal With God) - Acoustic,Jonah Baker,acoustic,0.385,0.134,0.427,0.899,203.816
+477,Poison's Gone,Kurt Cobain,acoustic,0.429,0.258,0.0897,0.868,108.796
+478,18 ~eighteen~,Masaharu Fukuyama,acoustic,0.609,0.76,0.44,0.131,117.135
+479,Build Me Up Buttercup,Kina Grannis,acoustic,0.721,0.0963,0.576,0.945,124.868
+480,Umbrella - Acoustic Version,The Mayries,acoustic,0.675,0.278,0.353,0.845,123.962
+481,Home,Gabrielle Aplin,acoustic,0.403,0.29,0.248,0.757,139.482
+482,You're My Home,Joshua Radin,acoustic,0.627,0.518,0.337,0.436,95.991
+483,vs.2013 ~知覚と快楽の螺旋~,Masaharu Fukuyama,acoustic,0.403,0.925,0.543,0.000435,169.978
+484,I Like Me Better,Ysabelle Cuevas,acoustic,0.449,0.209,0.431,0.896,93.618
+485,Something Stupid,Bailey Pelkman;Randy Rektor,acoustic,0.789,0.261,0.491,0.803,117.961
+486,Hanap-Hanap,Ethan Loukas;Janine Teñoso,acoustic,0.663,0.239,0.488,0.827,83.102
+487,The Will To Death,John Frusciante,acoustic,0.498,0.113,0.296,0.691,168.383
+488,Boulevard of Broken Dreams (Acoustic),Adam Christopher,acoustic,0.586,0.149,0.341,0.881,75.121
+489,Eloise,Penny and Sparrow,acoustic,0.606,0.415,0.405,0.695,137.775
+490,Help Me,Sonny Boy Williamson II,acoustic,0.745,0.436,0.771,0.597,114.216
+491,Everytime We Touch (Acoustic),Shannon & Keast,acoustic,0.526,0.139,0.203,0.879,100.852
+492,Let It Be Me,Ray LaMontagne,acoustic,0.614,0.283,0.331,0.472,107.673
+493,Beer,Mia Rollo,acoustic,0.473,0.493,0.54,0.84,169.998
+494,Someone Like You,Boyce Avenue,acoustic,0.439,0.207,0.264,0.608,136.514
+495,You've Got a Friend,Suy Galvez,acoustic,0.665,0.487,0.326,0.639,94.978
+496,This Little Light of Mine,JJ Heller,acoustic,0.534,0.26,0.151,0.834,113.877
+497,Amazing Grace,Takehara Pistol,acoustic,0.457,0.26,0.38,0.0594,106.756
+498,Remnants of What People Used to Be,Days N Daze,acoustic,0.5,0.611,0.894,0.834,88.372
+499,Linda Ronstadt,AJJ,acoustic,0.448,0.516,0.29,0.341,100.672
+500,Unsteady - Acoustic Covers Versions of Popular Songs,SANNA NORTH,acoustic,0.699,0.343,0.383,0.506,114.021
+501,Heart's Content,Brandi Carlile,acoustic,0.564,0.209,0.402,0.724,109.024
+502,The Damned,The Bridge City Sinners,acoustic,0.404,0.577,0.637,0.605,112.215
+503,Hot Knives,Pigeon Pit,acoustic,0.501,0.44,0.311,0.818,89.881
+504,Nickel Plated,Get Dead,acoustic,0.461,0.893,0.4,0.00323,179.92
+505,Peaches - Acoustic,Adam Christopher,acoustic,0.675,0.243,0.707,0.797,142.87
+506,You,A Great Big World,acoustic,0.505,0.31,0.34,0.885,82.591
+507,Swimmers,Andrew Belle,acoustic,0.547,0.599,0.0571,0.00396,120.054
+508,Live Like We're Dying,Kris Allen,acoustic,0.589,0.893,0.94,0.0273,92.011
+509,Somebody That I Used To Know,Lúc,acoustic,0.503,0.123,0.343,0.868,183.571
+510,Lost Without You,Ben Woodward,acoustic,0.611,0.534,0.38,0.423,159.985
+511,"One more time, One more chance",Masayoshi Yamazaki,acoustic,0.55,0.408,0.331,0.719,129.152
+512,you broke me first,The Mayries,acoustic,0.656,0.3,0.369,0.87,120.006
+513,Skylight,Gabrielle Aplin,acoustic,0.524,0.566,0.362,0.0411,159.914
+514,Game of Thrones,Edy Hafler,acoustic,0.34,0.309,0.153,0.855,176.899
+515,Nothing Like You and I,The Perishers,acoustic,0.598,0.291,0.38,0.466,123.978
+516,Wanted Man,Mat Kearney,acoustic,0.514,0.319,0.677,0.805,203.651
+517,Back To You,The Mayries,acoustic,0.448,0.256,0.174,0.875,77.272
+518,何度でも花が咲くように私を生きよう,Masaharu Fukuyama,acoustic,0.441,0.423,0.153,0.839,88.865
+519,Scared to Be Lonely,Boyce Avenue,acoustic,0.636,0.169,0.467,0.887,138.236
+520,Sappy - Early Demo,Kurt Cobain,acoustic,0.445,0.289,0.172,0.437,104.006
+521,Ancient Light,Allman Brown,acoustic,0.435,0.208,0.189,0.647,69.027
+522,I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic Version,Sara Farell;Simon Samaeng,acoustic,0.656,0.349,0.289,0.784,118.026
+523,Before You Go,Andrew Foy;Renee Foy,acoustic,0.609,0.0866,0.411,0.912,167.892
+524,Ships In The Night,Mat Kearney,acoustic,0.448,0.885,0.134,0.111,178.151
+525,Only You,Joshua Radin,acoustic,0.545,0.255,0.831,0.362,98.088
+526,Waver,Sakura Fujiwara,acoustic,0.626,0.682,0.636,0.277,75.02
+527,Missing Peace,JJ Heller,acoustic,0.572,0.317,0.38,0.705,78.009
+528,聖域,Masaharu Fukuyama,acoustic,0.368,0.871,0.636,0.0356,107.721
+529,Firework,Canyon City,acoustic,0.51,0.32,0.425,0.823,92.385
+530,Such A Simple Thing - Recorded at Sound Stage Studios Nashville,Ray LaMontagne,acoustic,0.55,0.334,0.143,0.517,72.235
+531,"Sad Theme (From ""One Punch Man"")",Eddie van der Meer,acoustic,0.487,0.162,0.49,0.933,82.33
+532,Don't Know What I Want,Gabrielle Aplin,acoustic,0.309,0.349,0.192,0.828,180.075
+533,Call Me,Gabrielle Aplin,acoustic,0.38,0.468,0.303,0.243,143.504
+534,True,Suy Galvez,acoustic,0.716,0.525,0.423,0.647,96.993
+535,I Can't Make You Love Me,Boyce Avenue;Rachel Grae,acoustic,0.407,0.222,0.204,0.853,123.618
+536,Say Anything,Tristan Prettyman,acoustic,0.657,0.43,0.335,0.534,91.967
+537,All We Are,Matt Nathanson,acoustic,0.534,0.492,0.328,0.584,82.465
+538,Gentle Heart,Joshua Hyslop,acoustic,0.603,0.374,0.542,0.256,135.946
+539,All My Loving (Original Version),Masaharu Fukuyama,acoustic,0.725,0.746,0.656,0.00721,102.87
+540,アンダルシアに憧れて,Masayoshi Yamazaki,acoustic,0.448,0.755,0.575,0.028,156.045
+541,想 -new love new world-,Masaharu Fukuyama,acoustic,0.595,0.879,0.839,0.0319,124.784
+542,Last Christmas,Drei Rana,acoustic,0.686,0.285,0.672,0.689,103.995
+543,Green Mountain State,Trevor Hall,acoustic,0.693,0.367,0.286,0.351,129.879
+544,Di Papakawalan,Maris Racal,acoustic,0.71,0.402,0.136,0.873,106.024
+545,Can't Go Back Now,The Weepies;Deb Talan;Steve Tannen,acoustic,0.691,0.552,0.685,0.497,119.931
+546,ウイスキーが、お好きでしょ,Hanare Gumi,acoustic,0.642,0.237,0.694,0.724,137.4
+547,Ditches,Days N Daze,acoustic,0.48,0.77,0.744,0.397,126.225
+548,Outside Villanova,Eric Hutchinson,acoustic,0.785,0.732,0.798,0.059,137.946
+549,Timeline,Apes of the State,acoustic,0.668,0.304,0.567,0.811,112.338
+550,I'll Never Fall in Love Again,Gail Blanco,acoustic,0.758,0.406,0.383,0.901,109.984
+551,Stray Cat Strut,The Bridge City Sinners,acoustic,0.49,0.749,0.739,0.389,144.87
+552,Goodbye Lulu Pt.2,Days N Daze,acoustic,0.389,0.864,0.548,0.0362,98.11
+553,Days n Daze of Our Lives,Days N Daze,acoustic,0.387,0.524,0.858,0.777,95.623
+554,8 Track,Get Dead,acoustic,0.408,0.974,0.578,8.77e-05,197.008
+555,Ghost - Acoustic,Jonah Baker,acoustic,0.486,0.0745,0.396,0.922,145.912
+556,4am,Eden Elf;Ren Avel,acoustic,0.638,0.329,0.475,0.979,94.125
+557,"10,000 Hours - Acoustic",Adam Christopher;Dan Berk,acoustic,0.522,0.382,0.519,0.389,169.861
+558,Yellow - Acoustic,Amber Leigh Irish,acoustic,0.49,0.204,0.373,0.901,167.573
+559,No Air,Lúc,acoustic,0.674,0.116,0.21,0.862,129.976
+560,Self Help,Anna Hamilton,acoustic,0.778,0.445,0.502,0.45,130.01
+561,Blackbird Song,Lee DeWyze,acoustic,0.259,0.195,0.183,0.264,146.011
+562,Easy On Me - Acoustic,Jonah Baker,acoustic,0.408,0.095,0.357,0.948,137.546
+563,Chasing Cars - Acoustic,Bailey Rushlow,acoustic,0.663,0.26,0.243,0.865,107.931
+564,Can't Take My Eyes Off of You,Emilie Mover,acoustic,0.625,0.818,0.307,0.0516,123.905
+565,Fortune - Acoustic,William Fitzsimmons,acoustic,0.529,0.0546,0.517,0.924,78.451
+566,Lot To Learn,Vivid Color,acoustic,0.57,0.468,0.335,0.758,137.855
+567,Apologize,Bailey Jehl,acoustic,0.566,0.168,0.238,0.812,116.286
+568,First & Last,Zack Tabudlo,acoustic,0.598,0.249,0.292,0.194,113.829
+569,"Cold, Cold Feeling",Albert Collins,acoustic,0.713,0.281,0.397,0.137,148.301
+570,Sweet Love,Phillip LaRue,acoustic,0.547,0.328,0.186,0.163,139.959
+571,Shotgun,Us The Duo,acoustic,0.806,0.263,0.868,0.787,115.854
+572,HEY!,Masaharu Fukuyama,acoustic,0.548,0.889,0.789,0.0324,95.289
+573,Trouble Sleeping,The Perishers,acoustic,0.428,0.813,0.347,0.0622,91.053
+574,Beautiful Disaster,Jon McLaughlin,acoustic,0.432,0.664,0.294,0.215,156.216
+575,Breathe Again,Sara Bareilles,acoustic,0.366,0.482,0.278,0.288,169.677
+576,Trouble,Ray LaMontagne,acoustic,0.325,0.424,0.494,0.341,173.352
+577,Memories,Boyce Avenue,acoustic,0.46,0.195,0.384,0.867,176.119
+578,Sink Or Swim,Tyrone Wells,acoustic,0.613,0.812,0.394,0.259,119.979
+579,Tama Na,EJ De Perio,acoustic,0.492,0.33,0.109,0.266,132.005
+580,"He's A Pirate (From ""Pirates of the Caribbean"")",Beyond The Guitar,acoustic,0.57,0.454,0.381,0.881,101.476
+581,能古島の片想い - Remastered 2018,Yosui Inoue,acoustic,0.494,0.465,0.275,0.705,132.501
+582,Bitter Heart,Zee Avi,acoustic,0.74,0.377,0.408,0.65,78.988
+583,I Want to Know What Love Is - Acoustic,Hannah's Yard,acoustic,0.49,0.263,0.361,0.92,73.834
+584,ハンキーパンキー,Hanare Gumi,acoustic,0.465,0.211,0.256,0.812,83.257
+585,Ordinary Days,JJ Heller,acoustic,0.477,0.34,0.261,0.849,173.86
+586,Moon River,JJ Heller,acoustic,0.411,0.191,0.155,0.916,74.92
+587,Forever Like That,Ben Rector,acoustic,0.592,0.304,0.307,0.564,114.72
+588,Neighbor,JJ Heller,acoustic,0.439,0.292,0.153,0.744,82.222
+589,一等賞,Takehara Pistol,acoustic,0.659,0.83,0.937,0.588,127.014
+590,音タイム,Hanare Gumi,acoustic,0.373,0.716,0.374,0.082,134.764
+591,The Joke,Brandi Carlile,acoustic,0.236,0.578,0.227,0.327,75.367
+592,Toulumne,Eddie Vedder,acoustic,0.337,0.287,0.393,0.898,107.031
+593,Just The Two Of Us - Acoustic,Vendredi;Son&Dad,acoustic,0.462,0.424,0.564,0.883,97.675
+594,Arrythmic Palpitations,Chris Cresswell,acoustic,0.51,0.485,0.451,0.612,154.97
+595,The Boat,Chuck Ragan,acoustic,0.56,0.755,0.491,0.286,147.138
+596,Born Under A Bad Sign - Mono Mix,Albert King,acoustic,0.711,0.483,0.884,0.434,91.652
+597,Nobody Knows Me At All,The Weepies;Deb Talan;Steve Tannen,acoustic,0.759,0.159,0.329,0.957,115.945
+598,Bitter Morning Taste,Tim Vantol,acoustic,0.38,0.396,0.192,0.202,103.621
+599,DBS Out,Days N Daze,acoustic,0.598,0.599,0.94,0.326,90.206
+600,Crazy - (Acoustic Mix),Vendredi;Son&Dad,acoustic,0.651,0.425,0.302,0.879,104.819
+601,Dungeon Song,The Bridge City Sinners,acoustic,0.306,0.948,0.903,0.64,135.76
+602,Can I Sleep On Your Floor??,Chad Hates George,acoustic,0.469,0.457,0.893,0.692,84.064
+603,Josephine,Frank Turner,acoustic,0.442,0.898,0.446,0.000158,144.299
+604,いきのこり●ぼくら,Ichiko Aoba,acoustic,0.592,0.0833,0.205,0.946,143.243
+605,Careless Whisper,Boyce Avenue,acoustic,0.698,0.389,0.704,0.885,76.897
+606,Look After You,Aron Wright,acoustic,0.396,0.293,0.199,0.732,145.556
+607,Perfect,Acoustic Guitar Collective,acoustic,0.559,0.118,0.289,0.979,97.1
+608,When the Party's Over,Kina Grannis,acoustic,0.52,0.171,0.23,0.853,123.565
+609,Longest Night,Howie Day,acoustic,0.231,0.636,0.244,0.00402,202.098
+610,Photograph,Andrew Foy;Renee Foy,acoustic,0.807,0.0459,0.275,0.852,110.512
+611,Shame,Ciaran Lavery,acoustic,0.619,0.299,0.31,0.846,115.405
+612,Iris,Bailey Jehl,acoustic,0.605,0.316,0.344,0.869,134.054
+613,Running Wild,Jules Larson,acoustic,0.529,0.663,0.223,0.368,96.991
+614,彼方で,Masaharu Fukuyama,acoustic,0.459,0.57,0.361,0.199,72.978
+615,Hazy (Featuring William Fitzsimmons),Rosi Golan,acoustic,0.515,0.0686,0.33,0.936,113.185
+616,Let It Go,Colin & Caroline,acoustic,0.46,0.319,0.329,0.861,145.765
+617,I Wanna Be Your Ghost (feat. Ghosts),Gen Hoshino,acoustic,0.829,0.751,0.96,0.0142,129.993
+618,約束の丘,Masaharu Fukuyama,acoustic,0.524,0.852,0.635,0.0159,92.748
+619,Young And In Love,Ingrid Michaelson,acoustic,0.626,0.575,0.222,0.0694,119.97
+620,No Plans,Jason Mraz,acoustic,0.491,0.304,0.459,0.5,149.288
+621,Easy on Me,Boyce Avenue,acoustic,0.586,0.514,0.27,0.56,142.021
+622,Tonight You Belong To Me,Eddie Vedder;Cat Power,acoustic,0.653,0.174,0.611,0.991,138.981
+623,Closer,Ysabelle Cuevas,acoustic,0.558,0.172,0.518,0.874,90.146
+624,One Last Breath,Boyce Avenue,acoustic,0.45,0.335,0.166,0.788,125.484
+625,Devil's Backbone,The Civil Wars,acoustic,0.254,0.349,0.303,0.85,170.214
+626,Waltzing Matilda,Will Moore,acoustic,0.625,0.285,0.173,0.897,141.611
+627,Girls Chase Boys,Ingrid Michaelson,acoustic,0.518,0.828,0.69,0.03,84.835
+628,The Woman I Love,Jason Mraz,acoustic,0.591,0.647,0.678,0.067,79.68
+629,The Love Me or Die,C.W. Stoneking,acoustic,0.609,0.53,0.919,0.84,150.405
+630,美しき花,Masaharu Fukuyama,acoustic,0.524,0.797,0.766,0.0567,105.901
+631,Isn't She Lovely,Suy Galvez,acoustic,0.71,0.646,0.615,0.789,120.028
+632,世界中の誰よりきっと,Mone Kamishiraishi,acoustic,0.578,0.636,0.556,0.0874,124.9
+633,Black Horse And The Cherry Tree,KT Tunstall,acoustic,0.748,0.786,0.917,0.328,104.833
+634,Drunks,Johnnyswim,acoustic,0.399,0.461,0.205,0.157,96.591
+635,Coming Home,Drew Holcomb;Ellie Holcomb;Drew Holcomb & The Neighbors,acoustic,0.625,0.81,0.741,0.146,104.066
+636,I'm Tore Down,Freddie King,acoustic,0.64,0.496,0.954,0.616,116.632
+637,Neighbor (Piano Version),JJ Heller,acoustic,0.446,0.142,0.192,0.91,115.911
+638,I Will Always Be Yours,Ben Rector,acoustic,0.444,0.771,0.45,0.13,148.028
+639,Nine on the Bortle,Days N Daze,acoustic,0.408,0.685,0.905,0.84,159.831
+640,Redemption,Frank Turner,acoustic,0.658,0.678,0.63,0.00897,131.976
+641,Other Side Of The World,KT Tunstall,acoustic,0.427,0.695,0.368,0.487,160.142
+642,Setting Forth,Eddie Vedder,acoustic,0.549,0.78,0.804,0.0116,119.369
+643,Eulogy,Frank Turner,acoustic,0.284,0.108,0.282,0.674,148.956
+644,Tarnished Ol' Photograph,Days N Daze,acoustic,0.522,0.403,0.621,0.642,123.196
+645,Rocksteady,Marc Broussard,acoustic,0.719,0.849,0.886,0.018,120.063
+646,Come on In,The Bridge City Sinners,acoustic,0.544,0.911,0.851,0.661,114.776
+647,Laugh While You Can,The Bridge City Sinners,acoustic,0.672,0.879,0.74,0.629,119.996
+648,Untainted Love,Frank Turner,acoustic,0.573,0.789,0.332,0.000488,128.077
+649,Whiny Bitch,Harley Poe,acoustic,0.495,0.811,0.9,0.534,173.56
+650,I Wanna See It Burn,Days N Daze;Juicy Karkass,acoustic,0.48,0.6,0.944,0.24,92.545
+651,I'll Be Home for Christmas,Mindy Smith,acoustic,0.57,0.427,0.186,0.368,98.995
+652,It's Amazing,Mindy Smith,acoustic,0.612,0.484,0.254,0.643,138.961
+653,How Far Does the Dark Go?,Anya Marina,acoustic,0.401,0.546,0.15,0.395,89.331
+654,THATS WHAT I WANT (Acoustic),Adam Christopher,acoustic,0.759,0.275,0.457,0.81,73.553
+655,Dynamite - Acoustic,Hannah's Yard,acoustic,0.737,0.391,0.836,0.807,93.936
+656,Never Stop (Wedding Version),SafetySuit,acoustic,0.639,0.439,0.51,0.872,133.87
+657,You're Mine (The Chase),Meiko,acoustic,0.532,0.667,0.67,0.14,144.901
+658,パラレル・ラブ,Yosui Inoue;Tamio Okuda,acoustic,0.656,0.826,0.894,0.00453,117.648
+659,Let Her Go,Boyce Avenue;Hannah Trigwell,acoustic,0.597,0.334,0.342,0.86,134.94
+660,So Are We,Canyon City,acoustic,0.496,0.11,0.235,0.911,145.277
+661,Shallow,Eddy Tyler,acoustic,0.613,0.346,0.128,0.89,95.981
+662,Hold Each Other (feat. Futuristic),A Great Big World;Futuristic,acoustic,0.61,0.796,0.51,0.0365,159.944
+663,別れの予感,Hanare Gumi,acoustic,0.63,0.367,0.547,0.052,98.995
+664,I Was Born To Love You,Ray LaMontagne,acoustic,0.659,0.236,0.216,0.84,78.088
+665,Naked Heart,Aimyon,acoustic,0.559,0.448,0.354,0.537,148.02
+666,Smell the Coffee,Kaiak,acoustic,0.637,0.46,0.345,0.855,93.955
+667,See You Again,Boyce Avenue;Bea Miller,acoustic,0.57,0.413,0.278,0.535,152.032
+668,ゆめのなか,Sakura Fujiwara,acoustic,0.565,0.566,0.551,0.472,92.017
+669,More Than You Know - Acoustic Covers of Popular Songs,Filip Nordin,acoustic,0.776,0.319,0.501,0.791,98.016
+670,Nothing Really Matters,Gabrielle Aplin,acoustic,0.328,0.53,0.753,0.0602,162.031
+671,Don't Wanna Know - Acoustic Version,The Mayries,acoustic,0.438,0.448,0.366,0.706,118.37
+672,Sweetest Thing,Allman Brown,acoustic,0.546,0.411,0.528,0.701,79.785
+673,A Safe Place to Land (feat. John Legend),Sara Bareilles;John Legend,acoustic,0.424,0.253,0.16,0.825,129.812
+674,Your Song,Suy Galvez,acoustic,0.586,0.415,0.704,0.836,140.005
+675,Billie Jean,The Civil Wars,acoustic,0.532,0.203,0.543,0.829,89.646
+676,Cadillac Assembly Line,"Melvin Taylor;Lucky Peterson;Titus Williams;Ray ""Killer"" Allison",acoustic,0.735,0.355,0.724,0.656,93.553
+677,Pirates of the Caribbean Theme,Eddie van der Meer,acoustic,0.315,0.516,0.184,0.859,188.325
+678,全て身に覚えのある痛みだろう?,Takehara Pistol,acoustic,0.625,0.776,0.617,0.0299,88.002
+679,Life Is A Bitch,Luther Allison,acoustic,0.594,0.744,0.778,0.648,102.344
+680,オールドルーキー (再録),Takehara Pistol,acoustic,0.414,0.42,0.376,0.303,97.136
+681,The Past Recedes,John Frusciante,acoustic,0.381,0.334,0.171,0.202,102.632
+682,Laro Laro Laro,Maris Racal,acoustic,0.466,0.14,0.351,0.921,147.328
+683,Stones,Front Porch Step,acoustic,0.636,0.776,0.402,0.00662,95.999
+684,Need You,Penny and Sparrow,acoustic,0.545,0.642,0.555,0.517,78.51
+685,When It's Gone,We The Heathens,acoustic,0.532,0.54,0.765,0.724,169.826
+686,Heaven Sent,Front Porch Step,acoustic,0.615,0.312,0.354,0.727,135.145
+687,Too Much Heaven,Gail Blanco,acoustic,0.664,0.45,0.26,0.781,83.987
+688,Face the Void,Ramshackle Glory,acoustic,0.466,0.421,0.788,0.00798,146.791
+689,V: Fair Trade Death March,RENT STRIKE,acoustic,0.342,0.731,0.665,0.0675,181.81
+690,Fate of a Coward,Days N Daze,acoustic,0.583,0.534,0.943,0.569,123.094
+691,Don't Start Me To Talkin',Sonny Boy Williamson II,acoustic,0.699,0.761,0.706,0.806,115.048
+692,Angel of Death,AJJ,acoustic,0.645,0.626,0.307,0.259,118.585
+693,Bitter Old Man - Live,Ramshackle Glory,acoustic,0.577,0.453,0.51,0.395,132.944
+694,You're a Witch,Harley Poe,acoustic,0.529,0.936,0.849,0.256,91.952
+695,Non Serviam,Frank Turner,acoustic,0.455,0.961,0.417,1.09e-05,95.069
+696,The Gathering,Frank Turner,acoustic,0.455,0.938,0.552,0.0022,143.887
+697,7 Years,Eric Lumiere,acoustic,0.662,0.268,0.394,0.858,111.594
+698,Comfort epershand Control,Days N Daze,acoustic,0.486,0.423,0.75,0.784,127.551
+699,Demons,Frank Turner,acoustic,0.285,0.938,0.286,0.00145,159.017
+700,愛を伝えたいだとか,Aimyon,acoustic,0.673,0.85,0.793,0.0345,100.008
+701,FUSHIGI,Gen Hoshino,acoustic,0.753,0.574,0.527,0.0512,89.024
+702,Bad News Is Coming,Luther Allison,acoustic,0.639,0.496,0.467,0.713,140.394
+703,I Mean Love,Ethan Loukas,acoustic,0.748,0.428,0.565,0.542,115.067
+704,Night Bus,Gabrielle Aplin,acoustic,0.458,0.815,0.362,0.00374,118.226
+705,Dark Matter,Andrew Belle,acoustic,0.483,0.806,0.19,0.0881,147.049
+706,Doraemon,Gen Hoshino,acoustic,0.64,0.547,0.95,0.00676,159.992
+707,Landslide,Carly Lyman;Jason Lux,acoustic,0.483,0.143,0.342,0.958,104.932
+708,I'd Rather Be With You [Radio Edit],Joshua Radin,acoustic,0.512,0.671,0.397,0.0314,82.342
+709,Leave The Door Open - Acoustic,Blame Jones,acoustic,0.817,0.305,0.52,0.874,148.017
+710,Careful,Michelle Featherstone,acoustic,0.505,0.835,0.484,0.46,144.171
+711,Use Somebody - Acoustic,Lusaint,acoustic,0.591,0.269,0.246,0.911,124.441
+712,She Only Lies,Kurt Cobain,acoustic,0.474,0.0699,0.243,0.992,114.606
+713,What About Us - Acoustic,Thomas Daniel,acoustic,0.427,0.229,0.222,0.935,125.195
+714,Hound Dog,Big Mama Thornton,acoustic,0.563,0.542,0.785,0.706,133.285
+715,Turn To Stone,Ingrid Michaelson,acoustic,0.354,0.175,0.323,0.781,111.089
+716,Drawn by the Wind (Arr. for Guitar),Joseph Sullinger,acoustic,0.514,0.239,0.338,0.982,119.998
+717,Don't Shy From The Light,Neulore,acoustic,0.285,0.305,0.0419,0.26,133.513
+718,Memories (Acoustic),Ben Woodward,acoustic,0.802,0.183,0.664,0.809,91.078
+719,She’s The Song,Nathan Angelo,acoustic,0.614,0.517,0.424,0.747,133.868
+720,When You Fall in Love,Andrew Ripp,acoustic,0.63,0.301,0.395,0.877,104.959
+721,I Won’t Give Up,Jason Mraz,acoustic,0.543,0.329,0.141,0.69,136.549
+722,Suitcase,JJ Heller,acoustic,0.397,0.312,0.141,0.772,179.605
+723,Stitches,Filip Nordin,acoustic,0.686,0.347,0.539,0.725,145.837
+724,I 'll Play the Blues for You,"Melvin Taylor;Lucky Peterson;Titus Williams;Ray ""Killer"" Allison",acoustic,0.654,0.316,0.697,0.786,94.485
+725,PRIDE,Mone Kamishiraishi,acoustic,0.747,0.294,0.412,0.956,119.948
+726,The Power of Love,Gabrielle Aplin,acoustic,0.277,0.291,0.175,0.901,75.119
+727,Arms Of A Woman,Amos Lee,acoustic,0.54,0.0674,0.12,0.888,141.988
+728,Seeing Other People,Donovan Woods,acoustic,0.444,0.44,0.339,0.741,76.959
+729,King of Anything,Sara Bareilles,acoustic,0.676,0.762,0.81,0.461,119.003
+730,Lost Cause - Acoustic Covers Versions of Popular Songs,Covers Culture;Acoustic Covers Culture;Lounge Covers Culture Of Popular Songs,acoustic,0.664,0.274,0.392,0.899,75.01
+731,The Weakness in Me,Keisha White,acoustic,0.717,0.436,0.319,0.0569,128.112
+732,Honey,Austin Plaine,acoustic,0.517,0.578,0.398,0.367,138.178
+733,I Like to Be With Me When I'm With You,Drew Holcomb & The Neighbors,acoustic,0.595,0.384,0.691,0.682,90.726
+734,No More - Live,Eddie Vedder,acoustic,0.337,0.605,0.424,0.862,59.327
+735,On & On,Beans on Toast,acoustic,0.746,0.421,0.545,0.409,97.152
+736,A Million Years,Johnnyswim,acoustic,0.71,0.782,0.523,0.0684,123.04
+737,End Of The Road,Eddie Vedder,acoustic,0.585,0.441,0.0591,0.501,114.091
+738,"It Really Sucked, Actually",Not Half Bad,acoustic,0.673,0.637,0.541,0.295,105.043
+739,The Work,Frank Turner,acoustic,0.491,0.913,0.59,1.88e-05,89.987
+740,Trenchfoot,Chuck Ragan,acoustic,0.643,0.407,0.332,0.414,132.449
+741,Unicron,AJJ,acoustic,0.495,0.531,0.827,0.696,155.227
+742,Issues,Violent Femmes,acoustic,0.582,0.541,0.562,0.324,154.871
+743,Darkest Heart,AJJ,acoustic,0.463,0.656,0.798,0.0845,176.907
+744,Letter Home,"Defiance, Ohio",acoustic,0.5,0.764,0.966,0.168,126.899
+745,Control,NORMANDY;Lynn Miller,acoustic,0.709,0.156,0.188,0.924,109.799
+746,Fall Out,Days N Daze,acoustic,0.434,0.832,0.591,0.348,93.674
+747,Roll Me Through the Gates of Hell - Acoustic Version,Mischief Brew,acoustic,0.488,0.627,0.757,0.416,118.434
+748,SUN,Gen Hoshino,acoustic,0.782,0.684,0.858,0.021,108.171
+749,Sweet but Psycho - Acoustic,Parker Jenkins,acoustic,0.664,0.263,0.371,0.814,96.214
+750,I'm the One - Acoustic,Sunset & Highland,acoustic,0.601,0.372,0.444,0.835,146.086
+751,Magic,Gabrielle Aplin,acoustic,0.652,0.586,0.554,0.469,144.031
+752,Lost,Kris Allen,acoustic,0.47,0.292,0.168,0.904,66.109
+753,黄金の月,Shikao Suga,acoustic,0.673,0.658,0.863,0.176,97.989
+754,It Would Be You,Ben Rector,acoustic,0.655,0.587,0.521,0.26,91.494
+755,As It Was - Acoustic Instrumental,Guus Dielissen,acoustic,0.287,0.245,0.624,0.915,84.056
+756,Sweet Child O' Mine - Acoustic,Jae Hall,acoustic,0.456,0.134,0.316,0.976,127.976
+757,Beyond The Sea,Kina Grannis,acoustic,0.676,0.118,0.517,0.935,103.948
+758,Have I Told You Lately That I Love You - Acoustic,John Adams,acoustic,0.58,0.188,0.431,0.935,121.648
+759,Pilots,Andrew Ripp,acoustic,0.809,0.555,0.473,0.481,104.085
+760,さくら - 二〇一九,Naotaro Moriyama,acoustic,0.422,0.248,0.219,0.95,134.042
+761,Homeland,Chord Overstreet,acoustic,0.49,0.456,0.405,0.0156,154.805
+762,The Hardest Thing,Tyler Ward,acoustic,0.605,0.396,0.325,0.387,132.08
+763,Supermarket Flowers,Postcards & Polaroids;Sad Boy,acoustic,0.463,0.156,0.478,0.89,180.191
+764,陽はまた昇る,Yu Takahashi,acoustic,0.532,0.928,0.808,0.108,113.927
+765,Swans,Unkle Bob,acoustic,0.387,0.41,0.149,0.608,117.391
+766,The Greatest Showman - Rewrite The Stars (Acoustic),The Cameron Collective,acoustic,0.758,0.206,0.25,0.628,124.873
+767,Perfect,Boyce Avenue,acoustic,0.631,0.29,0.398,0.857,96.593
+768,A Million Dreams - Acoustic,John Adams,acoustic,0.545,0.169,0.291,0.953,138.199
+769,3636,Aimyon,acoustic,0.579,0.612,0.623,0.702,155.921
+770,君はロックを聴かない,Aimyon,acoustic,0.524,0.687,0.619,0.00135,99.919
+771,Tears In Heaven,Boyce Avenue,acoustic,0.747,0.0926,0.328,0.921,77.94
+772,Paperweight by Joshua Radin and Schuyler Fisk,Joshua Radin,acoustic,0.422,0.119,0.405,0.555,179.844
+773,Meant to Be,JJ Heller,acoustic,0.539,0.356,0.489,0.764,73.703
+774,Paasa,Kurei,acoustic,0.737,0.238,0.234,0.891,119.085
+775,No Matter Where You Are - Wedding Version,Us The Duo,acoustic,0.642,0.15,0.27,0.832,104.978
+776,大安,Hanare Gumi,acoustic,0.731,0.485,0.463,0.284,106.052
+777,Now We're Starting Over Again,Suy Galvez,acoustic,0.587,0.311,0.374,0.817,113.683
+778,In the Morning,JJ Heller,acoustic,0.277,0.198,0.134,0.498,149.937
+779,My Babe,Little Walter,acoustic,0.676,0.334,0.867,0.862,158.0
+780,What a Time to Be Alive,Matt Pless,acoustic,0.673,0.424,0.709,0.3,115.038
+781,The Longer I Run,Peter Bradley Adams,acoustic,0.602,0.52,0.523,0.732,151.912
+782,You're Not Sorry - Acoustic Covers Versions of Popular Songs,Covers Culture;Acoustic Covers Culture;Lounge Covers Culture Of Popular Songs,acoustic,0.582,0.181,0.172,0.821,133.431
+783,"Don't Think Twice, It's All Right - Acoustic",Jay Filson,acoustic,0.489,0.124,0.257,0.952,91.386
+784,Is There Something,Suy Galvez,acoustic,0.696,0.379,0.359,0.772,112.967
+785,Living in the Moment,Jason Mraz,acoustic,0.65,0.628,0.7,0.0483,84.141
+786,Torches Are Calling,Days N Daze,acoustic,0.389,0.494,0.909,0.186,86.872
+787,Close to You,Gail Blanco,acoustic,0.721,0.446,0.542,0.797,118.001
+788,Far Behind,Eddie Vedder,acoustic,0.467,0.855,0.565,0.174,135.813
+789,Protest Songs,Ankle Grease,acoustic,0.37,0.703,0.482,0.366,143.848
+790,White Worms,AJJ,acoustic,0.336,0.761,0.501,0.000546,127.065
+791,Miranda,Frank Turner,acoustic,0.524,0.578,0.29,0.000971,75.032
+792,Linoleum,Frank Turner,acoustic,0.548,0.666,0.582,0.281,98.806
+793,God Gave Me You,Dave Barnes,acoustic,0.459,0.823,0.55,0.00332,152.062
+794,Perfectly Dysfunctional,Days N Daze,acoustic,0.316,0.879,0.647,0.827,88.614
+795,Internet Song,Apes of the State,acoustic,0.741,0.66,0.856,0.521,81.061
+796,Welcome to Hell,Get Dead,acoustic,0.474,0.843,0.901,0.0205,131.992
+797,Pop Virus,Gen Hoshino,acoustic,0.629,0.441,0.782,0.0339,78.177
+798,All Too Well - Jake's Version,John Elliott,acoustic,0.685,0.483,0.331,0.0772,93.032
+799,Dilemma,Brandon Chase;Taylor Manns,acoustic,0.627,0.246,0.52,0.788,141.303
+800,Miss You,Gabrielle Aplin,acoustic,0.592,0.686,0.397,0.178,101.015
+801,Kiss Me,Zak Manley,acoustic,0.663,0.178,0.541,0.676,82.372
+802,Teenage Dream,Sara Farell,acoustic,0.53,0.0776,0.282,0.937,179.911
+803,White,Tim Halperin,acoustic,0.537,0.674,0.329,0.426,92.049
+804,All Falls Down,Linn Brikell,acoustic,0.699,0.189,0.328,0.944,129.794
+805,This Is Love,Zack Tabudlo,acoustic,0.683,0.459,0.287,0.257,93.083
+806,Still Falling For You - Acoustic,Sara Farell;Simon Samaeng,acoustic,0.375,0.298,0.425,0.822,174.03
+807,I Will Wait,The Mayries,acoustic,0.421,0.107,0.118,0.948,104.218
+808,Always Be My Baby,Rosie Thomas;The Shins;Sufjan Stevens;Josh Ottum,acoustic,0.516,0.311,0.558,0.936,129.958
+809,Jocelyn Flores - Acoustic Guitar,Celestial Conscience,acoustic,0.709,0.119,0.336,0.902,135.223
+810,Use Somebody - Acoustic Version,Isabella Celander,acoustic,0.57,0.271,0.273,0.82,125.862
+811,As Long as You Love Me,Erato;Charlotte Almgren,acoustic,0.404,0.167,0.298,0.891,202.996
+812,Can't Go Back,Rosi Golan,acoustic,0.559,0.241,0.142,0.963,118.916
+813,The Nights - Acoustic,Caj Morgan,acoustic,0.768,0.331,0.663,0.576,107.044
+814,月ひとしずく,Yosui Inoue;Tamio Okuda,acoustic,0.592,0.773,0.729,0.223,121.097
+815,Party of One (feat. Sam Smith),Brandi Carlile;Sam Smith,acoustic,0.354,0.206,0.202,0.779,139.056
+816,恋の魔力,Masaharu Fukuyama,acoustic,0.495,0.865,0.881,0.000791,156.924
+817,Take Me Home,Us The Duo,acoustic,0.356,0.193,0.14,0.14,145.428
+818,ドサ回り数え歌,Takehara Pistol,acoustic,0.417,0.264,0.501,0.279,86.328
+819,純風,Kazuyoshi Saito,acoustic,0.731,0.868,0.975,0.111,111.154
+820,Fix You,Boyce Avenue;Tyler Ward,acoustic,0.421,0.441,0.0992,0.413,138.07
+821,Truth,Front Porch Step,acoustic,0.6,0.65,0.49,0.00921,139.975
+822,Jericho,Andrew Ripp,acoustic,0.501,0.716,0.363,0.189,70.919
+823,The Weakness In Me,Keisha White,acoustic,0.717,0.554,0.324,0.0592,128.039
+824,Invincible,Eddie Vedder,acoustic,0.578,0.742,0.2,0.00511,107.028
+825,Yellow Lines,Brendan James,acoustic,0.636,0.735,0.537,0.036,120.969
+826,What a Wonderful World,Joseph Sullinger,acoustic,0.516,0.144,0.433,0.992,134.688
+827,No More,Eddie Vedder,acoustic,0.379,0.53,0.577,0.468,62.06
+828,Spoonful,Howlin' Wolf,acoustic,0.821,0.376,0.824,0.669,119.039
+829,Over,Johnnyswim,acoustic,0.371,0.51,0.147,0.296,113.32
+830,Body Terror Song,AJJ,acoustic,0.507,0.399,0.225,0.871,115.588
+831,VI: Don't Let Love Bog You Down,RENT STRIKE,acoustic,0.452,0.797,0.642,0.28,114.18
+832,What Are You Doing New Years Eve,Johnnyswim,acoustic,0.456,0.285,0.282,0.769,129.262
+833,SOS - Acoustic Covers Versions,Covers Culture,acoustic,0.351,0.109,0.64,0.879,76.851
+834,Mosquitoes,Days N Daze,acoustic,0.638,0.543,0.922,0.636,140.864
+835,High 5,Calibretto 13,acoustic,0.382,0.9,0.644,0.018,79.965
+836,Don't Wanna Be Without Ya,Penny and Sparrow,acoustic,0.651,0.86,0.29,0.609,115.0
+837,Of Ballots and Barricades - Live,Ramshackle Glory,acoustic,0.582,0.437,0.922,0.451,130.467
+838,Dirty Little Rag,Rail Yard Ghosts,acoustic,0.461,0.799,0.797,0.744,167.255
+839,Day Old Coffee,Laura Jane Grace,acoustic,0.712,0.933,0.865,0.326,152.02
+840,Clawfoot,Pigeon Pit,acoustic,0.44,0.947,0.892,0.0477,185.147
+841,Peach,Pigeon Pit,acoustic,0.563,0.452,0.581,0.877,91.98
+842,Alone in the Dark Mansion of Madness,Harley Poe,acoustic,0.335,0.696,0.403,0.642,95.24
+843,Skin Deep (feat. Derek Trucks),Buddy Guy;Derek Trucks,acoustic,0.572,0.567,0.498,0.517,135.217
+844,We Shall Not Overcome,Frank Turner,acoustic,0.654,0.834,0.904,0.0172,139.377
+845,Northbound,Grace Petrie,acoustic,0.446,0.787,0.586,0.0328,125.642
+846,Sombody else - Acoustic,Sara Farell,acoustic,0.444,0.316,0.571,0.841,201.64
+847,Stuck with U - Acoustic,Jonah Baker,acoustic,0.558,0.209,0.41,0.852,174.887
+848,Havana - Acoustic,Matt Johnson,acoustic,0.807,0.403,0.95,0.901,105.037
+849,Yakap,Zack Tabudlo,acoustic,0.738,0.39,0.547,0.409,113.979
+850,Sunflower,Sara Farell,acoustic,0.568,0.213,0.302,0.955,72.932
+851,Hollywood's Bleeding,Mother's Daughter;Beck Pete,acoustic,0.654,0.135,0.16,0.938,100.027
+852,Without You,Salty Snacks,acoustic,0.551,0.161,0.356,0.954,129.786
+853,Between the Stars,Canyon City,acoustic,0.484,0.292,0.0771,0.868,95.446
+854,To Whom It May Concern,The Civil Wars,acoustic,0.309,0.159,0.139,0.912,87.493
+855,Issues - Acoustic,Sara Farell,acoustic,0.627,0.307,0.471,0.742,104.669
+856,花になる,Tamio Okuda,acoustic,0.512,0.884,0.48,5.53e-06,124.003
+857,Unconditional,Richard Walters,acoustic,0.409,0.222,0.151,0.882,63.419
+858,Moth To A Flame - Acoustic Instrumental,Guus Dielissen,acoustic,0.655,0.0883,0.373,0.971,119.985
+859,Bleeding Love,Boyce Avenue,acoustic,0.737,0.295,0.369,0.83,107.107
+860,Light,Jon Bryant,acoustic,0.512,0.359,0.132,0.567,129.83
+861,A Thousand Miles,Boyce Avenue;Alex Goot,acoustic,0.564,0.731,0.257,0.517,95.036
+862,Darkness Within,Michael Logen,acoustic,0.464,0.72,0.199,0.0166,160.057
+863,Ikaw Lamang,Ice Seguerra,acoustic,0.614,0.441,0.148,0.76,117.991
+864,Over You,Ingrid Michaelson;A Great Big World,acoustic,0.292,0.281,0.164,0.751,89.256
+865,Stay Right Where You Are,Ingrid Michaelson,acoustic,0.652,0.263,0.192,0.758,119.957
+866,(I Just) Died In Your Arms - Acoustic,Carly Lyman;Jason Lux,acoustic,0.747,0.221,0.369,0.93,118.029
+867,Walking By Myself,Jimmy Rogers,acoustic,0.621,0.519,0.775,0.837,117.005
+868,Nintendo,Todd Carey,acoustic,0.723,0.93,0.69,0.239,124.94
+869,Diamonds,Mone Kamishiraishi,acoustic,0.755,0.918,0.634,0.356,111.017
+870,We'll Make It Through,Ray LaMontagne,acoustic,0.502,0.309,0.273,0.575,119.236
+871,Untainted Innocence,Steve Pulvers,acoustic,0.586,0.115,0.885,0.836,179.941
+872,Afterglow - Stephan Baulig Remix,Andrew Foy;Renee Foy;Stephan Baulig,acoustic,0.674,0.52,0.422,0.272,116.029
+873,To the Wind,Chris Cresswell,acoustic,0.491,0.561,0.22,0.108,151.943
+874,What Love Really Means,JJ Heller,acoustic,0.405,0.428,0.331,0.0182,145.515
+875,PEOPLE GET READY,Hanare Gumi,acoustic,0.667,0.0119,0.408,0.867,133.277
+876,Lovin' Whiskey,Rory Block,acoustic,0.675,0.366,0.411,0.719,72.662
+877,Already Home,A Great Big World,acoustic,0.602,0.404,0.243,0.31,83.054
+878,Big Time,Johnnyswim,acoustic,0.439,0.532,0.437,0.618,129.936
+879,Canada,Bobbylene,acoustic,0.608,0.15,0.434,0.863,81.988
+880,Meet Me in the Shade,Chris Cresswell,acoustic,0.556,0.511,0.537,0.782,81.613
+881,I Am So Mad at You,AJJ,acoustic,0.682,0.666,0.79,0.0602,93.992
+882,Wind in Your Sails,Joey Cape,acoustic,0.644,0.34,0.298,0.491,129.997
+883,Deathlessness,AJJ,acoustic,0.554,0.655,0.363,0.00193,100.423
+884,"Little Blue Pills, Pt..3",Days N Daze,acoustic,0.565,0.611,0.914,0.345,137.289
+885,Drag Me Down,Son&Dad;Filip Nordin,acoustic,0.879,0.411,0.609,0.61,119.013
+886,None Exempt,Days N Daze,acoustic,0.425,0.752,0.844,0.305,105.466
+887,Going To Germany,Cannon's Jug Stompers,acoustic,0.49,0.198,0.636,0.973,106.71
+888,Rivers,Frank Turner,acoustic,0.279,0.498,0.492,0.217,183.874
+889,When I Was Your Man,Vendredi;ELLE,acoustic,0.503,0.354,0.372,0.938,72.295
+890,"Fry, Bacon, Fry (Die Pigs!)",Chad Hates George,acoustic,0.531,0.289,0.611,0.854,124.157
+891,"Dance, Motherfucker, Dance!",Violent Femmes,acoustic,0.308,0.854,0.689,0.0593,193.395
+892,In the Midnight Hour (feat. J.J. Grey),Marc Broussard;J.J. Grey,acoustic,0.721,0.785,0.878,0.0882,111.993
+893,Seven Nation Army - Acoustic Covers Versions of Popular Songs,Vendredi;Chrissy Dave,acoustic,0.773,0.208,0.538,0.956,109.822
+894,She's a Problem,Get Dead,acoustic,0.484,0.953,0.667,0.000165,97.429
+895,Mood - Acoustic,Adam Christopher,acoustic,0.751,0.29,0.683,0.846,75.034
+896,Long Drive,Jason Mraz,acoustic,0.527,0.578,0.405,0.197,148.134
+897,Issues,Kina Grannis,acoustic,0.485,0.126,0.345,0.71,152.541
+898,Pink Sky Moon,Joe Brooks,acoustic,0.588,0.291,0.336,0.763,101.158
+899,We Don't Talk Anymore,Sara Farell,acoustic,0.289,0.432,0.225,0.771,85.504
+900,Beautiful Girls,J-Que Beenz,acoustic,0.576,0.196,0.502,0.865,118.075
+901,Something Beautiful,Tim Halperin,acoustic,0.524,0.768,0.0562,0.00816,117.947
+902,Right Here Waiting,Boyce Avenue,acoustic,0.456,0.285,0.228,0.856,177.561
+903,Cortes de Aragón,Roberto Diana;Muniesa,acoustic,0.426,0.0812,0.243,0.948,85.204
+904,Whenever You're Around,Bootstraps,acoustic,0.531,0.5,0.319,0.534,78.076
+905,The One That Got Away,Boyce Avenue,acoustic,0.655,0.502,0.368,0.579,123.931
+906,With or Without You,Roses & Frey,acoustic,0.641,0.147,0.287,0.954,111.913
+907,深夜高速,Kazuyoshi Saito,acoustic,0.474,0.727,0.83,0.123,79.633
+908,She's The Song - Acoustic,Nathan Angelo,acoustic,0.617,0.319,0.324,0.609,133.821
+909,生きてることが辛いなら,Naotaro Moriyama,acoustic,0.333,0.266,0.33,0.951,129.249
+910,My Heart,The Perishers,acoustic,0.543,0.638,0.481,0.103,102.719
+911,アクセス,Masaharu Fukuyama,acoustic,0.615,0.545,0.47,0.383,110.335
+912,Life's What You Make It,Graham Colton,acoustic,0.655,0.686,0.544,0.371,112.974
+913,Memories (Instrumental Guitar),Guus Dielissen,acoustic,0.491,0.185,0.674,0.947,90.465
+914,Duet (feat. Stephanie Briggs),Penny and Sparrow;Stephanie Briggs,acoustic,0.213,0.185,0.182,0.757,72.844
+915,追憶の雨の中 (Original Version),Masaharu Fukuyama,acoustic,0.345,0.919,0.407,0.189,174.147
+916,Shallow,Boyce Avenue;Jennel Garcia,acoustic,0.649,0.336,0.337,0.782,95.988
+917,I Want It That Way - Acoustic Covers of Popular Songs,Son&Dad;Filip Nordin,acoustic,0.392,0.253,0.368,0.746,203.571
+918,明日へゆけ,Hanare Gumi,acoustic,0.542,0.0325,0.288,0.964,131.935
+919,青空、ひとりきり - Remastered 2018,Yosui Inoue,acoustic,0.762,0.805,0.963,0.283,116.141
+920,Someday,Sakura Fujiwara,acoustic,0.644,0.723,0.625,0.16,105.969
+921,All The World (I Tell Myself),Correatown,acoustic,0.488,0.294,0.26,0.917,76.647
+922,Cried Like A Baby,Rory Block,acoustic,0.704,0.488,0.745,0.56,179.76
+923,Good Feeling,Violent Femmes,acoustic,0.369,0.319,0.476,0.752,160.359
+924,踊る人たち,Hanare Gumi,acoustic,0.568,0.24,0.508,0.902,94.933
+925,Si Te Vas,Aberola,acoustic,0.483,0.219,0.641,0.972,149.581
+926,So Help Me God,Front Porch Step,acoustic,0.419,0.855,0.261,7.69e-05,154.098
+927,To-Do Lists (Color Coded),She/Her/hers,acoustic,0.566,0.835,0.549,0.0167,95.009
+928,神無月にかこまれて - Remastered 2018,Yosui Inoue,acoustic,0.633,0.647,0.775,0.133,150.805
+929,Make It Easy On Yourself,Gail Blanco,acoustic,0.391,0.322,0.278,0.88,180.048
+930,Hollow Man,Harley Poe,acoustic,0.448,0.821,0.618,0.566,104.687
+931,Waves of Panic,Corporate Hearts,acoustic,0.301,0.552,0.761,0.161,166.406
+932,"Of Peace, Quiet And Monsters",Dan Andriano in the Emergency Room,acoustic,0.479,0.285,0.618,0.942,104.933
+933,Little Life,Frank Turner,acoustic,0.609,0.693,0.452,0.000315,119.992
+934,Black Girls,Violent Femmes,acoustic,0.608,0.61,0.669,0.0278,121.275
+935,Kick Your Lawyer in the Face,Days N Daze,acoustic,0.555,0.508,0.961,0.361,122.037
+936,Fast Track,Days N Daze,acoustic,0.446,0.621,0.867,0.721,113.896
+937,Maria,Harley Poe,acoustic,0.633,0.832,0.838,0.0274,130.912
+938,"Corinna - From ""The Natch'l Blues""",Taj Mahal,acoustic,0.621,0.294,0.728,0.558,78.599
+939,Tall Cans,Pigeon Pit,acoustic,0.648,0.389,0.378,0.807,86.36
+940,You Get What You Give,Chuck Ragan,acoustic,0.303,0.506,0.412,0.496,161.463
+941,Four Simple Words,Frank Turner,acoustic,0.335,0.881,0.173,0.00805,96.9
+942,Jireh (My Provider),Limoblaze;Lecrae;Happi,afrobeat,0.443,0.778,0.628,0.241,128.25
+943,Ainda Há Tempo,Criolo,afrobeat,0.58,0.8,0.483,0.281,81.303
+944,Fellini,Criolo,afrobeat,0.805,0.746,0.717,0.238,127.922
+945,Lion Man,Criolo,afrobeat,0.582,0.66,0.484,0.399,83.789
+946,Espiral de Ilusão,Criolo,afrobeat,0.776,0.314,0.476,0.881,124.055
+947,Yemanjá Chegou,Criolo,afrobeat,0.711,0.515,0.679,0.679,90.91
+948,Tô Pra Ver,Criolo;Rael,afrobeat,0.637,0.818,0.599,0.19,90.571
+949,Terapia,BaianaSystem,afrobeat,0.79,0.814,0.914,0.243,124.03
+950,Aló,Plastilina Mosh,afrobeat,0.797,0.609,0.913,0.00375,142.035
+951,Vasilhame,Criolo,afrobeat,0.506,0.876,0.676,0.194,124.218
+952,Sucrilhos,Criolo,afrobeat,0.788,0.574,0.764,0.0626,160.027
+953,Chuva Ácida,Criolo,afrobeat,0.708,0.782,0.717,0.0507,94.038
+954,Breaco,Criolo,afrobeat,0.619,0.781,0.728,0.148,182.026
+955,Reza Forte,BaianaSystem;BNegão,afrobeat,0.844,0.915,0.872,0.393,145.997
+956,É o Teste,Criolo,afrobeat,0.66,0.728,0.594,0.178,91.101
+957,Pequenina,Criolo;MC Hariel;Liniker;Maria Vilani;Jaques Morelenbaum,afrobeat,0.606,0.6,0.529,0.0469,159.971
+958,Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music,Jorge Drexler;Sebastián Prada,afrobeat,0.67,0.273,0.443,0.946,128.87
+959,Até Me Emocionei,Criolo,afrobeat,0.772,0.789,0.549,0.101,84.96
+960,Vida Loka I - Live,Criolo;Emicida;Mano Brown,afrobeat,0.434,0.877,0.662,0.849,82.109
+961,Demorô,Criolo,afrobeat,0.755,0.709,0.657,0.0528,140.989
+962,Guerra Batalha,BaianaSystem;Liz Reis,afrobeat,0.437,0.357,0.26,0.676,120.088
+963,Duas Cidades,BaianaSystem,afrobeat,0.789,0.899,0.847,0.125,97.999
+964,Mariô,Criolo,afrobeat,0.763,0.577,0.658,0.0875,90.015
+965,Só Mais Uma Noite - Live,Criolo;Emicida;Evandro Fióti,afrobeat,0.518,0.918,0.62,0.325,98.777
+966,Pretos Ganhando Dinheiro Incomoda Demais,Criolo,afrobeat,0.637,0.715,0.347,0.0518,109.859
+967,Samba Sambei,Criolo,afrobeat,0.87,0.737,0.952,0.268,136.07
+968,La Makinita,Juanafé,afrobeat,0.633,0.805,0.925,0.0529,143.028
+969,Me Corte na Boca do Céu a Morte Não Pede Perdão,Criolo;Milton Nascimento,afrobeat,0.428,0.3,0.278,0.638,81.403
+970,Menino Mimado,Criolo,afrobeat,0.83,0.604,0.82,0.563,144.008
+971,Aprendendo a Sobreviver,Criolo,afrobeat,0.817,0.619,0.614,0.263,103.041
+972,Tengo Luquita,Juanafé,afrobeat,0.526,0.711,0.651,0.585,176.27
+973,Primavera (Vai Chuva),Criolo,afrobeat,0.573,0.859,0.521,0.108,147.906
+974,A Cada Vento - Live,Criolo;Emicida,afrobeat,0.651,0.861,0.8,0.43,98.474
+975,Detergente,Samuca e a Selva,afrobeat,0.721,0.741,0.977,0.441,131.001
+976,Nas Águas,Criolo,afrobeat,0.753,0.653,0.706,0.76,115.802
+977,Plano de Voo,Criolo,afrobeat,0.571,0.69,0.228,0.299,155.991
+978,Chiquitita,Juanafé,afrobeat,0.715,0.556,0.902,0.667,87.973
+979,Freguês da Meia Noite,Criolo,afrobeat,0.634,0.393,0.54,0.35,87.996
+980,Hora da Decisão,Criolo,afrobeat,0.731,0.575,0.704,0.703,143.986
+981,"Jah Jah Revolta, Pt. 2",BaianaSystem,afrobeat,0.776,0.8,0.583,0.00631,143.989
+982,Dia da Caça,BaianaSystem,afrobeat,0.486,0.867,0.358,0.129,109.003
+983,Fio de Pumo (Padê Onã),Criolo,afrobeat,0.77,0.819,0.732,0.0191,92.996
+984,Pegue Pra Ela,Criolo,afrobeat,0.611,0.738,0.725,0.142,119.791
+985,Filha do Maneco,Criolo,afrobeat,0.674,0.518,0.554,0.733,133.935
+986,Cria de Favela,Criolo,afrobeat,0.692,0.749,0.7,0.442,111.986
+987,Boca Fofa,Criolo,afrobeat,0.717,0.784,0.978,0.73,168.146
+988,Calçada,Criolo,afrobeat,0.817,0.771,0.76,0.704,111.099
+989,Zica Vai Lá - Live,Criolo;Emicida,afrobeat,0.374,0.934,0.389,0.058,167.661
+990,Subirusdoistiozin - Live,Criolo;Emicida,afrobeat,0.569,0.907,0.562,0.602,94.346
+991,Darker Shade of Black,Jackie Mittoo,afrobeat,0.689,0.564,0.758,0.149,87.474
+992,Meghar Jolonga,Pompi,afrobeat,0.353,0.548,0.67,0.709,200.152
+993,Queens Highway,Menahan Street Band,afrobeat,0.778,0.399,0.321,0.0751,137.305
+994,Etérea,Criolo,afrobeat,0.824,0.72,0.374,0.416,116.982
+995,Cabeça de Papel,BaianaSystem,afrobeat,0.724,0.833,0.875,0.289,144.999
+996,Invisível,BaianaSystem,afrobeat,0.725,0.618,0.479,0.325,112.681
+997,"Lambada de Oceanía, África y América",Los Pirañas,afrobeat,0.522,0.672,0.75,0.0785,155.833
+998,Fogo (Versão Estendida),BaianaSystem;Orquestra Afrosinfônica,afrobeat,0.455,0.738,0.335,0.161,125.351
+999,Nauliza,BaianaSystem;Makavelli;Jaymitta,afrobeat,0.618,0.945,0.76,0.0372,169.967
+1000,Mediterráneo,Jorge Drexler,afrobeat,0.585,0.588,0.429,0.405,100.808
+1001,Me Dê Motivo,Criolo,afrobeat,0.864,0.623,0.84,0.452,132.008
+1002,Sonar (Adubado),BaianaSystem;Buguinha Dub;Curumin;Edgar,afrobeat,0.694,0.82,0.588,0.113,99.922
+1003,Forasteiro,BaianaSystem,afrobeat,0.685,0.732,0.856,0.00506,127.999
+1004,Oxidados,Plastilina Mosh,afrobeat,0.483,0.994,0.702,0.000444,182.051
+1005,À Beça,Samuca e a Selva,afrobeat,0.721,0.654,0.826,0.314,102.978
+1006,Sueño Erótico,Los Amigos Invisibles,afrobeat,0.683,0.823,0.837,0.138,120.03
+1007,"Negro Amor (It's All Over Now, Baby Clue)",Jorge Drexler;Gal Costa,afrobeat,0.614,0.209,0.416,0.868,119.948
+1008,Povo Guerreiro,Criolo,afrobeat,0.793,0.658,0.96,0.652,114.039
+1009,Navio,BaianaSystem,afrobeat,0.591,0.873,0.882,0.105,162.121
+1010,No Sapatinho,Criolo,afrobeat,0.702,0.689,0.242,0.152,84.063
+1011,São Jorge,Metá Metá,afrobeat,0.64,0.732,0.831,0.641,112.956
+1012,O Segundo Sol,BaianaSystem;Cássia Eller,afrobeat,0.383,0.711,0.432,0.174,137.036
+1013,Amar Es Algo Más,Los Amigos Invisibles,afrobeat,0.692,0.746,0.613,0.393,107.981
+1014,Redoma,BaianaSystem;Samba de Lata de Tijuaçú,afrobeat,0.779,0.918,0.391,0.126,100.041
+1015,Viva (Melô Dos Vileiros) - Live,Criolo;Emicida,afrobeat,0.653,0.868,0.733,0.649,82.15
+1016,Samba Sambei (Dub Mix),Criolo,afrobeat,0.795,0.664,0.854,0.188,136.029
+1017,CertoPeloCertoh,BaianaSystem;VANDAL,afrobeat,0.726,0.72,0.874,0.327,149.995
+1018,Fat City Strut,Mandrill,afrobeat,0.422,0.862,0.826,0.602,80.526
+1019,"Fé Cega, Faca Amolada",Samuca e a Selva;Luedji Luna,afrobeat,0.795,0.573,0.65,0.403,135.123
+1020,La Bala,Juanafé,afrobeat,0.6,0.826,0.77,0.0555,98.046
+1021,Chocolate,Criolo,afrobeat,0.759,0.79,0.914,0.264,135.953
+1022,Mariô - Live,Criolo,afrobeat,0.572,0.874,0.681,0.525,94.006
+1023,Demorô - Live,Criolo;Emicida,afrobeat,0.549,0.901,0.35,0.721,152.298
+1024,Panela,BaianaSystem;As Ganhadeiras de Itapuã,afrobeat,0.666,0.761,0.797,0.000143,143.035
+1025,Human Disco Ball,Plastilina Mosh,afrobeat,0.797,0.99,0.926,0.000375,125.023
+1026,Bala na Agulha,BaianaSystem,afrobeat,0.688,0.864,0.667,0.269,180.052
+1027,La Jardinera,Juanafé,afrobeat,0.696,0.724,0.965,0.65,99.929
+1028,Makoti,Hugh Masekela,afrobeat,0.469,0.824,0.781,0.478,220.081
+1029,Nontsokolo,Hugh Masekela,afrobeat,0.801,0.736,0.942,0.343,105.009
+1030,Soul Makossa,Manu Dibango,afrobeat,0.817,0.794,0.921,0.0563,116.423
+1031,Triunfo - Live,Criolo;Emicida,afrobeat,0.54,0.945,0.551,0.315,92.013
+1032,Grajauex - Live,Criolo;Emicida,afrobeat,0.358,0.905,0.468,0.304,176.67
+1033,District Six - Live,Hugh Masekela,afrobeat,0.778,0.711,0.858,0.352,108.127
+1034,Não Existe Amor Em SP - Live,Criolo;Emicida,afrobeat,0.285,0.734,0.243,0.3,140.224
+1035,Women Of The Sun,Hugh Masekela,afrobeat,0.806,0.478,0.959,0.77,89.938
+1036,Bogotá - Live,Criolo;Emicida,afrobeat,0.532,0.908,0.737,0.367,126.229
+1037,Black Organ,Jackie Mittoo,afrobeat,0.837,0.598,0.983,0.391,145.219
+1038,Dikalo - Remix 97,Manu Dibango,afrobeat,0.784,0.869,0.672,0.0107,99.175
+1039,Stop That Train,Ernest Ranglin,afrobeat,0.766,0.375,0.62,0.297,81.626
+1040,Atrévete-Te-Te,Calle 13,afrobeat,0.829,0.878,0.883,0.0959,87.991
+1041,Shimmy Shimmy Ya,El Michels Affair,afrobeat,0.605,0.666,0.0865,0.0234,100.138
+1042,Ruby,Ali Farka Touré;Toumani Diabaté,afrobeat,0.361,0.31,0.408,0.802,177.659
+1043,4 da Manhã – Deluxe Edition,Criolo,afrobeat,0.6,0.476,0.572,0.7,142.033
+1044,Água (Versão Estendida),BaianaSystem;Orquestra Afrosinfônica;Antonio Carlos & Jocafi,afrobeat,0.74,0.8,0.763,0.211,96.998
+1045,Organdí,Jorge Drexler,afrobeat,0.531,0.249,0.106,0.759,104.039
+1046,Sólo los dos (feat. Ferraz),Los Amigos Invisibles;Ferraz,afrobeat,0.806,0.573,0.696,0.317,104.994
+1047,Tô pra Onda,Afrocidade,afrobeat,0.71,0.846,0.505,0.0798,118.025
+1048,Eres Mis Ganas,Los Amigos Invisibles,afrobeat,0.562,0.876,0.547,0.00127,124.003
+1049,Bienvenidos A Mi Mundo,Calle 13,afrobeat,0.658,0.715,0.543,0.0174,189.895
+1050,Tá Amarrado,OQuadro;Dimak,afrobeat,0.881,0.834,0.941,0.216,94.967
+1051,Agente Russo,Nomade Orquestra;Russo Passapusso,afrobeat,0.724,0.902,0.385,0.102,122.023
+1052,Alfazema,BaianaSystem;Nação Zumbi,afrobeat,0.677,0.929,0.709,0.309,129.996
+1053,Crece,Jorge Drexler,afrobeat,0.649,0.51,0.476,0.466,174.931
+1054,Alegria por un Zumo de Naranja Con Panela,Romperayo,afrobeat,0.6,0.65,0.868,0.000416,131.078
+1055,Cóccix-ência,Criolo,afrobeat,0.564,0.903,0.568,0.0221,164.047
+1056,Dulce,Los Amigos Invisibles,afrobeat,0.758,0.819,0.827,0.0646,117.971
+1057,Ride On Baby - 1977 Version,William Onyeabor,afrobeat,0.519,0.804,0.841,0.696,104.883
+1058,La nieve en la bola de nieve,Jorge Drexler,afrobeat,0.457,0.231,0.444,0.759,133.083
+1059,Raminho,BaianaSystem,afrobeat,0.588,0.711,0.951,0.924,145.818
+1060,"Oxe, Como Era Doce",BaianaSystem,afrobeat,0.69,0.695,0.564,0.0186,106.032
+1061,Uno,Jorge Drexler,afrobeat,0.715,0.686,0.86,0.227,130.945
+1062,Ode To Mauricio Garces,Plastilina Mosh,afrobeat,0.463,0.718,0.855,0.205,174.112
+1063,Aquiles por su talón es Aquiles,Jorge Drexler,afrobeat,0.523,0.282,0.317,0.776,132.44
+1064,Madurar,Samuca e a Selva,afrobeat,0.716,0.713,0.896,0.41,119.957
+1065,Te Lo Juro Por Madonna (Si Omba Ta Gueno),Plastilina Mosh,afrobeat,0.539,0.968,0.673,0.00049,98.113
+1066,A Vida É Curta Pra Viver Depois,BaianaSystem;Carolaine,afrobeat,0.682,0.703,0.575,0.356,91.973
+1067,Bungaloo Punta Cometa,Plastilina Mosh,afrobeat,0.744,0.771,0.661,0.608,149.822
+1068,Dança de Airumã,BaianaSystem,afrobeat,0.683,0.862,0.609,0.157,108.001
+1069,"Barravenida, Pt. 2",BaianaSystem,afrobeat,0.532,0.844,0.0822,0.18,137.954
+1070,Desengano da Vista,Bixiga 70,afrobeat,0.535,0.644,0.744,0.543,149.872
+1071,Flores Raras,Samuca e a Selva,afrobeat,0.713,0.605,0.885,0.733,100.014
+1072,Mercado,BaianaSystem,afrobeat,0.596,0.394,0.694,0.94,97.048
+1073,Obá Iná,Metá Metá,afrobeat,0.605,0.708,0.708,0.425,113.755
+1074,Río abajo,Jorge Drexler,afrobeat,0.718,0.46,0.509,0.646,95.564
+1075,Niño Bomba,Plastilina Mosh,afrobeat,0.73,0.775,0.491,0.000472,107.153
+1076,Calamatraca,BaianaSystem,afrobeat,0.657,0.72,0.413,0.00356,142.006
+1077,O Guarani,Orquestra Brasileira de Música Jamaicana,afrobeat,0.683,0.783,0.634,0.0941,141.94
+1078,Ikeja Roads,Tony Allen,afrobeat,0.777,0.598,0.684,0.023,100.007
+1079,La infidelidad de la era informática,Jorge Drexler,afrobeat,0.801,0.423,0.468,0.486,139.987
+1080,Bambezela,Hugh Masekela;Gugu Shezi,afrobeat,0.767,0.815,0.787,0.31,111.992
+1081,Chapéu Panamá,BaianaSystem,afrobeat,0.824,0.932,0.471,0.414,105.01
+1082,Lion Man - Live,Criolo;Emicida,afrobeat,0.438,0.702,0.249,0.587,84.176
+1083,Sex Appeal,Los Amigos Invisibles,afrobeat,0.758,0.728,0.846,0.00343,120.961
+1084,Corazón Tatú,Los Amigos Invisibles,afrobeat,0.687,0.876,0.884,0.00421,126.015
+1085,Thank You Lord,CalledOut Music,afrobeat,0.714,0.44,0.532,0.319,91.997
+1086,Ai Du (with Ry Cooder),Ali Farka Touré,afrobeat,0.57,0.225,0.408,0.306,151.78
+1087,Bang Data,Bang Data,afrobeat,0.605,0.835,0.903,0.0764,171.958
+1088,La Educación,QUITAPENAS,afrobeat,0.497,0.916,0.934,0.0774,136.705
+1089,gorila,Morbo y Mambo,afrobeat,0.742,0.617,0.847,0.397,101.999
+1090,Shampoo,Plastilina Mosh,afrobeat,0.716,0.509,0.374,0.683,170.117
+1091,Canción Ecológica,Los Amigos Invisibles,afrobeat,0.76,0.649,0.715,0.0417,105.009
+1092,Disco Ball,Los Amigos Invisibles,afrobeat,0.754,0.818,0.78,0.000998,105.0
+1093,There's Music In The Air,Letta Mbulu,afrobeat,0.607,0.34,0.667,0.826,143.074
+1094,Go Back,Tony Allen;Damon Albarn,afrobeat,0.501,0.911,0.724,0.0342,82.34
+1095,Contigo,Los Amigos Invisibles,afrobeat,0.642,0.933,0.743,0.00928,131.982
+1096,Cumbia Elemental,Subhira,afrobeat,0.555,0.623,0.464,0.258,90.922
+1097,Acosadora - Radio Edit,La Misa Negra,afrobeat,0.634,0.892,0.648,0.0183,99.998
+1098,JAJAJA,Plastilina Mosh,afrobeat,0.714,0.889,0.935,0.0483,122.757
+1099,Enzo,Plastilina Mosh,afrobeat,0.735,0.864,0.851,0.00434,90.037
+1100,Fuiste un Trozo de Hielo en la Escarcha,Juanafé;Demian Rodríguez,afrobeat,0.714,0.532,0.795,0.573,129.972
+1101,Sea - Cara B,Jorge Drexler,afrobeat,0.466,0.342,0.628,0.746,120.066
+1102,Chaltumay,Newen Afrobeat,afrobeat,0.789,0.869,0.909,0.168,124.947
+1103,Caminante,Newen Afrobeat,afrobeat,0.604,0.904,0.557,0.0787,92.962
+1104,Como Ayer,Juanafé,afrobeat,0.732,0.613,0.924,0.765,102.481
+1105,Barravenida,BaianaSystem,afrobeat,0.646,0.651,0.672,0.0025,133.985
+1106,Corneteiro Luís,BaianaSystem,afrobeat,0.762,0.858,0.836,0.321,126.005
+1107,De amor y de casualidad,Jorge Drexler,afrobeat,0.741,0.564,0.359,0.225,117.859
+1108,Mango Meat,Mandrill,afrobeat,0.596,0.686,0.729,0.28,103.949
+1109,Língua Felina – Deluxe Edition,Criolo,afrobeat,0.77,0.797,0.964,0.555,96.879
+1110,Como te Gusta (feat. C-Funk & McKlopedia),Los Amigos Invisibles;C-Funk;Mcklopedia,afrobeat,0.84,0.632,0.764,0.0674,93.985
+1111,Si Tú Te Vas,Los Amigos Invisibles,afrobeat,0.783,0.491,0.339,0.044,134.955
+1112,Nada menos,Jorge Drexler,afrobeat,0.695,0.514,0.439,0.283,132.065
+1113,La Mara Tomaza,El Hijo De La Cumbia,afrobeat,0.598,0.929,0.655,0.0072,92.603
+1114,Tubarão,BaianaSystem,afrobeat,0.738,0.925,0.704,0.0125,131.065
+1115,Oxe,BaianaSystem;Bule Bule;Rapadura,afrobeat,0.765,0.912,0.568,0.316,107.999
+1116,Tamborero,Jorge Drexler,afrobeat,0.833,0.579,0.819,0.451,94.008
+1117,Espérame (Extended Mix),Los Amigos Invisibles,afrobeat,0.75,0.775,0.962,0.00914,119.982
+1118,Amerikha Expressa,BaianaSystem,afrobeat,0.39,0.661,0.205,0.61,123.257
+1119,Jah Jah Revolta,BaianaSystem,afrobeat,0.551,0.806,0.671,0.026,143.876
+1120,King Cobra,The Budos Band,afrobeat,0.667,0.548,0.823,0.0181,104.668
+1121,Nesse Mundo,BaianaSystem;Roberto Mendes,afrobeat,0.747,0.521,0.498,0.638,120.035
+1122,Pachamama,BaianaSystem;Claudia Manzo,afrobeat,0.75,0.855,0.879,0.0789,150.03
+1123,Cais,Samuca e a Selva;Criolo,afrobeat,0.714,0.431,0.501,0.781,125.94
+1124,Fancy (feat. Spellbinder),The New Mastersounds;Spellbinder,afrobeat,0.537,0.744,0.826,0.0896,153.109
+1125,Tema Di Malaika,Bixiga 70,afrobeat,0.689,0.886,0.884,0.563,107.983
+1126,O Carnaval Quem É Que Faz?,BaianaSystem,afrobeat,0.603,0.849,0.674,0.1,143.027
+1127,Rádio África,BaianaSystem,afrobeat,0.736,0.948,0.848,0.0586,130.013
+1128,Princesa bacana,Jorge Drexler,afrobeat,0.718,0.428,0.551,0.676,139.956
+1129,Wall Street,Jackie Mittoo,afrobeat,0.827,0.359,0.684,0.332,135.421
+1130,Cachete a Cachete,Los Amigos Invisibles,afrobeat,0.781,0.755,0.597,0.564,118.168
+1131,Coroné Antonio Bento,Criolo,afrobeat,0.51,0.933,0.789,0.0185,176.083
+1132,Aquellos tiempos,Jorge Drexler,afrobeat,0.552,0.499,0.665,0.65,131.952
+1133,C.R.E.A.M.,El Michels Affair,afrobeat,0.571,0.508,0.102,0.532,96.825
+1134,Grateful,Limoblaze;Moses Bliss,afrobeat,0.729,0.866,0.711,0.267,131.913
+1135,Shout to the Lord,CalledOut Music,afrobeat,0.599,0.499,0.765,0.105,159.915
+1136,Desire,Limoblaze;Emandiong,afrobeat,0.699,0.858,0.432,0.0332,115.113
+1137,Tezeta (Nostalgia),Mulatu Astatke,afrobeat,0.547,0.356,0.504,0.954,81.032
+1138,The Vibe,TJ Cream,afrobeat,0.827,0.604,0.766,0.643,140.923
+1139,O Caçador e a Flecha,Caê,afrobeat,0.795,0.598,0.883,0.312,108.992
+1140,LadoB,Afrocidade,afrobeat,0.655,0.774,0.462,0.0283,192.004
+1141,YOU,Jor'dan Armstrong,afrobeat,0.701,0.718,0.608,0.00647,93.028
+1142,BembaDub,BaianaSystem,afrobeat,0.353,0.721,0.652,0.0643,170.026
+1143,Dilúvio de Solidão,Criolo,afrobeat,0.73,0.646,0.938,0.669,98.012
+1144,Belongs to You - EDM Remix,Sarah Téibo;Sigag Lauren;Paola Carla,afrobeat,0.746,0.828,0.31,0.113,104.974
+1145,Mi Gente,Timoneki;Silvana Estrada,afrobeat,0.498,0.695,0.59,0.055,175.815
+1146,No pienses de más,Jorge Drexler,afrobeat,0.706,0.608,0.215,0.227,120.407
+1147,Codo Con Codo,Jorge Drexler,afrobeat,0.667,0.218,0.224,0.941,113.842
+1148,12 Rounds (feat. Happi),Becca Folkes;Happi,afrobeat,0.725,0.611,0.415,0.086,101.012
+1149,Dueña de Mi,La Misa Negra,afrobeat,0.587,0.686,0.71,0.00428,183.938
+1150,GRACE,Jor'dan Armstrong,afrobeat,0.681,0.579,0.588,0.212,120.037
+1151,Cumbia Cumbia,Thiago França,afrobeat,0.893,0.728,0.924,0.327,94.067
+1152,Quieren Efectos,Money Chicha,afrobeat,0.553,0.773,0.597,0.173,96.617
+1153,Lá Vem Você,Criolo,afrobeat,0.784,0.597,0.961,0.685,81.984
+1154,Show & Prove,Breakestra,afrobeat,0.668,0.874,0.836,0.587,107.346
+1155,Tristeza Não,Metá Metá,afrobeat,0.719,0.202,0.806,0.819,75.073
+1156,Oxalá Babá,Africania,afrobeat,0.893,0.671,0.933,0.646,99.998
+1157,Vem,Samuca e a Selva,afrobeat,0.596,0.358,0.606,0.221,81.112
+1158,Gracias - Cara B,Jorge Drexler,afrobeat,0.707,0.283,0.796,0.848,79.771
+1159,Durante,Jorge Drexler,afrobeat,0.608,0.706,0.504,0.00226,177.914
+1160,Dame el Mambo,Los Amigos Invisibles,afrobeat,0.738,0.868,0.802,0.00763,119.988
+1161,Venga Mi Vida,Juanafé,afrobeat,0.698,0.542,0.724,0.639,88.058
+1162,Eu Vou no Gueto,Afrocidade,afrobeat,0.762,0.902,0.882,0.0256,133.984
+1163,Give us your money (feat. Superthriller),Los Amigos Invisibles;Superthriller,afrobeat,0.776,0.793,0.771,0.0702,112.003
+1164,No Es Fácil Amar,Los Amigos Invisibles,afrobeat,0.732,0.825,0.79,0.0707,117.893
+1165,Abra Sua Cabeça,Abayomy Afrobeat Orquestra,afrobeat,0.695,0.895,0.962,0.116,120.069
+1166,Corazón de cristal,Jorge Drexler,afrobeat,0.686,0.212,0.189,0.791,134.12
+1167,Intro Crónica De Un Nacimiento,Calle 13,afrobeat,0.443,0.453,0.477,0.532,93.877
+1168,Viajero Frecuente del Amor,Los Amigos Invisibles,afrobeat,0.609,0.92,0.661,0.00647,133.924
+1169,Open Your Eyes,Newen Afrobeat,afrobeat,0.802,0.702,0.855,0.229,113.073
+1170,Magus Mountain,The Budos Band,afrobeat,0.486,0.803,0.253,7.89e-05,105.904
+1171,Vixe,BaianaSystem;Bule Bule,afrobeat,0.474,0.625,0.553,0.87,108.396
+1172,Catraca,BaianaSystem;Tonho Matéria,afrobeat,0.742,0.939,0.965,0.363,154.955
+1173,Capucha,BaianaSystem;Claudia Manzo,afrobeat,0.736,0.938,0.561,0.168,104.981
+1174,I´ve Got That Milton Pacheco Kinda Feeling - Melancolic Mix,Plastilina Mosh,afrobeat,0.555,0.665,0.399,0.0352,178.064
+1175,Monster Truck,Plastilina Mosh,afrobeat,0.583,0.932,0.492,0.00208,96.899
+1176,O Que Não Me Destrói Me Fortalece,BaianaSystem;Céu,afrobeat,0.737,0.571,0.655,0.0585,119.054
+1177,Camino a La Paloma,Jorge Drexler,afrobeat,0.778,0.243,0.714,0.64,166.027
+1178,Madre Tierra,Jorge Drexler,afrobeat,0.594,0.305,0.694,0.718,166.7
+1179,Killer Diller,Jackie Mittoo,afrobeat,0.591,0.748,0.961,0.0679,127.636
+1180,Invisible Love,Los Amigos Invisibles,afrobeat,0.731,0.747,0.962,0.0136,125.98
+1181,Kumama Papa - Tiktok refix version,Prinx Emmanuel;Grace Lokwa,afrobeat,0.631,0.502,0.776,0.835,156.183
+1182,Dove,Cymande,afrobeat,0.439,0.475,0.428,0.449,111.717
+1183,The Traitor,Menahan Street Band,afrobeat,0.628,0.585,0.618,0.147,100.95
+1184,Last One Standing,Monophonics;Kelly Finnigan,afrobeat,0.588,0.576,0.66,0.218,129.155
+1185,Tu piel,Jorge Drexler,afrobeat,0.868,0.367,0.522,0.303,130.038
+1186,Segura,Amplexos;Digitaldubs;Leão Etíope do Méier;Lenine,afrobeat,0.538,0.533,0.365,0.0184,74.973
+1187,Tomorrow,Jor'dan Armstrong,afrobeat,0.547,0.627,0.615,0.0513,174.967
+1188,Take My Time,Breakestra;Choklate,afrobeat,0.641,0.884,0.883,0.0567,104.962
+1189,SHE,Jor'dan Armstrong,afrobeat,0.704,0.692,0.614,0.223,92.527
+1190,Vaivén,Jorge Drexler,afrobeat,0.561,0.346,0.775,0.701,112.232
+1191,Papaya,QUITAPENAS,afrobeat,0.568,0.901,0.745,0.0894,78.567
+1192,Rogers Nelson,Morbo y Mambo,afrobeat,0.683,0.536,0.845,0.115,83.986
+1193,Cool Love 3,Los Amigos Invisibles,afrobeat,0.549,0.489,0.648,0.35,77.593
+1194,Esto Con Eso,Calle 13,afrobeat,0.659,0.74,0.91,0.108,190.001
+1195,The Red Hill,The Bongo Hop;Dafuniks,afrobeat,0.776,0.788,0.871,0.0732,99.91
+1196,Mapalé,La Cumbia Chicharra;Emilie Rambaud,afrobeat,0.595,0.633,0.888,0.0172,146.919
+1197,Water No Get Enemy,Fela Kuti,afrobeat,0.641,0.926,0.883,0.11,90.934
+1198,Brothers On The Slide,Cymande,afrobeat,0.815,0.602,0.805,0.3,109.704
+1199,Clout,Jor'dan Armstrong,afrobeat,0.699,0.62,0.311,0.0887,158.04
+1200,Llegaste Tarde,Los Amigos Invisibles,afrobeat,0.49,0.82,0.854,0.799,102.572
+1201,Tal Para Cual,Calle 13,afrobeat,0.726,0.871,0.773,0.0714,175.999
+1202,Duck and Cover,Orgone,afrobeat,0.786,0.729,0.907,0.0484,100.995
+1203,Una canción me trajo hasta aquí,Jorge Drexler,afrobeat,0.669,0.843,0.842,0.0641,131.461
+1204,Cumbia Milagrosa,La Misa Negra,afrobeat,0.525,0.424,0.631,0.00552,203.01
+1205,Direto de Camaçacity,Afrocidade,afrobeat,0.821,0.779,0.464,0.0976,105.003
+1206,Feitiço,Samuca e a Selva,afrobeat,0.868,0.793,0.972,0.255,121.977
+1207,Arroz Con Frijoles,Grupo Fantasma,afrobeat,0.382,0.931,0.801,0.137,105.214
+1208,Disneylandia - Cara B,Jorge Drexler,afrobeat,0.575,0.295,0.564,0.877,79.991
+1209,Los De Atrás Vienen Conmigo,Calle 13,afrobeat,0.641,0.66,0.549,0.208,169.881
+1210,El Volcán,Juanafé,afrobeat,0.715,0.897,0.839,0.432,96.891
+1211,Pa' Congo,The Bongo Hop;Maikcel,afrobeat,0.723,0.951,0.762,0.0681,110.076
+1212,Black Hills,The Budos Band,afrobeat,0.44,0.728,0.518,0.00144,136.243
+1213,Mi Último Fracaso,Juanafé;La Flor del Recuerdo,afrobeat,0.457,0.332,0.305,0.791,164.096
+1214,Beautiful Baby,William Onyeabor,afrobeat,0.852,0.442,0.946,0.446,107.426
+1215,Canto para Siempre,Juanafé;Carmen Lienqueo,afrobeat,0.43,0.829,0.445,0.0845,141.277
+1216,Es la Verdad,Los Amigos Invisibles,afrobeat,0.623,0.952,0.714,0.241,108.004
+1217,International,Lack Of Afro;Wax;Herbal T,afrobeat,0.659,0.736,0.63,0.00473,96.971
+1218,Can You Get It,Mandrill,afrobeat,0.854,0.928,0.782,0.152,122.487
+1219,Orunmilá,Metá Metá,afrobeat,0.623,0.66,0.961,0.405,106.887
+1220,Lambe-Lambe,Samuca e a Selva;Illy,afrobeat,0.646,0.701,0.944,0.00283,172.055
+1221,Afrorumbachilenera,Juanafé,afrobeat,0.588,0.745,0.432,0.515,95.071
+1222,Meet You In The Sunshine,The New Mastersounds;Eddie Roberts;Lamar Williams Jr.,afrobeat,0.579,0.833,0.732,0.0785,95.838
+1223,Nauliza,BaianaSystem;Makavelli;Jay Mitta,afrobeat,0.618,0.942,0.736,0.0359,170.005
+1224,País Tropical,Orquestra Brasileira de Música Jamaicana,afrobeat,0.816,0.77,0.964,0.61,127.971
+1225,Banano´s Bar,Plastilina Mosh,afrobeat,0.605,0.842,0.39,0.0133,116.151
+1226,Anestesiada (feat. Kinky),Los Amigos Invisibles;Kinky,afrobeat,0.736,0.951,0.932,0.0149,116.001
+1227,Memoria del cuero,Jorge Drexler,afrobeat,0.674,0.869,0.813,0.374,117.999
+1228,Aquí Nadie Esta Sano (feat. Los Auténticos Decadentes),Los Amigos Invisibles;Los Auténticos Decadentes,afrobeat,0.768,0.91,0.96,0.015,123.023
+1229,Saci (Remix),BaianaSystem;Tropkillaz,afrobeat,0.974,0.922,0.657,0.0974,127.989
+1230,Muerte En Hawaii,Calle 13,afrobeat,0.675,0.588,0.879,0.789,79.989
+1231,Hard Up,The Bamboos,afrobeat,0.782,0.922,0.761,0.00655,104.015
+1232,Maasai - Doctor Flake Remix,Kutiman;Doctor Flake,afrobeat,0.648,0.874,0.339,0.0104,101.994
+1233,Fantastic Man,William Onyeabor,afrobeat,0.7,0.756,0.944,0.00182,114.28
+1234,There's a New Day Coming,Menahan Street Band;Saundra Williams,afrobeat,0.382,0.507,0.494,0.787,135.787
+1235,Sticks & Stones,TJ Cream;Ozoro,afrobeat,0.678,0.634,0.574,0.656,159.682
+1236,Raggaxixe,Thiago França,afrobeat,0.72,0.73,0.773,0.28,93.414
+1237,Lead the Way,Sarah Téibo,afrobeat,0.729,0.807,0.488,0.117,98.969
+1238,Um samba pra John Coltrane,Thiago França,afrobeat,0.701,0.715,0.774,0.313,139.733
+1239,24/7,Nathanael,afrobeat,0.337,0.623,0.461,0.162,56.499
+1240,Pour la vie,Voilaaa;Pat Kalla,afrobeat,0.863,0.687,0.77,0.0575,133.901
+1241,Le king m'a validé,Big Ty;Markis,afrobeat,0.662,0.93,0.954,0.176,125.014
+1242,More Mess on My Thing,The Poets Of Rhythm,afrobeat,0.542,0.869,0.962,0.225,190.509
+1243,Yègellé Tezeta,Mulatu Astatke,afrobeat,0.839,0.233,0.777,0.745,125.597
+1244,Mictlán,Timoneki,afrobeat,0.518,0.649,0.683,0.112,180.202
+1245,Like a Child - Remix,Sarah Téibo;Fred Hammond,afrobeat,0.711,0.811,0.417,0.122,100.065
+1246,Plan de Vuelo,Morbo y Mambo;Andres Nusser,afrobeat,0.647,0.688,0.395,0.0145,123.996
+1247,Vampires,Voilaaa;Hawa;Fouley Badiaga,afrobeat,0.879,0.731,0.945,0.0584,119.997
+1248,Si Estuvieras Aquí,Los Amigos Invisibles,afrobeat,0.693,0.569,0.626,0.62,130.011
+1249,Vivão (vinheta),Afrocidade,afrobeat,0.483,0.887,0.613,0.977,74.325
+1250,Guayabo,QUITAPENAS,afrobeat,0.589,0.827,0.911,0.0239,117.74
+1251,Adiós Batata - Cerrero Dub Mix,Son Palenque;Cerrero;El León Pardo,afrobeat,0.625,0.703,0.487,0.172,114.113
+1252,The Wilhelm Scream,The Bamboos;Washington,afrobeat,0.566,0.621,0.402,0.00773,150.033
+1253,Tujunga,Ikebe Shakedown,afrobeat,0.683,0.83,0.883,0.54,127.237
+1254,Why You Love Me,Nosa,afrobeat,0.503,0.886,0.587,0.0251,133.931
+1255,Cold Sweat,The Mighty Imperials,afrobeat,0.537,0.619,0.897,0.101,119.222
+1256,Ham Gallery,The Poets Of Rhythm,afrobeat,0.781,0.848,0.641,0.0276,109.49
+1257,Cerca del mar,Jorge Drexler,afrobeat,0.749,0.391,0.351,0.603,96.035
+1258,Oya,Metá Metá,afrobeat,0.44,0.742,0.368,0.227,129.169
+1259,La Carga,The Bongo Hop;Nidia Gongora,afrobeat,0.738,0.709,0.851,0.00267,104.987
+1260,Water No Get Enemy,Voilaaa;Pat Kalla,afrobeat,0.886,0.646,0.936,0.00475,125.007
+1261,Lord Of The Golden Baboon,Mandrill,afrobeat,0.571,0.845,0.586,0.0484,128.627
+1262,Barbatana,BaianaSystem,afrobeat,0.558,0.778,0.385,0.000658,131.049
+1263,Kinkinzazo,Plastilina Mosh,afrobeat,0.688,0.948,0.957,0.0334,126.703
+1264,Chinchín,Juanafé,afrobeat,0.665,0.792,0.945,0.317,121.831
+1265,Club Tonight - Cara B,Jorge Drexler,afrobeat,0.677,0.268,0.62,0.817,151.64
+1266,Plastic Woman,Los Amigos Invisibles,afrobeat,0.875,0.684,0.926,0.0284,115.031
+1267,Take 5 - Ao Vivo Na Casa De Francisca,Orquestra Brasileira de Música Jamaicana,afrobeat,0.734,0.444,0.624,0.489,136.305
+1268,Mundo Sem Memória,Abayomy Afrobeat Orquestra;Otto,afrobeat,0.697,0.878,0.751,0.0557,102.012
+1269,El Lobo,Wganda Kenya,afrobeat,0.528,0.862,0.844,0.182,110.192
+1270,Afobado Peito Altivo,Samuca e a Selva,afrobeat,0.424,0.754,0.883,0.0799,100.955
+1271,Reza Frevo,BaianaSystem;Thiago França,afrobeat,0.454,0.98,0.348,0.0972,161.12
+1272,Monopólio,BaianaSystem,afrobeat,0.532,0.93,0.785,0.0136,169.997
+1273,El sur del sur,Jorge Drexler,afrobeat,0.695,0.385,0.26,0.509,120.149
+1274,Okay,Limoblaze;Ada Ehi,afrobeat,0.787,0.751,0.834,0.394,105.003
+1275,Dance the Body Music,Osibisa,afrobeat,0.731,0.831,0.973,0.0132,120.919
+1276,Yawa Dey,Nero X,afrobeat,0.858,0.634,0.824,0.406,105.018
+1277,Road Song,Ikebe Shakedown,afrobeat,0.63,0.735,0.727,0.464,106.589
+1278,"Hard Talk, Pt. 2",TJ Cream;Marko,afrobeat,0.71,0.615,0.605,0.0207,95.0
+1279,I Do It,Angeloh;S.O,afrobeat,0.699,0.493,0.528,0.0737,140.029
+1280,Come on Home,Lijadu Sisters,afrobeat,0.537,0.501,0.914,0.0684,93.849
+1281,Monsieur le Maire de Niafunké,Ali Farka Touré;Toumani Diabaté,afrobeat,0.589,0.427,0.376,0.804,99.648
+1282,Tezeta,Mulatu Astatke,afrobeat,0.549,0.254,0.541,0.962,81.484
+1283,Soukora (with Ry Cooder),Ali Farka Touré,afrobeat,0.431,0.328,0.695,0.503,90.316
+1284,Brown Wind and Fire,Brownout,afrobeat,0.594,0.614,0.825,0.00298,159.94
+1285,Valle Moreno,QUITAPENAS,afrobeat,0.534,0.847,0.852,0.316,119.205
+1286,Silencio,Jorge Drexler,afrobeat,0.887,0.568,0.127,0.263,127.923
+1287,Adará,Abayomy Afrobeat Orquestra;Orlando Julius,afrobeat,0.613,0.9,0.664,0.00838,121.032
+1288,Tu voyeur,Jorge Drexler,afrobeat,0.738,0.355,0.705,0.292,154.019
+1289,Happy,Speedometer,afrobeat,0.59,0.613,0.868,0.394,147.171
+1290,Incompletos,Caê,afrobeat,0.753,0.514,0.65,0.474,120.073
+1291,Influence of Worship,Eddie Neblett,afrobeat,0.536,0.702,0.711,0.2,82.83
+1292,Hang Loose,Mandrill,afrobeat,0.54,0.797,0.935,0.434,128.291
+1293,Tu n'as pas de voiture,Voilaaa;Pat Kalla,afrobeat,0.876,0.72,0.901,0.032,132.984
+1294,Asas,OQuadro;Jorge Du Peixe,afrobeat,0.723,0.636,0.813,0.3,79.958
+1295,Ivory and Blue - Reprise,Menahan Street Band,afrobeat,0.329,0.84,0.962,0.222,174.761
+1296,Pinga Fogo,Nomade Orquestra,afrobeat,0.586,0.827,0.809,0.00549,167.962
+1297,Lua Branca,Afrocidade;Luedji Luna,afrobeat,0.81,0.858,0.69,0.12,110.993
+1298,Adiós Nonino,São Paulo Ska Jazz;Ken Stewart,afrobeat,0.776,0.673,0.617,0.427,141.032
+1299,La huella de tu mirada,Jorge Drexler,afrobeat,0.651,0.371,0.589,0.56,78.718
+1300,Não Existe Amor em SP (Instrumental),Criolo,afrobeat,0.76,0.35,0.31,0.0263,141.988
+1301,Llueve,Jorge Drexler,afrobeat,0.4,0.471,0.0765,0.193,64.502
+1302,WILIN',Jor'dan Armstrong,afrobeat,0.727,0.517,0.529,0.26,127.932
+1303,Slide Show,El Michels Affair,afrobeat,0.587,0.716,0.874,0.157,81.689
+1304,Lontano lontano - Cara B,Jorge Drexler,afrobeat,0.7,0.344,0.473,0.862,89.845
+1305,Aropador,Plastilina Mosh,afrobeat,0.783,0.506,0.397,0.952,117.147
+1306,This Song's For You,El Michels Affair,afrobeat,0.542,0.517,0.326,0.0159,66.552
+1307,Turn and Burn,The Budos Band,afrobeat,0.445,0.833,0.652,0.00256,116.012
+1308,Até de Manhã,Afrocidade,afrobeat,0.746,0.83,0.364,0.0901,100.015
+1309,Maleducao,Juanafé,afrobeat,0.764,0.681,0.807,0.015,123.986
+1310,Danny Trejo,Plastilina Mosh,afrobeat,0.771,0.968,0.756,0.288,93.984
+1311,Deep in the Sand,The Budos Band,afrobeat,0.471,0.864,0.486,0.000394,119.095
+1312,Avi-Vo - Remastered,Lafayette Afro Rock Band,afrobeat,0.709,0.868,0.693,0.428,118.125
+1313,La Dormida,Juanafé,afrobeat,0.618,0.491,0.659,0.41,89.827
+1314,Sorry Sorry - Old School Afro Dub,Femi Kuti,afrobeat,0.763,0.871,0.618,0.0238,101.199
+1315,Passeando em Mim,Samuca e a Selva,afrobeat,0.875,0.722,0.552,0.0772,117.997
+1316,Logun,Metá Metá,afrobeat,0.617,0.868,0.913,0.554,122.883
+1317,Ali Bombaye (Zaire Chant) I,Mandrill;Michael Masser,afrobeat,0.528,0.967,0.725,0.0143,128.446
+1318,Sabrina (feat. Oscar D'León),Los Amigos Invisibles;Oscar D'León,afrobeat,0.458,0.885,0.826,0.00259,195.646
+1319,Aquamosh,Plastilina Mosh,afrobeat,0.704,0.728,0.509,0.491,92.228
+1320,Criado Mudou,BaianaSystem,afrobeat,0.549,0.704,0.112,0.58,133.986
+1321,For Me,Limoblaze;Marizu,afrobeat,0.728,0.719,0.719,0.477,107.95
+1322,Batom,ATR;Luedji Luna,afrobeat,0.656,0.508,0.585,0.295,194.015
+1323,Utrus Horas,Orchestra Baobab,afrobeat,0.725,0.266,0.617,0.828,86.727
+1324,Ring the Alarm,ST-Saint;Mark Asari;Reblah;678NATH;Raptist & Marko;Leslie Skye;Zelijah & Konola;Gtay;Nizzy Nath;JL Poleon,afrobeat,0.643,0.787,0.747,0.339,140.279
+1325,Fill My Cup,Angeloh,afrobeat,0.615,0.704,0.489,0.331,100.019
+1326,Authentic,A Mose;TBabz,afrobeat,0.788,0.499,0.612,0.205,97.977
+1327,Spies Are Watching Me,Voilaaa;Sir Jean,afrobeat,0.892,0.708,0.949,0.0395,127.002
+1328,Mbila - João Selva Remix,Les Mamans du Congo;RROBIN;João Selva,afrobeat,0.821,0.769,0.606,0.0299,123.904
+1329,Contra el Sol,Ocote Soul Sounds,afrobeat,0.664,0.854,0.961,0.388,107.855
+1330,Rejoice,Oba Reengy;Yoski,afrobeat,0.55,0.557,0.439,0.0623,111.383
+1331,Que Tumba,Romperayo,afrobeat,0.714,0.613,0.964,0.0479,93.969
+1332,Uiyi Guaye,Calle 13,afrobeat,0.734,0.783,0.767,0.0692,183.918
+1333,Pernas Voadoras,Orquestra Voadora,afrobeat,0.655,0.62,0.763,0.75,97.513
+1334,Blow My Mind - Spanish Remix,Limoblaze;Ada Betsabe;Principal,afrobeat,0.709,0.594,0.879,0.367,189.916
+1335,blanco nigeria,Morbo y Mambo,afrobeat,0.615,0.694,0.745,0.287,135.861
+1336,Safe in You,Sarah Téibo;Tneek,afrobeat,0.5,0.778,0.514,0.0422,75.145
+1337,Le mariage forcé,Star Feminine Band,afrobeat,0.716,0.752,0.776,0.0569,118.591
+1338,Comfort Me,Rehmahz;Asha Elia,afrobeat,0.804,0.625,0.766,0.488,99.914
+1339,Tema,Victor Rice,afrobeat,0.634,0.664,0.872,0.216,130.962
+1340,Agoya,The Souljazz Orchestra,afrobeat,0.739,0.88,0.783,0.59,115.967
+1341,Boga Canoero,Ondatrópica,afrobeat,0.648,0.68,0.959,0.549,115.9
+1342,Juaneco Y La Negra,Thee Commons,afrobeat,0.343,0.886,0.828,0.000273,192.492
+1343,Shattered Winds,The Budos Band,afrobeat,0.447,0.826,0.685,0.0226,105.475
+1344,Engasga Gato,Kiko Dinucci e Bando Afro Macarrônico,afrobeat,0.799,0.606,0.845,0.439,114.941
+1345,La luna de espejos,Jorge Drexler,afrobeat,0.712,0.225,0.429,0.93,87.52
+1346,Simigwa-Do,Gyedu-Blay Ambolley,afrobeat,0.805,0.812,0.748,0.0318,122.003
+1347,Is yeelyel,The Souljazz Orchestra,afrobeat,0.843,0.805,0.914,0.0403,116.002
+1348,Haja Axé,Samuca e a Selva;Onã,afrobeat,0.701,0.722,0.848,0.0407,179.938
+1349,Could've Been So Good,The New Mastersounds;Eddie Roberts,afrobeat,0.589,0.675,0.748,0.515,119.792
+1350,Get It Right,Breakestra,afrobeat,0.743,0.962,0.872,0.127,108.602
+1351,Curiche,Newen Afrobeat,afrobeat,0.79,0.711,0.861,0.221,110.063
+1352,Shame,William Onyeabor,afrobeat,0.829,0.448,0.749,0.34,103.306
+1353,Budos Dirge,The Budos Band,afrobeat,0.571,0.877,0.814,0.344,120.907
+1354,Freak Out,Jackie Mittoo,afrobeat,0.715,0.635,0.956,0.0241,79.255
+1355,You Should Know,Jor'dan Armstrong,afrobeat,0.393,0.616,0.275,0.0444,97.458
+1356,Closer to Me,Lack Of Afro;Roxie Ray,afrobeat,0.677,0.902,0.893,0.016,111.925
+1357,Reppirt Yad,The Budos Band,afrobeat,0.509,0.511,0.611,0.0238,116.851
+1358,Polvo de Inti,Newen Afrobeat,afrobeat,0.553,0.847,0.795,0.0176,159.896
+1359,Mr. P-Mosh,Plastilina Mosh,afrobeat,0.791,0.642,0.477,0.0213,94.585
+1360,Count It,Jor'dan Armstrong,afrobeat,0.517,0.858,0.55,0.132,100.04
+1361,El Sirenito,Plastilina Mosh,afrobeat,0.671,0.898,0.875,0.11,92.953
+1362,La aparecida,Jorge Drexler,afrobeat,0.539,0.372,0.313,0.853,147.078
+1363,Mizin,Ebo Taylor,afrobeat,0.808,0.841,0.891,0.402,106.477
+1364,Pa'l Norte - Beauty Brain Remix,Calle 13,afrobeat,0.791,0.835,0.8,0.0223,140.027
+1365,Reggae Rock,Jackie Mittoo,afrobeat,0.752,0.451,0.886,0.368,81.468
+1366,El Que Te Quiere Te Quiere,Juanafé,afrobeat,0.722,0.904,0.783,0.451,93.94
+1367,Ora Iê Iê O,Metá Metá,afrobeat,0.682,0.815,0.964,0.528,106.068
+1368,Todo se transforma,Jorge Drexler,afrobeat,0.761,0.488,0.682,0.199,100.024
+1369,Villa,El Michels Affair,afrobeat,0.503,0.733,0.377,0.676,167.935
+1370,Ojah Awake,Osibisa,afrobeat,0.581,0.709,0.816,0.0268,132.096
+1371,Love,Greyboy;Nino Moschella,afrobeat,0.851,0.414,0.581,0.0498,102.807
+1372,You Are My Heart,Rex Williams,afrobeat,0.675,0.681,0.604,0.481,97.442
+1373,Anbessa,Akalé Wubé;Manu Dibango,afrobeat,0.82,0.473,0.645,0.293,120.066
+1374,Old Engine Oil,The Budos Band,afrobeat,0.366,0.91,0.322,0.00119,92.94
+1375,Amoureux,Ilover,afrobeat,0.703,0.859,0.867,0.222,82.069
+1376,Your Love,Limoblaze;Dj Horphuray,afrobeat,0.795,0.719,0.958,0.115,110.02
+1377,Bra,Cymande,afrobeat,0.676,0.769,0.891,0.00545,117.733
+1378,Like a Child,Sarah Téibo;Jason Nicholson-Porter;Tehillah Daniels,afrobeat,0.631,0.703,0.611,0.0209,90.066
+1379,Bs80,Morbo y Mambo,afrobeat,0.484,0.783,0.77,0.0119,164.006
+1380,Bim-Bim-Bim,Caê,afrobeat,0.778,0.76,0.895,0.521,122.108
+1381,Bonde (with Ry Cooder),Ali Farka Touré,afrobeat,0.514,0.532,0.553,0.712,113.821
+1382,Never Leave Me,Sarah Téibo,afrobeat,0.723,0.558,0.547,0.344,103.983
+1383,Revoar,Orquestra Voadora,afrobeat,0.413,0.744,0.963,0.24,88.561
+1384,Original Joy,TBabz;Naffymar,afrobeat,0.79,0.502,0.59,0.237,87.996
+1385,Ginga Ponteiro in Versão,Nomade Orquestra,afrobeat,0.809,0.677,0.875,0.166,110.001
+1386,Tell Somebody Bout Jesus,Jaron Nurse,afrobeat,0.668,0.612,0.722,0.0712,82.861
+1387,Abre-Caminho,Bantunagojeje,afrobeat,0.572,0.73,0.815,8.14e-05,129.706
+1388,KNUCKLEHEAD,The Sound Stylistics,afrobeat,0.688,0.897,0.942,0.467,113.784
+1389,Sniffin' & Snatchin',The Soul Snatchers,afrobeat,0.785,0.862,0.682,0.016,106.052
+1390,Pas la peine,Vaudou Game,afrobeat,0.82,0.788,0.8,0.0599,122.712
+1391,Santa Bamba,Kiko Dinucci e Bando Afro Macarrônico,afrobeat,0.734,0.463,0.828,0.695,85.988
+1392,Posed To Be - Instrumental,Breakestra,afrobeat,0.783,0.864,0.687,0.00106,104.356
+1393,Duas de Cinco,Criolo,afrobeat,0.658,0.718,0.514,0.0446,80.112
+1394,Subirusdoistiozin (Instrumental),Criolo,afrobeat,0.787,0.385,0.448,0.0194,86.456
+1395,Tuntuna Rebajada,Romperayo,afrobeat,0.7,0.713,0.934,0.834,83.493
+1396,Al Otro Lado Del Río (342 Amazônia ao Vivo no Circo Voador),Jorge Drexler,afrobeat,0.705,0.435,0.535,0.597,124.705
+1397,Femme africaine,Star Feminine Band,afrobeat,0.517,0.834,0.871,0.13,113.778
+1398,The Importance of Elsewhere,Lack Of Afro,afrobeat,0.795,0.727,0.826,0.155,108.036
+1399,Mjlm,Plastilina Mosh,afrobeat,0.739,0.854,0.792,0.133,126.39
+1400,Jussara,Samuca e a Selva,afrobeat,0.806,0.685,0.967,0.0521,104.011
+1401,The Proposition,The Budos Band,afrobeat,0.507,0.905,0.579,0.0967,97.327
+1402,Amendoim Pão de Mel,BaianaSystem,afrobeat,0.648,0.855,0.698,0.0218,148.022
+1403,Aduna Diaroul Niawo,Orchestra Baobab,afrobeat,0.585,0.6,0.816,0.603,85.91
+1404,Story,Greatman Takit,afrobeat,0.845,0.849,0.808,0.711,106.873
+1405,Georgie Famous,The New Mastersounds;Eddie Roberts,afrobeat,0.442,0.804,0.589,0.0115,150.144
+1406,Reflertar,Samuca e a Selva,afrobeat,0.663,0.478,0.386,0.114,149.957
+1407,Burundanga,Los Amigos Invisibles,afrobeat,0.759,0.914,0.727,0.0186,109.998
+1408,Fractura de escafoides tarsiano derecho - Cara B,Jorge Drexler,afrobeat,0.481,0.442,0.709,0.507,151.445
+1409,Mark of the Unnamed,The Budos Band,afrobeat,0.622,0.797,0.795,0.117,114.822
+1410,Instant Coffee (feat. Kyle Hollingsworth),Euforquestra;Kyle Hollingsworth,afrobeat,0.717,0.777,0.792,0.239,101.941
+1411,You Mess Me Up,The New Mastersounds,afrobeat,0.573,0.995,0.921,0.116,98.171
+1412,Systema Fobica,BaianaSystem;BNegão,afrobeat,0.795,0.63,0.343,0.119,93.006
+1413,Cotidiano,Orquestra Brasileira de Música Jamaicana,afrobeat,0.803,0.661,0.96,0.544,140.018
+1414,Henry the Great,Jackie Mittoo,afrobeat,0.937,0.5,0.711,0.544,101.665
+1415,All Day Today,Los Amigos Invisibles,afrobeat,0.75,0.932,0.82,0.00341,124.012
+1416,La Vuelta Al Mundo,Calle 13,afrobeat,0.748,0.538,0.779,0.159,124.974
+1417,Nomalizo,Letta Mbulu,afrobeat,0.86,0.41,0.653,0.306,98.269
+1418,Victory,Eben,afrobeat,0.751,0.697,0.879,0.372,125.924
+1419,Sabu Yerkoy,Ali Farka Touré;Toumani Diabaté,afrobeat,0.599,0.364,0.697,0.787,81.317
+1420,Move on Up,The Dynamics,afrobeat,0.836,0.709,0.969,0.154,145.952
+1421,Zombie,Fela Kuti,afrobeat,0.672,0.942,0.574,0.386,131.45
+1422,Dram,Ikebe Shakedown,afrobeat,0.595,0.765,0.736,0.056,149.58
+1423,Murkit Gem,El Michels Affair;Piya Malik,afrobeat,0.536,0.632,0.566,0.599,117.796
+1424,Gimme Some Lovin',Matata,afrobeat,0.831,0.658,0.961,0.415,116.698
+1425,Snake Pit - Stove Mix,Jungle Fire,afrobeat,0.806,0.716,0.87,0.14,124.778
+1426,Rock It,The Dynamics,afrobeat,0.814,0.824,0.902,0.219,129.01
+1427,Musica Alegre,Buyepongo,afrobeat,0.794,0.736,0.872,0.27,126.032
+1428,Mandjou,Voilaaa;Lass,afrobeat,0.843,0.801,0.908,0.0195,116.017
+1429,Tranquilidad,QUITAPENAS,afrobeat,0.555,0.904,0.932,0.0734,146.4
+1430,Increase Comes From You,Oba Reengy,afrobeat,0.811,0.37,0.549,0.369,112.012
+1431,Magic Fever,Plastilina Mosh,afrobeat,0.61,0.808,0.556,0.0952,137.086
+1432,A Time For,Lack Of Afro;Wayne Gidden,afrobeat,0.642,0.673,0.835,0.404,93.881
+1433,Unqualified,Ikebe Shakedown,afrobeat,0.599,0.907,0.866,0.101,122.843
+1434,Africa Havana Paris,Ricardo Lemvo,afrobeat,0.756,0.629,0.932,0.608,156.029
+1435,Mami Te Extraño,Los Amigos Invisibles,afrobeat,0.806,0.561,0.808,0.0517,135.02
+1436,Conga - Remastered,Lafayette Afro Rock Band,afrobeat,0.705,0.83,0.602,0.0659,119.099
+1437,Before,The New Mastersounds;Eddie Roberts;Lamar Williams Jr.,afrobeat,0.58,0.549,0.629,0.166,144.091
+1438,Rainha das Cabeças,Kiko Dinucci e Bando Afro Macarrônico,afrobeat,0.73,0.736,0.937,0.763,139.961
+1439,Topo do Mundo,Afrocidade,afrobeat,0.744,0.863,0.676,0.0242,132.983
+1440,Bogotá (Instrumental),Criolo,afrobeat,0.751,0.882,0.872,0.00323,122.037
+1441,La trama y el desenlace,Jorge Drexler,afrobeat,0.578,0.49,0.72,0.0929,150.016
+1442,Aquecimento Caboclo Roxo,Foli Griô Orquestra;DJ Vinimax;Cebolinha do Passinho,afrobeat,0.633,0.79,0.867,0.42,127.623
+1443,Boom Boom Tarará,Ricardo Lemvo;Makina Loca,afrobeat,0.778,0.871,0.961,0.35,123.06
+1444,Malaria,Ondatrópica,afrobeat,0.647,0.798,0.906,0.125,109.897
+1445,Back in Business,Lack Of Afro;Wax;Herbal T,afrobeat,0.815,0.925,0.898,0.0594,116.057
+1446,Naranjada,Plastilina Mosh,afrobeat,0.739,0.886,0.814,0.553,145.02
+1447,Sabbath Bloody Sabbath,Brownout;Brown Sabbath;Aaron Behrens,afrobeat,0.332,0.786,0.724,0.00182,143.4
+1448,Toll Free,Plastilina Mosh,afrobeat,0.746,0.722,0.889,0.031,138.153
+1449,Cántaros,Newen Afrobeat,afrobeat,0.698,0.63,0.855,0.239,100.014
+1450,An Epic Story,Mulatu Astatke;The Heliocentrics,afrobeat,0.389,0.672,0.584,0.302,173.954
+1451,Miracle,Jor'dan Armstrong;Lowell Pye,afrobeat,0.307,0.68,0.224,0.58,74.151
+1452,El Baile Del Sobón,Los Amigos Invisibles,afrobeat,0.735,0.92,0.68,0.0104,154.988
+1453,Chama Arteira,Samuca e a Selva,afrobeat,0.694,0.731,0.62,0.0856,125.769
+1454,Lucro/Descomprimindo (Mulú Remix),BaianaSystem;Mulú,afrobeat,0.853,0.607,0.187,0.00186,104.984
+1455,The Moon and The Sun,William Onyeabor,afrobeat,0.616,0.838,0.849,0.279,145.936
+1456,Afroman,Plastilina Mosh,afrobeat,0.644,0.883,0.783,0.638,104.159
+1457,Canette - Bosq Remix,Pat Kalla;Le Super Mojo;Bosq,afrobeat,0.852,0.699,0.941,0.104,123.018
+1458,Águas de Março,Orquestra Brasileira de Música Jamaicana,afrobeat,0.851,0.498,0.896,0.741,129.1
+1459,Mi Linda,Los Amigos Invisibles,afrobeat,0.727,0.897,0.897,0.0159,135.087
+1460,La Perla (feat. Rubén Blades & La Chilinga),Calle 13;Rubén Blades;La Chilinga,afrobeat,0.735,0.681,0.968,0.673,90.003
+1461,"Multi-Viral (feat. Julian Assange, Tom Morello & Kamilya Jubran)",Calle 13;Julian Assange;Tom Morello;Kamilya Jubran,afrobeat,0.501,0.963,0.656,0.0516,165.128
+1462,Oranian,Metá Metá,afrobeat,0.561,0.561,0.701,0.77,106.187
+1463,Gold,Limoblaze;Ada Ehi,afrobeat,0.479,0.719,0.699,0.214,113.017
+1464,Jesus at the Centre,Eben,afrobeat,0.489,0.557,0.11,0.0329,135.907
+1465,4:ME,ST-Saint,afrobeat,0.637,0.671,0.593,0.0869,97.602
+1466,Unathi,El Michels Affair;Piya Malik,afrobeat,0.524,0.65,0.826,0.0954,107.493
+1467,56,Ali Farka Touré;Toumani Diabaté,afrobeat,0.448,0.411,0.471,0.807,89.475
+1468,Many Are Called,TJ Cream;Edz,afrobeat,0.882,0.722,0.941,0.57,140.028
+1469,Mulato,Iconili,afrobeat,0.635,0.752,0.832,0.00616,121.92
+1470,La Negra,Hektombe,afrobeat,0.717,0.683,0.594,0.0364,113.016
+1471,Mercy,Sharyn,afrobeat,0.765,0.434,0.267,0.366,141.939
+1472,Woso,Qyubi,afrobeat,0.778,0.619,0.684,0.623,102.017
+1473,"Latinoamérica (feat. Totó la Momposina, Susana Baca & Maria Rita)",Calle 13;Totó La Momposina;Susana Baca;Maria Rita,afrobeat,0.691,0.805,0.866,0.59,142.503
+1474,River,Eddie Neblett,afrobeat,0.569,0.704,0.865,0.13,104.725
+1475,La Mura,Victor Rice,afrobeat,0.545,0.608,0.975,0.409,141.849
+1476,After Laughter Comes Tears,The Dynamics,afrobeat,0.791,0.358,0.78,0.291,83.007
+1477,Cash and Carry - Remix,BANTU;Megaloh;Ghanaian Stallion,afrobeat,0.846,0.814,0.784,0.0553,114.886
+1478,Rita,La Cumbia Chicharra,afrobeat,0.754,0.434,0.946,0.0989,86.01
+1479,Nothing Can Stop Us,Soothsayers,afrobeat,0.78,0.758,0.911,0.159,111.038
+1480,EMOTIONS,Jor'dan Armstrong,afrobeat,0.484,0.572,0.397,0.245,138.342
+1481,Tomowa,Voilaaa;Renaud Bilombo,afrobeat,0.902,0.75,0.964,0.101,121.989
+1482,Spies Are Watching Me - Patchworks Remix,Voilaaa;Sir Jean;Patchworks,afrobeat,0.861,0.671,0.961,0.0424,127.015
+1483,Asi No Se Puede Muchaches,Romperayo,afrobeat,0.736,0.885,0.832,0.0684,112.01
+1484,Evolui (Bem Aventurados),OQuadro,afrobeat,0.851,0.772,0.922,0.0462,93.521
+1485,Pi-di-di-di,Calle 13,afrobeat,0.817,0.676,0.64,0.0509,94.943
+1486,Vuela Junto a Mí,Newen Afrobeat,afrobeat,0.795,0.904,0.85,0.339,100.045
+1487,Canoeiro (vinheta),Afrocidade;Nildes Bomfim,afrobeat,0.573,0.92,0.4,0.786,110.488
+1488,Walk 4 Ground,Gyedu-Blay Ambolley,afrobeat,0.798,0.728,0.822,0.0437,120.001
+1489,Exu,Metá Metá,afrobeat,0.643,0.507,0.611,0.927,116.743
+1490,That Woman (Congo Sanchez Remix) [feat. Alan Evans],Euforquestra;Alan Evans,afrobeat,0.735,0.721,0.792,0.271,93.0
+1491,Chicha Negra,Money Chicha,afrobeat,0.452,0.853,0.937,0.0139,97.222
+1492,Tame the Beats,Ikebe Shakedown,afrobeat,0.826,0.744,0.977,0.396,144.981
+1493,Nowa - Radio Edit,The Bongo Hop;Maikcel,afrobeat,0.742,0.919,0.96,0.3,99.906
+1494,Deeper and Deeper,Jackie Mittoo,afrobeat,0.577,0.593,0.536,0.859,78.238
+1495,Trail of Tears,The Budos Band,afrobeat,0.532,0.641,0.604,0.0235,96.142
+1496,I'm Wit It,Jor'dan Armstrong,afrobeat,0.82,0.587,0.55,0.231,100.014
+1497,Nación Nueva,Newen Afrobeat,afrobeat,0.668,0.75,0.705,0.0175,134.96
+1498,Son de la Loma,Manu Dibango;Cuarteto Patria,afrobeat,0.485,0.741,0.936,0.317,103.72
+1499,Che Revolution (feat. La Dame Blanche),El Hijo De La Cumbia;La Dame Blanche,afrobeat,0.735,0.919,0.155,0.0371,109.022
+1500,Só,Samuca e a Selva,afrobeat,0.757,0.84,0.734,0.0278,112.081
+1501,Higher,Jor'dan Armstrong,afrobeat,0.765,0.888,0.625,0.27,120.042
+1502,Only Now - Bosq Remix,Warsaw Afrobeat Orchestra;Bosq,afrobeat,0.788,0.917,0.747,0.117,108.991
+1503,Era de amar,Jorge Drexler,afrobeat,0.697,0.632,0.792,0.608,74.359
+1504,Five Thirty,Ernest Ranglin,afrobeat,0.751,0.279,0.41,0.0933,138.848
+1505,O Trem Azul,Samuca e a Selva;Liniker,afrobeat,0.718,0.458,0.569,0.382,170.92
+1506,Fiesta de Locos,Calle 13,afrobeat,0.775,0.922,0.712,0.285,105.085
+1507,Groupie,Los Amigos Invisibles,afrobeat,0.761,0.756,0.702,0.00953,126.122
+1508,Encendedor,Plastilina Mosh,afrobeat,0.647,0.855,0.816,0.000331,107.859
+1509,On the Border,The New Mastersounds,afrobeat,0.78,0.934,0.879,0.118,102.038
+1510,Warbé,Ali Farka Touré;Toumani Diabaté,afrobeat,0.601,0.247,0.373,0.938,148.516
+1511,Gri Gri Bá Dön,Höröyá,afrobeat,0.767,0.837,0.493,0.0981,135.972
+1512,Tearz,El Michels Affair;Lee Fields;The Shacks,afrobeat,0.75,0.382,0.454,0.29,97.226
+1513,Doudou,Ali Farka Touré;Toumani Diabaté,afrobeat,0.404,0.397,0.69,0.848,171.012
+1514,Savane,Ali Farka Touré,afrobeat,0.764,0.282,0.504,0.77,135.736
+1515,Be Mankan,Ali Farka Touré;Toumani Diabaté,afrobeat,0.583,0.206,0.483,0.9,123.362
+1516,Atomic Bomb - William Onyeabor vs. Hot Chip,William Onyeabor;Hot Chip,afrobeat,0.834,0.56,0.78,0.0145,125.798
+1517,La Crema,Calle 13,afrobeat,0.579,0.748,0.722,0.273,91.944
+1518,By My Side,Rehmahz;Oba Reengy,afrobeat,0.614,0.629,0.755,0.307,90.524
+1519,Anyway,Sharyn,afrobeat,0.541,0.31,0.324,0.813,137.956
+1520,The Waddle,Lefties Soul Connection,afrobeat,0.641,0.837,0.813,0.0497,86.177
+1521,Stay Here,Marizu,afrobeat,0.575,0.441,0.665,0.806,98.868
+1522,Tiê,Sambabook;Criolo,afrobeat,0.668,0.516,0.858,0.645,89.252
+1523,Hard Talk,TJ Cream;Marko,afrobeat,0.682,0.569,0.546,0.206,151.09
+1524,Se Vale To-To,Calle 13,afrobeat,0.699,0.739,0.429,0.00428,175.979
+1525,Paisaje lunar,Jorge Drexler,afrobeat,0.699,0.503,0.664,0.841,152.933
+1526,Let Jesus Row,J Prince,afrobeat,0.813,0.83,0.809,0.0389,113.985
+1527,Allema Timba,Alogte Oho & His Sounds of Joy,afrobeat,0.631,0.458,0.945,0.384,141.12
+1528,Save Me From Myself,Oba Reengy,afrobeat,0.418,0.657,0.364,0.328,87.384
+1529,Beetham Highway Ride,Bacao Rhythm & Steel Band,afrobeat,0.831,0.758,0.902,0.107,96.293
+1530,Good Vibration - Village Cuts Remix,Soothsayers;Village Cuts,afrobeat,0.86,0.676,0.602,0.268,94.025
+1531,Tacutun,Romperayo,afrobeat,0.785,0.671,0.601,0.019,122.966
+1532,Mandrill,Mandrill,afrobeat,0.536,0.734,0.689,0.0785,133.655
+1533,Palermo's Grunch,Los Pirañas,afrobeat,0.55,0.871,0.888,0.0483,131.439
+1534,Chalupa,Jungle Fire,afrobeat,0.643,0.808,0.931,0.32,116.886
+1535,Noma Themba,Letta Mbulu,afrobeat,0.734,0.411,0.532,0.656,90.629
+1536,Atómico - Felipe Gordon Remix - Single Edit,Jungle Fire;Felipe Gordon,afrobeat,0.748,0.816,0.715,0.0265,120.996
+1537,la espada de cadorna,Morbo y Mambo,afrobeat,0.513,0.845,0.706,0.0152,130.117
+1538,Des promesses,Voilaaa;Pat Kalla,afrobeat,0.83,0.785,0.833,0.00709,134.019
+1539,The Ghost,The Bamboos,afrobeat,0.688,0.763,0.713,0.0111,99.022
+1540,Rusty,Lack Of Afro,afrobeat,0.611,0.973,0.898,0.0637,100.403
+1541,Look at the Smile,Pacific Express;Jonathan Bulter,afrobeat,0.688,0.638,0.958,0.0149,97.743
+1542,Confirm,A Mose;Nolly,afrobeat,0.853,0.576,0.642,0.0218,104.012
+1543,Do You Want a Man - Heaven & Hell Remix,William Onyeabor;The Vaccines;John Hill;Rich Costey,afrobeat,0.603,0.921,0.816,0.198,122.978
+1544,Escape from the Catacombs,The Sorcerers,afrobeat,0.595,0.721,0.831,0.428,166.305
+1545,Ocidentes Acontecem,Nomade Orquestra;Edgar,afrobeat,0.454,0.743,0.471,0.124,132.043
+1546,Si Tu Me Quisieras,Juanafé;La Flor del Recuerdo,afrobeat,0.659,0.53,0.726,0.743,126.031
+1547,Carnaval,Manu Dibango;Cuarteto Patria,afrobeat,0.44,0.739,0.927,0.294,101.033
+1548,Cumbia Del Sol,Thee Commons,afrobeat,0.606,0.914,0.944,0.00457,96.243
+1549,Novos Mundos,Afrocidade,afrobeat,0.816,0.88,0.752,0.165,120.079
+1550,I Sold My Heart to the Junkman,Orgone;Cyril Neville,afrobeat,0.534,0.672,0.819,0.00784,102.071
+1551,Soleil Couchant,The Souljazz Orchestra,afrobeat,0.618,0.831,0.92,0.429,126.058
+1552,Motives - What Have We Come Here to Do Church?,Eddie Neblett,afrobeat,0.715,0.698,0.661,0.377,84.653
+1553,Ja Fun Mi - Instrumental,King Sunny Ade,afrobeat,0.464,0.683,0.833,0.165,105.437
+1554,Qué Sabemos,Newen Afrobeat,afrobeat,0.677,0.799,0.775,0.0397,125.041
+1555,Baile De Los Pobres,Calle 13,afrobeat,0.501,0.82,0.427,0.0868,179.996
+1556,Drum Song,Jackie Mittoo,afrobeat,0.696,0.415,0.637,0.169,95.801
+1557,Imensidão,Samuca e a Selva,afrobeat,0.758,0.803,0.791,0.0336,108.015
+1558,Las Lycras del Avila,Los Amigos Invisibles,afrobeat,0.691,0.624,0.734,0.32,132.297
+1559,Mostro,Los Amigos Invisibles,afrobeat,0.853,0.799,0.798,0.159,125.015
+1560,Ojos Color Sol (feat. Silvio Rodríguez),Calle 13;Silvio Rodríguez,afrobeat,0.582,0.443,0.452,0.664,78.071
+1561,La Que Me Gusta,Los Amigos Invisibles,afrobeat,0.721,0.833,0.549,0.122,100.005
+1562,My Prayer (Yahweh),CalledOut Music,afrobeat,0.583,0.31,0.563,0.688,140.974
+1563,I Don't Wanna Stop,The Bamboos,afrobeat,0.69,0.775,0.962,0.119,93.241
+1564,Use Me,Angeloh,afrobeat,0.581,0.491,0.877,0.281,126.273
+1565,Un Beso de Desayuno,Calle 13,afrobeat,0.537,0.854,0.786,0.295,84.894
+1566,Vuelo Antillano,La BOA,afrobeat,0.771,0.735,0.95,0.0142,107.975
+1567,Love Like This - 45 Edit,Bacao Rhythm & Steel Band,afrobeat,0.91,0.837,0.969,0.427,101.494
+1568,Suffer,IFÁ;Okwei V. Odili,afrobeat,0.718,0.748,0.963,0.0885,99.014
+1569,Axé!,IFÁ;Okwei V. Odili,afrobeat,0.712,0.728,0.965,0.0867,115.967
+1570,Forgiveness,Eddie Neblett,afrobeat,0.496,0.594,0.73,0.437,172.031
+1571,Kaiso Noir (Bonus Track),Bacao Rhythm & Steel Band,afrobeat,0.815,0.618,0.964,0.0231,119.882
+1572,Thunderbird,Whitefield Brothers,afrobeat,0.709,0.978,0.744,0.026,94.391
+1573,Into the Void,Brownout;Brown Sabbath,afrobeat,0.34,0.729,0.415,0.0134,154.28
+1574,Playa Azul,Los Amigos Invisibles,afrobeat,0.629,0.745,0.704,0.229,175.979
+1575,Eru,Abayomy Afrobeat Orquestra,afrobeat,0.565,0.906,0.84,0.0553,133.283
+1576,Something,Los Amigos Invisibles,afrobeat,0.695,0.714,0.77,0.00374,116.035
+1577,Domingo Echao,Los Amigos Invisibles,afrobeat,0.86,0.457,0.672,0.0598,114.972
+1578,Pangeia,BaianaSystem;Mateus Aleluia,afrobeat,0.743,0.631,0.686,0.29,110.034
+1579,Yennicita,El Michels Affair,afrobeat,0.44,0.682,0.397,0.0422,168.385
+1580,C'est le voyage,Voilaaa,afrobeat,0.868,0.806,0.941,0.304,121.918
+1581,Nasty Hats,Orgone,afrobeat,0.745,0.82,0.962,0.0177,93.978
+1582,It's Your Thing / Hey Pocky a-Way,Lefties Soul Connection,afrobeat,0.508,0.882,0.842,0.0351,170.223
+1583,Stimela (Coal Train) - Black Coffee Remix,Hugh Masekela;Black Coffee,afrobeat,0.818,0.942,0.735,0.126,123.015
+1584,Obatalá,Abayomy Afrobeat Orquestra,afrobeat,0.577,0.773,0.469,0.0709,93.111
+1585,Losin' Ground,Cymande,afrobeat,0.77,0.3,0.707,0.232,93.169
+1586,The Creator Has a Masterplan,The Dynamics,afrobeat,0.781,0.601,0.822,0.322,121.001
+1587,Arepa 3000,Los Amigos Invisibles,afrobeat,0.661,0.877,0.911,0.0252,110.111
+1588,El valle de las leñas amarillas,Jorge Drexler,afrobeat,0.794,0.4,0.437,0.855,108.622
+1589,Playsom (Mahal Pita Remix),BaianaSystem;Mahal Pita,afrobeat,0.696,0.686,0.477,0.00899,128.102
+1590,Pull Me Through,Jor'dan Armstrong;Tim Bowman Jr.,afrobeat,0.669,0.754,0.543,0.339,118.091
+1591,Tata Masamba,Ricardo Lemvo,afrobeat,0.807,0.696,0.931,0.714,91.029
+1592,My Baby's Cheating - I Sure Got the Feeling,The Bamboos,afrobeat,0.716,0.947,0.805,0.0548,101.628
+1593,Karma Sutra,Orgone,afrobeat,0.651,0.949,0.963,0.019,98.336
+1594,Vinheta Baiana,BaianaSystem,afrobeat,0.427,0.59,0.722,0.82,121.578
+1595,Baie de Sangareya,The Shaolin Afronauts,afrobeat,0.605,0.74,0.745,0.0772,102.605
+1596,P.D.T.N. (Prostituto de Transnacional),Newen Afrobeat,afrobeat,0.68,0.777,0.425,0.0808,105.052
+1597,Lady,Fela Kuti,afrobeat,0.747,0.858,0.536,0.302,106.693
+1598,Cumbia da Simone,Manoel Cordeiro,afrobeat,0.721,0.777,0.782,0.504,114.014
+1599,Love Thy Neighbour,Orlando Julius;The Heliocentrics,afrobeat,0.628,0.93,0.699,0.00866,108.168
+1600,Taking Me Down,The New Mastersounds;Jeff Franca;Lamar Williams Jr.,afrobeat,0.692,0.854,0.782,0.333,95.026
+1601,The Plan,The Poets Of Rhythm,afrobeat,0.782,0.935,0.853,0.127,123.248
+1602,Cumbia Espacial,Ondatrópica,afrobeat,0.705,0.859,0.754,0.373,91.263
+1603,Rainha das Cabeças,Metá Metá,afrobeat,0.359,0.953,0.658,0.299,98.935
+1604,Pagode Russo,Orquestra Brasileira de Música Jamaicana,afrobeat,0.751,0.868,0.985,0.708,150.052
+1605,Let's Fall in Love,William Onyeabor,afrobeat,0.713,0.958,0.961,0.461,131.462
+1606,Pornoshop,Plastilina Mosh,afrobeat,0.635,0.822,0.601,0.000989,103.05
+1607,Stereo Freeze,Jackie Mittoo,afrobeat,0.679,0.648,0.952,0.000521,102.627
+1608,My Everything,Kutiman;Dekel,afrobeat,0.594,0.552,0.52,0.105,110.038
+1609,This Loving,Limoblaze;Johnny Drille,afrobeat,0.564,0.483,0.569,0.53,101.095
+1610,Coconut,Manu Dibango,afrobeat,0.652,0.84,0.955,0.145,113.623
+1611,¿ Quien Es ?,La Cumbia Chicharra,afrobeat,0.79,0.647,0.967,0.602,93.99
+1612,Good God,Limoblaze;Ada Ehi,afrobeat,0.285,0.513,0.221,0.656,82.303
+1613,Everyday,TJ Cream;First Fire;Marko,afrobeat,0.522,0.727,0.714,0.633,93.37
+1614,Victory,Rehmahz;Limoblaze,afrobeat,0.672,0.437,0.411,0.486,126.599
+1615,Fever,Elikem Kofi,afrobeat,0.766,0.696,0.521,0.0988,107.977
+1616,El Pescador,Dos Santos,afrobeat,0.562,0.722,0.887,0.0132,100.747
+1617,What You Want,Angeloh,afrobeat,0.77,0.584,0.669,0.288,114.96
+1618,Tikulafe,Zé Bigode Orquestra,afrobeat,0.641,0.77,0.643,0.0631,121.956
+1619,Yakuba,Whitefield Brothers,afrobeat,0.809,0.946,0.911,0.192,90.73
+1620,Amor,Orquestra Voadora,afrobeat,0.664,0.875,0.626,0.0917,104.925
+1621,Make the Road By Walking,Menahan Street Band,afrobeat,0.615,0.76,0.902,0.0186,90.847
+1622,Eledumare,Limoblaze,afrobeat,0.709,0.854,0.816,0.492,103.018
+1623,Awo,Foli Griô Orquestra;Carlos Malta;Dofono de Omulu;Ekedi Nicinha,afrobeat,0.594,0.716,0.931,0.217,133.407
+1624,Do Your Thing,Orgone,afrobeat,0.586,0.702,0.69,0.553,143.434
+1625,Africa Irie,Chief Checker,afrobeat,0.745,0.587,0.86,0.0329,131.977
+1626,I Refuse To Smile,Mandrill,afrobeat,0.544,0.697,0.654,0.205,87.557
+1627,Vai C Bom,Zé Bigode Orquestra,afrobeat,0.615,0.874,0.389,0.176,189.944
+1628,Ketan,Gyedu-Blay Ambolley,afrobeat,0.644,0.823,0.508,0.145,104.967
+1629,WRONGS,Jor'dan Armstrong,afrobeat,0.534,0.631,0.506,0.272,126.018
+1630,Tout est fragile,Lo'Jo;Vincent Ségal;Robert Wyatt,afrobeat,0.66,0.57,0.808,0.473,120.104
+1631,Don't Contradict,Ikebe Shakedown,afrobeat,0.776,0.961,0.942,0.53,136.005
+1632,Président,Pat Kalla;Le Super Mojo,afrobeat,0.774,0.719,0.89,0.0181,132.025
+1633,Sissoko,The Shaolin Afronauts,afrobeat,0.705,0.547,0.655,0.025,120.336
+1634,Five Points,Ikebe Shakedown,afrobeat,0.511,0.678,0.83,0.0387,82.041
+1635,Came Up,Jor'dan Armstrong,afrobeat,0.72,0.441,0.309,0.668,96.01
+1636,For Baby Ooh,Cymande,afrobeat,0.817,0.211,0.71,0.948,112.21
+1637,Coragem,Samuca e a Selva,afrobeat,0.802,0.644,0.813,0.0866,124.029
+1638,Yennicita - Alternate Version,El Michels Affair,afrobeat,0.619,0.585,0.642,0.00463,167.942
+1639,Lucro/Descomprimindo,BaianaSystem,afrobeat,0.713,0.825,0.68,0.147,100.04
+1640,Tuto Bay,The Mauskovic Dance Band,afrobeat,0.716,0.511,0.929,0.00678,133.028
+1641,Surfing,Ernest Ranglin,afrobeat,0.793,0.436,0.821,0.132,142.011
+1642,Caju,Afrocidade,afrobeat,0.343,0.472,0.764,0.314,93.945
+1643,Boulmamine,Orchestra Baobab,afrobeat,0.649,0.618,0.752,0.737,139.307
+1644,Tighten Up,The Bamboos,afrobeat,0.569,0.949,0.968,0.0224,131.921
+1645,Voráz,Newen Afrobeat,afrobeat,0.679,0.774,0.932,0.218,145.009
+1646,Calamatraca (ÀTTØØXXÁ Remix),BaianaSystem;ÀTTØØXXÁ,afrobeat,0.748,0.626,0.44,0.0135,149.933
+1647,Back At The Boathouse,Breakestra,afrobeat,0.763,0.925,0.761,0.0533,98.51
+1648,No Les Creeré,Newen Afrobeat,afrobeat,0.746,0.829,0.834,0.153,117.714
+1649,Tomahawk,The Budos Band,afrobeat,0.514,0.85,0.684,0.00179,110.897
+1650,Atomic Bomb,William Onyeabor,afrobeat,0.761,0.382,0.966,0.0279,116.887
+1651,Esto Es Lo Que Hay,Los Amigos Invisibles,afrobeat,0.589,0.789,0.312,0.496,104.178
+1652,Jonaz Goes to Hollywood,Plastilina Mosh,afrobeat,0.677,0.925,0.396,0.178,102.52
+1653,Edén,Jorge Drexler,afrobeat,0.643,0.311,0.773,0.921,137.278
+1654,Equipaje,Jorge Drexler,afrobeat,0.785,0.393,0.333,0.928,126.776
+1655,Grazing In The Grass,Hugh Masekela,afrobeat,0.673,0.697,0.911,0.518,107.46
+1656,No One Like You,Eben;Nathaniel Bassey,afrobeat,0.652,0.529,0.488,0.357,129.861
+1657,PIMP,Bacao Rhythm & Steel Band,afrobeat,0.672,0.858,0.963,0.456,166.689
+1658,Zaharila,El Michels Affair;Piya Malik,afrobeat,0.378,0.596,0.501,0.0788,81.873
+1659,Plus Plus,The Poets Of Rhythm,afrobeat,0.723,0.722,0.604,0.0218,95.558
+1660,Favor,Jor'dan Armstrong,afrobeat,0.467,0.615,0.45,0.0881,142.076
+1661,A Pesar La Vida,Ocote Soul Sounds;Chico Mann;Quantic,afrobeat,0.496,0.753,0.456,0.0204,99.876
+1662,442,Morbo y Mambo,afrobeat,0.558,0.819,0.276,0.000621,132.005
+1663,The People of the Forest,The Sorcerers,afrobeat,0.86,0.548,0.905,0.573,138.786
+1664,Wisdom Seeker,TJ Cream;Beloved Music,afrobeat,0.825,0.68,0.722,0.135,96.029
+1665,Groovy Flute,Manu Dibango,afrobeat,0.678,0.845,0.965,0.791,104.653
+1666,Amazing,Marizu,afrobeat,0.508,0.483,0.523,0.639,133.207
+1667,Samurai,Nomade Orquestra,afrobeat,0.603,0.67,0.314,0.504,94.01
+1668,Coconut Rock,Ocote Soul Sounds,afrobeat,0.796,0.904,0.762,0.503,88.001
+1669,Life,Sharyn;Triple O,afrobeat,0.666,0.565,0.263,0.0722,180.071
+1670,Tierra,La Misa Negra,afrobeat,0.629,0.577,0.193,0.0259,120.042
+1671,Tempos Insanos,Maga Bo;BNegão,afrobeat,0.871,0.889,0.557,0.0218,99.926
+1672,A Limpiar El Sucio,Calle 13,afrobeat,0.618,0.825,0.896,0.484,79.439
+1673,The Jaunt,The Poets Of Rhythm,afrobeat,0.739,0.58,0.626,0.173,108.304
+1674,Touchdown,Bacao Rhythm & Steel Band,afrobeat,0.81,0.621,0.837,0.0264,95.911
+1675,Ossanyn,Metá Metá,afrobeat,0.454,0.636,0.455,0.271,138.448
+1676,Sol Walk,Whitefield Brothers,afrobeat,0.7,0.933,0.863,0.166,115.711
+1677,God Got Me,Jor'dan Armstrong,afrobeat,0.787,0.726,0.407,0.0719,107.024
+1678,Agua Santa,Ocote Soul Sounds,afrobeat,0.718,0.872,0.949,0.397,164.013
+1679,Manu écoute ça...,Voilaaa,afrobeat,0.851,0.776,0.907,0.29,118.019
+1680,Sugar's Boogaloo,The Sugarman 3,afrobeat,0.62,0.559,0.625,0.661,127.721
+1681,Guiding Resolution,The Poets Of Rhythm,afrobeat,0.639,0.638,0.936,0.228,101.687
+1682,Jungle Fire,Voilaaa,afrobeat,0.81,0.612,0.598,0.156,116.803
+1683,"Soul Buster, Pt. 1",The Mighty Imperials;Joseph Henry,afrobeat,0.601,0.968,0.88,0.0643,105.657
+1684,El Busetero Buscapleitos,Romperayo,afrobeat,0.434,0.87,0.898,0.0146,124.228
+1685,Ocho Rios,El Michels Affair,afrobeat,0.775,0.688,0.529,0.0791,94.62
+1686,Mariô (Instrumental),Criolo,afrobeat,0.724,0.585,0.516,0.00692,89.933
+1687,Drum Ting,Jackie Mittoo,afrobeat,0.735,0.637,0.964,0.715,83.352
+1688,Friends,Jor'dan Armstrong,afrobeat,0.742,0.668,0.806,0.0152,97.009
+1689,Cumbia Regional,El Hijo De La Cumbia,afrobeat,0.576,0.887,0.592,0.00013,109.957
+1690,Fires Glow,Lack Of Afro;Emma Noble,afrobeat,0.633,0.681,0.622,0.38,110.004
+1691,Pipi,Los Amigos Invisibles,afrobeat,0.631,0.609,0.702,0.000932,174.968
+1692,Masturbation Session,Los Amigos Invisibles,afrobeat,0.843,0.822,0.86,0.0221,117.971
+1693,Burnt Back,The New Mastersounds,afrobeat,0.537,0.903,0.843,0.452,111.801
+1694,Frevofoguete,BaianaSystem,afrobeat,0.482,0.714,0.656,0.0127,155.103
+1695,Alfazema Y Guiné (feat. Guinu),Zé Bigode Orquestra;Guinu,afrobeat,0.875,0.761,0.912,0.162,129.911
+1696,Yo No Se,Los Amigos Invisibles,afrobeat,0.56,0.822,0.962,0.256,131.774
+1697,Electro Movimiento,Calle 13,afrobeat,0.803,0.86,0.534,0.0782,109.966
+1698,Come y Calla,Newen Afrobeat,afrobeat,0.795,0.857,0.845,0.526,97.01
+1699,Love and Death,Ebo Taylor;Uhuru-Yenzu,afrobeat,0.804,0.92,0.811,0.158,108.979
+1700,Tiki Fiesta,Plastilina Mosh,afrobeat,0.768,0.688,0.4,0.103,125.112
+1701,Man Feriman,Metá Metá,afrobeat,0.475,0.76,0.359,0.276,109.977
+1702,Mango Cool,Los Amigos Invisibles,afrobeat,0.527,0.883,0.828,0.0204,155.135
+1703,Mix Tel Aviv,Kutiman,afrobeat,0.751,0.688,0.403,0.102,120.96
+1704,Mata,Akalé Wubé,afrobeat,0.569,0.496,0.808,0.393,82.822
+1705,Thank You,TB1,afrobeat,0.775,0.808,0.912,0.113,115.011
+1706,Life of Grace,Louis Pascal,afrobeat,0.59,0.491,0.253,0.0128,193.616
+1707,Comencemos (Let's Start),Jungle Fire,afrobeat,0.666,0.903,0.913,0.23,111.84
+1708,Breezin',Oneness Of Juju,afrobeat,0.616,0.476,0.862,0.687,80.318
+1709,He Turned It,Becca Folkes,afrobeat,0.663,0.872,0.585,0.0221,97.0
+1710,Omega,Greyboy,afrobeat,0.755,0.876,0.894,0.014,108.383
+1711,Rio Grande,Ikebe Shakedown,afrobeat,0.445,0.605,0.692,0.25,162.588
+1712,"Abyssinian Suite, Pt. 4",The Shaolin Afronauts,afrobeat,0.526,0.762,0.867,0.0183,110.086
+1713,Haven`t You Heard?,TJ Cream;Ozoro,afrobeat,0.865,0.443,0.738,0.148,160.001
+1714,Uncommon Girl,Jaron Nurse,afrobeat,0.908,0.631,0.819,0.128,110.048
+1715,É da Nossa Cor,Maga Bo;Mestre Camaleão,afrobeat,0.668,0.873,0.771,0.422,116.968
+1716,The Demander,Victor Rice,afrobeat,0.678,0.785,0.995,0.00941,141.557
+1717,Burn Brighter / Like I do,Sharyn,afrobeat,0.855,0.662,0.487,0.33,113.003
+1718,Searching,Jlyricz,afrobeat,0.552,0.424,0.596,0.604,204.128
+1719,Funky Amigo,Speedometer,afrobeat,0.862,0.673,0.823,0.0568,113.427
+1720,Culebro,Jungle Fire,afrobeat,0.581,0.871,0.91,0.00707,118.497
+1721,Give The Beggar A Chance,Monomono,afrobeat,0.548,0.721,0.947,0.503,163.452
+1722,100% Worship,Eddie Neblett,afrobeat,0.718,0.73,0.932,0.447,120.145
+1723,Jealousy,Tony Allen With Africa 70,afrobeat,0.866,0.636,0.859,0.222,99.615
+1724,Been Such A Long Time Gone,Hugh Masekela,afrobeat,0.538,0.663,0.699,0.236,106.814
+1725,Bèmèlkesh Aydèlèm,Girma Bèyènè;Akalé Wubé,afrobeat,0.76,0.626,0.857,0.562,99.991
+1726,Sakonsa,Ikebe Shakedown,afrobeat,0.603,0.984,0.922,0.174,131.249
+1727,Village Hustle,Jungle Fire,afrobeat,0.785,0.874,0.962,0.0782,120.102
+1728,Nubes (feat. Shigeto),Niña Dioz;Shigeto,afrobeat,0.891,0.855,0.527,0.0234,115.0
+1729,The Viking,Ikebe Shakedown,afrobeat,0.732,0.967,0.755,0.332,110.103
+1730,Ewa,Tony Allen,afrobeat,0.692,0.884,0.19,0.0317,112.976
+1731,Black Woman Experience - Mixed,Geraldo Pino;The Heartbeats,afrobeat,0.719,0.736,0.372,0.447,123.326
+1732,Woman To Man,Tony Allen;Ty,afrobeat,0.898,0.801,0.724,0.0105,115.028
+1733,Hager Fiker,Mulatu Astatke,afrobeat,0.677,0.684,0.948,0.953,92.185
+1734,Ise Nla,Tony Allen,afrobeat,0.774,0.907,0.962,0.304,110.0
+1735,E Nan Mian Nuku,El Rego;Kill Emil,afrobeat,0.753,0.877,0.866,0.00721,97.985
+1736,Tiger's Skip,Tony Allen,afrobeat,0.727,0.481,0.451,0.0266,147.327
+1737,Água (Adubada),BaianaSystem;Buguinha Dub;Antonio Carlos & Jocafi;Orquestra Afrosinfônica,afrobeat,0.486,0.586,0.393,0.638,96.954
+1738,When The Going Is Smooth & Good,William Onyeabor,afrobeat,0.826,0.629,0.54,0.357,128.164
+1739,Smoke Gets In...,The Budos Band,afrobeat,0.513,0.347,0.279,0.000155,107.468
+1740,Clementine Jam,Orchestra Baobab,afrobeat,0.545,0.664,0.333,0.0655,96.602
+1741,Que Rico,Los Amigos Invisibles,afrobeat,0.556,0.75,0.715,0.276,130.915
+1742,Balboa Dub,Bixiga 70,afrobeat,0.644,0.831,0.759,0.221,126.061
+1743,Vermelhos de Ciclos,Samuca e a Selva,afrobeat,0.753,0.728,0.59,0.0159,144.003
+1744,Como Sabes Tú,Los Amigos Invisibles,afrobeat,0.5,0.926,0.732,0.000692,74.973
+1745,Tatuaje,Jorge Drexler,afrobeat,0.532,0.571,0.215,0.6,79.529
+1746,Amor de Índio,Samuca e a Selva,afrobeat,0.57,0.386,0.316,0.646,150.141
+1747,Marketplace,Hugh Masekela,afrobeat,0.696,0.249,0.558,0.678,92.286
+1748,Chileshe,Hugh Masekela,afrobeat,0.656,0.85,0.443,0.415,88.955
+1749,Chinese New Year,Mulatu Astatke;The Heliocentrics,afrobeat,0.57,0.698,0.715,0.224,116.416
+1750,Talkatif,Antibalas,afrobeat,0.695,0.942,0.851,0.206,136.029
+1751,Savage Sucker Boy Featuring Pocahontas Freaky Groove,Plastilina Mosh,afrobeat,0.324,0.826,0.588,0.00703,128.375
+1752,Dansaki,Lara George,afrobeat,0.701,0.94,0.945,0.0619,139.497
+1753,Ala Vida,El Michels Affair,afrobeat,0.647,0.386,0.491,0.67,80.833
+1754,La edad del cielo,Jorge Drexler,afrobeat,0.668,0.261,0.282,0.588,147.446
+1755,Discontinued,Nomo,afrobeat,0.394,0.73,0.795,0.0437,85.866
+1756,T.I.B.W.F.,The Budos Band,afrobeat,0.674,0.607,0.712,0.0124,77.845
+1757,Faraway,A Mose,afrobeat,0.701,0.739,0.247,0.0855,100.981
+1758,Enkèn Yèlélèbesh,Girma Bèyènè;Akalé Wubé,afrobeat,0.74,0.492,0.893,0.589,128.648
+1759,Cantarito,Buyepongo,afrobeat,0.571,0.783,0.866,0.317,121.39
+1760,Must Reach,J Prince,afrobeat,0.808,0.778,0.613,0.198,100.009
+1761,El Avión Se Cae,Calle 13,afrobeat,0.759,0.78,0.51,0.0024,125.05
+1762,Telephone Girl,Assagai,afrobeat,0.604,0.52,0.966,0.0758,102.502
+1763,Represent,Bacao Rhythm & Steel Band,afrobeat,0.717,0.513,0.79,0.00956,92.968
+1764,Chori 95,Morbo y Mambo,afrobeat,0.472,0.821,0.519,0.000143,95.93
+1765,Blood,J Prince,afrobeat,0.85,0.902,0.836,0.13,127.968
+1766,Tender Trap,Bacao Rhythm & Steel Band,afrobeat,0.69,0.707,0.746,0.16,94.275
+1767,The Outsider,Lack Of Afro,afrobeat,0.681,0.838,0.456,0.0874,112.608
+1768,Tu Mens Devant Moi,Voilaaa;Rama Traore,afrobeat,0.817,0.601,0.847,0.0685,129.971
+1769,Sweet Feet,Orgone,afrobeat,0.766,0.722,0.842,0.0335,122.369
+1770,Ku La Foon - JKriv Remix,Voilaaa;Lass;JKriv,afrobeat,0.811,0.598,0.86,0.0561,119.998
+1771,Akula Owu Onyeara,The Funkees,afrobeat,0.701,0.702,0.885,0.525,110.721
+1772,Puerta del sol,Los Pirañas,afrobeat,0.573,0.856,0.929,0.0736,103.748
+1773,Eye Nyam Nam 'A' Mensuro - Henrik Schwarz Blend,Ebo Taylor;Pat Thomas;Henrik Schwarz,afrobeat,0.761,0.626,0.715,0.0172,124.024
+1774,Faut Pas Dire Des Choses Comme Ça,Voilaaa;Pat Kalla,afrobeat,0.738,0.717,0.936,0.473,134.668
+1775,Song for Rollins,Buena Onda Reggae Club,afrobeat,0.841,0.577,0.843,0.238,90.522
+1776,Donde Vas,Timoneki,afrobeat,0.564,0.62,0.487,0.0443,180.008
+1777,Upside Down,The Daktaris,afrobeat,0.66,0.807,0.754,0.103,113.893
+1778,Hand of Doom,Brownout;Brown Sabbath;Alex Maas,afrobeat,0.379,0.543,0.377,0.0418,146.446
+1779,Constante Mesmice,Nomade Orquestra;Edgar,afrobeat,0.743,0.643,0.591,0.0462,128.029
+1780,Stepping Out,Eddie Neblett,afrobeat,0.75,0.705,0.815,0.198,119.898
+1781,Tata fatiguée,Vaudou Game,afrobeat,0.76,0.667,0.946,0.306,109.774
+1782,Vení Pa’ Ca,La Misa Negra,afrobeat,0.646,0.486,0.931,0.00135,160.104
+1783,Beautiful Here,Lack Of Afro,afrobeat,0.833,0.675,0.442,0.0493,110.865
+1784,Nordic Laser,Plastilina Mosh,afrobeat,0.364,0.977,0.293,0.000498,147.087
+1785,You Could Do Better,Lack Of Afro;Camila Recchio;Wax,afrobeat,0.701,0.704,0.71,0.115,96.067
+1786,Cabe-c-o,Calle 13,afrobeat,0.733,0.732,0.777,0.447,91.928
+1787,Soul Saxes Meeting,Manu Dibango,afrobeat,0.636,0.826,0.731,0.461,102.809
+1788,No Way (feat. Darius Scott),Jor'dan Armstrong;DIXSON,afrobeat,0.481,0.596,0.348,0.0864,99.96
+1789,Mind Your Own Business,Ebo Taylor,afrobeat,0.622,0.907,0.825,0.0381,125.77
+1790,I Love Music - Remastered,Lafayette Afro Rock Band,afrobeat,0.512,0.851,0.73,0.000473,132.212
+1791,It Came Over Me,The Poets Of Rhythm,afrobeat,0.438,0.393,0.533,0.41,60.587
+1792,Radar,Jorge Drexler,afrobeat,0.575,0.771,0.696,0.199,77.394
+1793,Reverse Effect,Jor'dan Armstrong,afrobeat,0.704,0.486,0.415,0.36,139.957
+1794,I Faram Gami I Faram - taken from Mulatu Steps Ahead,Mulatu Astatke,afrobeat,0.538,0.593,0.741,0.871,86.564
+1795,It's What You Do,Orgone,afrobeat,0.746,0.811,0.914,0.157,109.133
+1796,Sincronia,Samuca e a Selva,afrobeat,0.791,0.546,0.843,0.034,100.064
+1797,Live From Tigre Lounge,Mulatu Astatke;The Heliocentrics,afrobeat,0.656,0.809,0.872,0.000881,132.404
+1798,Bienvenida,Jorge Drexler,afrobeat,0.789,0.532,0.904,0.54,112.732
+1799,No te creas,Jorge Drexler,afrobeat,0.623,0.803,0.645,0.438,126.61
+1800,Quiero Desintegrar a Tu Novio,Los Amigos Invisibles,afrobeat,0.778,0.739,0.923,0.294,107.967
+1801,Kana Kassy,Ali Farka Touré;Toumani Diabaté,afrobeat,0.583,0.44,0.594,0.803,101.799
+1802,Lagos Sisi,Bola Johnson,afrobeat,0.718,0.626,0.662,0.147,107.288
+1803,Expensive Shit,Fela Kuti;Afrika 70,afrobeat,0.612,0.876,0.677,0.22,123.866
+1804,Who Am I (Psalm 8:4),Azarel;Leor,afrobeat,0.733,0.342,0.484,0.102,184.058
+1805,Knocking on Your Door,Edem Evangelist,afrobeat,0.696,0.769,0.896,0.553,98.031
+1806,Paisano,Nkumba System;Mamani Keïta,afrobeat,0.66,0.717,0.964,0.407,165.259
+1807,Home Again,Menahan Street Band,afrobeat,0.587,0.732,0.747,0.055,96.848
+1808,Ariwoko,Chico Mann;Captain Planet,afrobeat,0.72,0.837,0.922,0.168,81.997
+1809,Manasseh,Rehmahz;Oba Reengy,afrobeat,0.631,0.602,0.25,0.486,102.08
+1810,Every Season,Tony Allen;Damon Albarn;Ty,afrobeat,0.751,0.735,0.721,0.0626,163.852
+1811,Enjoyment,Jlyricz,afrobeat,0.803,0.41,0.678,0.252,90.006
+1812,Quémalo,Jungle Fire,afrobeat,0.574,0.893,0.504,0.077,95.437
+1813,Grateful,Becca Folkes,afrobeat,0.74,0.835,0.862,0.00098,119.975
+1814,Alma,Timoneki,afrobeat,0.522,0.62,0.19,0.0564,139.837
+1815,Jorge de Capadócia,cacique'97,afrobeat,0.78,0.818,0.934,0.19,114.989
+1816,Keep It Clean,Jaron Nurse,afrobeat,0.56,0.644,0.875,0.515,82.505
+1817,Locataire,Vaudou Game,afrobeat,0.743,0.872,0.89,0.195,118.904
+1818,Gimme Some,Grupo Fantasma,afrobeat,0.736,0.976,0.95,0.261,128.019
+1819,Blanket,Joshua Ali,afrobeat,0.851,0.865,0.957,0.232,99.972
+1820,Happy Beat,Mandrill,afrobeat,0.767,0.823,0.812,0.138,107.857
+1821,El Sabio Soy Yo,Grupo Fantasma,afrobeat,0.675,0.731,0.897,0.247,95.1
+1822,Skaramouche,São Paulo Ska Jazz;Zem Audu,afrobeat,0.692,0.917,0.394,0.0379,101.821
+1823,Bouncing Bona,Dele Ojo,afrobeat,0.711,0.776,0.842,0.477,116.388
+1824,Snowblind,Brownout;Brown Sabbath,afrobeat,0.438,0.737,0.402,0.00038,113.957
+1825,Odo Agye Gye Me,The Polyversal Souls;Sir Frank Karikari,afrobeat,0.813,0.693,0.854,0.162,114.206
+1826,Analog Fruit,The Mauskovic Dance Band,afrobeat,0.605,0.749,0.964,0.419,143.065
+1827,Mansa Fela,Höröyá,afrobeat,0.746,0.881,0.586,0.0335,130.988
+1828,Not Another Drop (Reprise),Ikebe Shakedown,afrobeat,0.729,0.752,0.939,0.00632,105.512
+1829,Cachoeira,Africania,afrobeat,0.698,0.707,0.636,0.516,99.009
+1830,Expensive Shit,Orquestra Voadora,afrobeat,0.833,0.727,0.657,0.324,123.028
+1831,African Man,Tony Allen,afrobeat,0.692,0.98,0.686,0.106,114.956
+1832,Follow me,A Mose;Marizu,afrobeat,0.506,0.621,0.761,0.326,97.109
+1833,Freguês da Meia Noite (Instrumental),Criolo,afrobeat,0.538,0.379,0.533,0.222,175.949
+1834,Très magnifique,Tony Allen;T$unami811,afrobeat,0.725,0.875,0.725,0.0513,155.057
+1835,Fiesta,Juanafé;Los Celestinos,afrobeat,0.586,0.754,0.814,0.284,156.831
+1836,What I Know,The Bamboos;Kylie Auldist,afrobeat,0.747,0.77,0.86,0.029,97.99
+1837,Graceland,Plastilina Mosh,afrobeat,0.627,0.856,0.777,0.0203,96.963
+1838,Cabral,Orchestra Baobab,afrobeat,0.657,0.419,0.602,0.139,166.588
+1839,Veneno,Jorge Drexler,afrobeat,0.535,0.344,0.275,0.816,152.381
+1840,Millionaire,Plastilina Mosh,afrobeat,0.815,0.757,0.891,0.0776,93.571
+1841,Yoro,Wganda Kenya,afrobeat,0.797,0.69,0.705,0.0805,114.097
+1842,Ska Fuentes,Ondatrópica,afrobeat,0.685,0.811,0.953,0.674,122.915
+1843,Hot Tamale,Jackie Mittoo,afrobeat,0.684,0.399,0.754,0.233,92.906
+1844,Tico-Tico no Fubá,Orquestra Brasileira de Música Jamaicana,afrobeat,0.832,0.724,0.954,0.704,131.949
+1845,Voltaren's Dream,Los Amigos Invisibles,afrobeat,0.698,0.765,0.332,0.0888,100.012
+1846,El Caterete,Wganda Kenya,afrobeat,0.55,0.921,0.76,0.377,117.833
+1847,It's Only Us,Monophonics;Kelly Finnigan,afrobeat,0.477,0.615,0.472,0.482,86.472
+1848,Safari Strut,Whitefield Brothers,afrobeat,0.677,0.862,0.902,0.416,109.965
+1849,La La La Love Me,Monophonics,afrobeat,0.546,0.54,0.453,0.0292,87.967
+1850,Thanksgiving,Gil Joe,afrobeat,0.771,0.809,0.873,0.214,101.066
+1851,Tire Loma Da Nigbehin,Monomono,afrobeat,0.598,0.576,0.494,0.767,107.997
+1852,Remotely Close: Silkyway,Kutiman;Elif Çağlar,afrobeat,0.755,0.612,0.645,0.0203,110.019
+1853,So Good,Greyboy;Bing Ji Ling,afrobeat,0.808,0.364,0.692,0.0363,87.07
+1854,Blind Love,El Michels Affair,afrobeat,0.584,0.629,0.519,0.0148,150.745
+1855,IN,Jor'dan Armstrong,afrobeat,0.664,0.622,0.282,0.249,79.972
+1856,Good oh,J Prince,afrobeat,0.83,0.842,0.768,0.136,118.023
+1857,I Am,Marizu,afrobeat,0.631,0.764,0.764,0.818,100.056
+1858,Djobime,El Rego,afrobeat,0.532,0.56,0.827,0.0098,142.651
+1859,Look Out Baby (Here I Come) (Bonus Track),Bacao Rhythm & Steel Band,afrobeat,0.64,0.984,0.775,0.123,113.508
+1860,Voodoo Soul Stew,The Daktaris,afrobeat,0.822,0.68,0.965,0.441,100.244
+1861,The Ally,Ikebe Shakedown,afrobeat,0.641,0.57,0.81,0.0997,107.927
+1862,Agbara,The Souljazz Orchestra,afrobeat,0.683,0.923,0.892,0.204,120.004
+1863,Baba Hya - Remastered,Lafayette Afro Rock Band,afrobeat,0.436,0.915,0.776,0.405,88.39
+1864,Beneath the City of the Monkey God,The Sorcerers,afrobeat,0.63,0.198,0.342,0.397,60.402
+1865,Back to the Day,Lack Of Afro;Elliott Cole,afrobeat,0.712,0.604,0.874,0.375,97.938
+1866,One World,Lack Of Afro;Herbal T,afrobeat,0.677,0.746,0.71,0.171,97.075
+1867,Getting Nasty,Bacao Rhythm & Steel Band,afrobeat,0.622,0.551,0.661,0.135,95.124
+1868,Tambalea (feat. Lido Pimienta & Ceci Bastida),Niña Dioz;Ceci Bastida;Lido Pimienta,afrobeat,0.791,0.575,0.661,0.171,135.958
+1869,Me Queda Voz,Gilles Peterson's Havana Cultura Band,afrobeat,0.77,0.799,0.689,0.0628,86.964
+1870,Tropical Garden,Manu Dibango,afrobeat,0.615,0.397,0.916,0.301,169.0
+1871,Chérie Nye,Vaudou Game,afrobeat,0.748,0.808,0.974,0.501,142.363
+1872,Ba-Kuba,Manu Dibango,afrobeat,0.535,0.658,0.911,0.235,107.382
+1873,Me Voy Pa’ Porce,La Misa Negra,afrobeat,0.605,0.732,0.793,0.0186,178.022
+1874,Elle décide,Vaudou Game,afrobeat,0.772,0.857,0.977,0.462,111.367
+1875,You've Made Me So Very Happy featuring Ria Currie,Speedometer;Ria Currie,afrobeat,0.678,0.71,0.897,0.0262,99.136
+1876,Shuffering and Shmiling,Fela Kuti,afrobeat,0.825,0.837,0.495,0.315,123.02
+1877,Better Change Your Mind - Mixed,William Onyeabor,afrobeat,0.803,0.67,0.87,0.123,117.457
+1878,Tambour à deux peaux,The Souljazz Orchestra,afrobeat,0.719,0.828,0.96,0.0935,104.036
+1879,Cara E' Pasmao',Los Amigos Invisibles,afrobeat,0.715,0.925,0.898,0.0155,103.006
+1880,Freckles,The New Mastersounds,afrobeat,0.787,0.834,0.961,0.145,113.337
+1881,Fogo (Adubado),BaianaSystem;Buguinha Dub;Orquestra Afrosinfônica,afrobeat,0.67,0.632,0.589,0.0559,94.031
+1882,"Yo Soy Tu Padre, Yo Te Fabriqué",Meridian Brothers,afrobeat,0.645,0.551,0.774,0.594,96.225
+1883,Goldmember,Los Amigos Invisibles,afrobeat,0.583,0.954,0.689,0.0007,133.959
+1884,International Stereo (Bassass),Plastilina Mosh,afrobeat,0.663,0.895,0.9,0.000249,133.704
+1885,Soul Fiesta,Manu Dibango,afrobeat,0.58,0.984,0.5,0.367,136.671
+1886,No Nah,Jor'dan Armstrong,afrobeat,0.757,0.673,0.639,0.0213,100.024
+1887,Yerberito,Manu Dibango;Cuarteto Patria,afrobeat,0.697,0.723,0.895,0.198,124.604
+1888,The Moon and the Sun,William Onyeabor,afrobeat,0.615,0.838,0.85,0.275,145.961
+1889,Cuchi-cuchi,Los Amigos Invisibles,afrobeat,0.566,0.778,0.362,0.362,125.423
+1890,Cigar Time,The New Mastersounds,afrobeat,0.601,0.616,0.798,0.677,112.775
+1891,Hypocrite,Antibalas,afrobeat,0.7,0.94,0.828,0.476,114.15
+1892,La Gitana Me Ha Dejado - Salsa Electrónica,Meridian Brothers,afrobeat,0.762,0.512,0.576,0.772,96.428
+1893,Reino Animal,Los Amigos Invisibles,afrobeat,0.733,0.862,0.745,0.287,107.981
+1894,Hopeless Romance,Los Amigos Invisibles,afrobeat,0.691,0.921,0.597,0.0753,116.001
+1895,Daddy Issues,The Neighbourhood,alt-rock,0.588,0.521,0.337,0.0678,85.012
+1896,Little Dark Age,MGMT,alt-rock,0.705,0.712,0.62,0.0102,97.512
+1897,Softcore,The Neighbourhood,alt-rock,0.575,0.568,0.37,0.0484,93.986
+1898,Sweater Weather,The Neighbourhood,alt-rock,0.612,0.807,0.398,0.0495,124.053
+1899,You Get Me So High,The Neighbourhood,alt-rock,0.551,0.881,0.387,0.186,88.036
+1900,Play with Fire (feat. Yacht Money),Sam Tinnesz;Yacht Money,alt-rock,0.573,0.539,0.39,0.0162,75.012
+1901,Something In The Way,Nirvana,alt-rock,0.427,0.201,0.0668,0.745,105.218
+1902,Way down We Go,KALEO,alt-rock,0.489,0.505,0.337,0.579,163.255
+1903,Unstoppable,The Score,alt-rock,0.485,0.843,0.602,0.00129,78.001
+1904,Smells Like Teen Spirit,Nirvana,alt-rock,0.502,0.912,0.72,2.55e-05,116.761
+1905,Blood // Water,grandson,alt-rock,0.51,0.882,0.653,0.00158,154.029
+1906,Shut Up and Dance,WALK THE MOON,alt-rock,0.578,0.866,0.619,0.00701,128.038
+1907,Born For This,The Score,alt-rock,0.411,0.675,0.545,0.063,130.134
+1908,Tippa My Tongue,Red Hot Chili Peppers,alt-rock,0.573,0.913,0.795,0.00861,88.418
+1909,Mr. Brightside,The Killers,alt-rock,0.344,0.931,0.251,0.00104,148.104
+1910,Californication,Red Hot Chili Peppers,alt-rock,0.592,0.765,0.327,0.0021,96.483
+1911,Nerve Flip,Red Hot Chili Peppers,alt-rock,0.386,0.936,0.418,0.0121,176.366
+1912,Runaway Horses - Abridged,The Killers;Phoebe Bridgers,alt-rock,0.499,0.223,0.304,0.912,129.291
+1913,Black Summer,Red Hot Chili Peppers,alt-rock,0.417,0.682,0.351,0.0267,105.542
+1914,When You Were Young,The Killers,alt-rock,0.441,0.976,0.248,0.000335,130.411
+1915,Animals,Nickelback,alt-rock,0.569,0.963,0.82,0.000787,76.995
+1916,Records,Weezer,alt-rock,0.658,0.773,0.66,0.000901,100.006
+1917,Human - Armin van Buuren Dub Remix,The Killers;Armin van Buuren;Benno De Goeij,alt-rock,0.64,0.821,0.624,0.00122,135.478
+1918,Somebody Told Me,The Killers,alt-rock,0.508,0.981,0.746,8.22e-05,138.011
+1919,Fire - Remastered,Red Hot Chili Peppers,alt-rock,0.421,0.986,0.263,0.00482,105.83
+1920,Ohms,Deftones,alt-rock,0.112,0.978,0.371,0.000108,173.097
+1921,Higher Ground - Remastered,Red Hot Chili Peppers,alt-rock,0.476,0.979,0.394,0.00142,140.408
+1922,A Great Big Sled,The Killers;Toni Halliday,alt-rock,0.532,0.872,0.299,0.00223,127.959
+1923,Don't Shoot Me Santa,The Killers;Ryan Pardey,alt-rock,0.588,0.847,0.662,0.0601,120.041
+1924,All My Favorite Songs,Weezer;AJR,alt-rock,0.605,0.7,0.588,0.00998,84.962
+1925,Joy Ride - Night Version,The Killers,alt-rock,0.666,0.935,0.69,0.00285,118.999
+1926,Limón y Sal,Julieta Venegas,alt-rock,0.625,0.653,0.605,0.124,110.972
+1927,Christmas (Baby Please Come Home),The Offspring,alt-rock,0.437,0.878,0.623,0.0112,128.043
+1928,By the Way,Red Hot Chili Peppers,alt-rock,0.441,0.986,0.184,0.038,123.974
+1929,Daddy Issues (Remix) feat. Syd,The Neighbourhood;Syd,alt-rock,0.623,0.533,0.247,0.245,84.982
+1930,Reflections,The Neighbourhood,alt-rock,0.648,0.594,0.544,0.114,113.983
+1931,Somebody Else,The 1975,alt-rock,0.618,0.793,0.459,0.204,101.015
+1932,Creep,Radiohead,alt-rock,0.515,0.43,0.104,0.0097,91.844
+1933,The Reason,Hoobastank,alt-rock,0.472,0.671,0.0681,0.0129,82.952
+1934,No Surprises,Radiohead,alt-rock,0.255,0.393,0.118,0.0577,76.426
+1935,Legend,The Score,alt-rock,0.601,0.757,0.462,0.0139,82.001
+1936,Seven Nation Army,The White Stripes,alt-rock,0.743,0.446,0.278,0.0039,123.596
+1937,Courtesy Call,Thousand Foot Krutch,alt-rock,0.531,0.638,0.445,0.00409,164.079
+1938,"Elliot’s Song - From ""Euphoria"" An HBO Original Series",Dominic Fike;Zendaya,alt-rock,0.341,0.266,0.388,0.831,184.14
+1939,Losing My Religion,R.E.M.,alt-rock,0.666,0.854,0.803,0.179,125.637
+1940,Azul,Zoé,alt-rock,0.511,0.714,0.521,0.0504,98.008
+1941,Surviving the Game,Skillet,alt-rock,0.535,0.979,0.432,0.000666,103.996
+1942,Say It Ain't So,Weezer,alt-rock,0.635,0.551,0.451,0.00743,151.779
+1943,Buddy Holly,Weezer,alt-rock,0.555,0.921,0.775,0.00264,121.141
+1944,Labios Rotos - En Vivo,Zoé,alt-rock,0.582,0.755,0.311,0.0632,109.061
+1945,Island In The Sun,Weezer,alt-rock,0.654,0.794,0.678,0.00769,114.62
+1946,O Come All Ye Faithful,Weezer,alt-rock,0.516,0.818,0.769,0.00701,121.907
+1947,Feel Invincible,Skillet,alt-rock,0.603,0.886,0.395,0.00045,126.027
+1948,Bullet With Butterfly Wings - Remastered 2012,The Smashing Pumpkins,alt-rock,0.395,0.751,0.455,5.71e-05,121.561
+1949,O Holy Night,Weezer,alt-rock,0.173,0.609,0.0988,0.359,197.819
+1950,My Name Is Jonas,Weezer,alt-rock,0.261,0.947,0.552,0.000193,185.942
+1951,Arrullo De Estrellas,Zoé,alt-rock,0.462,0.765,0.399,0.324,81.513
+1952,Christmastime,The Smashing Pumpkins,alt-rock,0.165,0.434,0.186,0.316,77.983
+1953,It's The End Of The World As We Know It (And I Feel Fine),R.E.M.,alt-rock,0.381,0.894,0.797,0.0258,205.528
+1954,Lamento Boliviano,Los Enanitos Verdes,alt-rock,0.714,0.734,0.68,0.176,123.57
+1955,Rotting in Vain,Korn,alt-rock,0.498,0.946,0.31,0.000121,106.276
+1956,We Wish You A Merry Christmas,Weezer,alt-rock,0.387,0.786,0.462,0.0195,149.806
+1957,Igual Que Ayer,Los Enanitos Verdes,alt-rock,0.62,0.788,0.856,0.018,137.129
+1958,Mi Primer Dia Sin Ti,Los Enanitos Verdes,alt-rock,0.522,0.639,0.437,0.129,83.377
+1959,Poli / Love - En Vivo,Zoé,alt-rock,0.553,0.722,0.257,0.101,91.267
+1960,Eterna Soledad,Los Enanitos Verdes,alt-rock,0.558,0.403,0.148,0.328,81.661
+1961,The Beach,The Neighbourhood,alt-rock,0.245,0.64,0.105,0.131,135.739
+1962,Stargazing,The Neighbourhood,alt-rock,0.512,0.483,0.367,0.00304,160.009
+1963,Out of My League,Fitz and The Tantrums,alt-rock,0.545,0.968,0.527,0.0387,169.965
+1964,Robbers,The 1975,alt-rock,0.621,0.692,0.381,0.000363,99.806
+1965,I'm In Love With You,The 1975,alt-rock,0.668,0.902,0.913,0.169,119.008
+1966,Come As You Are,Nirvana,alt-rock,0.5,0.824,0.539,0.00016,120.125
+1967,Snow (Hey Oh),Red Hot Chili Peppers,alt-rock,0.427,0.9,0.599,0.116,104.655
+1968,Monster,Skillet,alt-rock,0.64,0.957,0.692,0.0431,134.992
+1969,Revolution,The Score,alt-rock,0.574,0.833,0.574,0.0611,86.008
+1970,On My Own,Ashes Remain,alt-rock,0.361,0.871,0.575,0.0119,176.026
+1971,It's Not My Time - Acoustic,3 Doors Down,alt-rock,0.674,0.58,0.305,0.311,128.003
+1972,skip.that.party,X Ambassadors;Jensen McRae,alt-rock,0.376,0.586,0.171,0.0131,149.734
+1973,Mr. Jones,Counting Crows,alt-rock,0.571,0.836,0.73,0.194,141.612
+1974,A Long December,Counting Crows,alt-rock,0.403,0.59,0.393,0.508,141.649
+1975,Flaca,Andrés Calamaro;Alejandro Sanz,alt-rock,0.739,0.48,0.758,0.718,105.029
+1976,Here Without You,3 Doors Down,alt-rock,0.556,0.545,0.193,0.0635,143.991
+1977,Paloma,Andrés Calamaro;Sebastian Yatra;Leiva;Ivan Ferreiro,alt-rock,0.727,0.382,0.828,0.809,115.003
+1978,Kryptonite,3 Doors Down,alt-rock,0.544,0.848,0.489,0.00395,99.039
+1979,Hanginaround,Counting Crows,alt-rock,0.514,0.781,0.717,0.248,90.522
+1980,Big Yellow Taxi,Counting Crows;Vanessa Carlton,alt-rock,0.674,0.867,0.821,0.00199,88.04
+1981,"The Sick, The Dying… And The Dead!",Megadeth,alt-rock,0.303,0.976,0.193,0.00266,88.536
+1982,Symphony Of Destruction,Megadeth,alt-rock,0.61,0.889,0.506,0.000794,139.903
+1983,The Devil's Bleeding Crown,Volbeat,alt-rock,0.321,0.909,0.209,1.62e-05,109.653
+1984,Bohemio,Andrés Calamaro;Julio Iglesias,alt-rock,0.784,0.461,0.733,0.662,102.165
+1985,Tuyo Siempre,Andrés Calamaro;Vicentico,alt-rock,0.706,0.525,0.73,0.682,89.945
+1986,Holy Wars...The Punishment Due - Remastered,Megadeth,alt-rock,0.327,0.985,0.218,0.00177,125.232
+1987,Keep My Name Outta Your Mouth,The Black Keys,alt-rock,0.597,0.702,0.645,0.0197,83.507
+1988,Sorry Sack Of Bones,Volbeat,alt-rock,0.407,0.954,0.454,0.000629,171.988
+1989,Never Gonna Give You Up,The Black Keys,alt-rock,0.557,0.665,0.437,0.321,75.803
+1990,Transito Lento,Andrés Calamaro,alt-rock,0.704,0.533,0.695,0.587,94.056
+1991,Burn The Witch,Queens of the Stone Age,alt-rock,0.452,0.819,0.423,0.175,124.649
+1992,Heaven Nor Hell,Volbeat,alt-rock,0.411,0.767,0.659,0.000621,134.408
+1993,Cuarteles De Invierno,Andrés Calamaro,alt-rock,0.488,0.627,0.482,0.429,78.979
+1994,Enganchate Conmigo,Andrés Calamaro;Juanes;Niño Josele,alt-rock,0.682,0.646,0.785,0.576,87.891
+1995,Algún Lugar Encontraré,Andrés Calamaro;Carlos Vives,alt-rock,0.694,0.52,0.52,0.412,108.06
+1996,Miro Por La Ventana - Remastered 2017,Andrés Calamaro,alt-rock,0.554,0.757,0.907,0.00543,148.27
+1997,Diego Armando Canciones,Andrés Calamaro,alt-rock,0.32,0.515,0.568,0.373,78.021
+1998,Otro Amor En Avellaneda - Remastered 2017,Andrés Calamaro,alt-rock,0.637,0.572,0.615,0.113,138.177
+1999,Afraid,The Neighbourhood,alt-rock,0.464,0.701,0.356,0.00892,83.996
+2000,feel something,Bea Miller,alt-rock,0.74,0.415,0.156,0.242,136.029
