@@ -5,6 +5,11 @@ class Song(BaseModel):
     title: str
     artist: str
     genre: str
+    danceability: float
+    energy: float
+    valence: float
+    acousticness: float
+    tempo: float
 
 class RecommendationResponse(BaseModel):
     song: Song

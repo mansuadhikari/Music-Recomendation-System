@@ -9,6 +9,7 @@ A content-based music recommendation API built with **FastAPI**, using audio-fea
 - **FastAPI** — web framework and API layer
 - **Pandas** — data loading and processing
 - **Scikit-learn** — `MinMaxScaler` for feature normalization, `cosine_similarity` for recommendation scoring
+- **Pydantic Settings** — environment-based configuration (CORS origins)
 - **Uvicorn** — ASGI server
 - **Pytest** — automated testing
 
@@ -20,6 +21,7 @@ A content-based music recommendation API built with **FastAPI**, using audio-fea
 backend/
 ├── app/
 │   ├── main.py              # FastAPI app entrypoint, CORS, engine setup
+│   ├── config.py            # Environment-based settings (CORS origins)
 │   ├── schemas.py           # Pydantic response models
 │   ├── recommender.py       # Core recommendation engine (scaling + cosine similarity)
 │   ├── data_loader.py       # Loads songs.csv into a DataFrame
@@ -35,7 +37,8 @@ backend/
 │   └── test_recommender.py  # Automated tests for the recommendation engine
 ├── pytest.ini
 ├── requirements.txt
-└── .env                     # (not committed)
+├── .env.example              # Template for local .env (committed)
+└── .env                       # Local environment config (not committed)
 ```
 
 ---
@@ -66,6 +69,26 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+### 1.4 Configure environment variables
+
+Copy the example env file and adjust if needed:
+
+```bash
+# Windows
+copy .env.example .env
+
+# macOS/Linux
+cp .env.example .env
+```
+
+`.env` contents:
+
+```
+CORS_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
+```
+
+This controls which frontend origins are allowed to call the API. Add more origins (comma-separated) if you run the frontend on a different port or host, or when deploying.
 
 ---
 
@@ -134,7 +157,42 @@ Use this to explore and test every endpoint directly in the browser — no separ
 
 ---
 
-## 4. API Endpoints
+## 4. CORS Configuration
+
+The frontend (running on a different port, e.g. `http://localhost:5173`) is a different **origin** from the backend (`http://127.0.0.1:8000`) as far as the browser is concerned, so CORS (Cross-Origin Resource Sharing) must be explicitly enabled or the browser blocks all requests.
+
+CORS is configured in `app/main.py` via `CORSMiddleware`, and the allowed origins are read from `CORS_ORIGINS` in `.env` (see Section 1.4) through `app/config.py`:
+
+```python
+# app/config.py
+class Settings(BaseSettings):
+    cors_origins: str = "http://localhost:5173"
+
+    @property
+    def cors_origins_list(self) -> list[str]:
+        return [origin.strip() for origin in self.cors_origins.split(",")]
+```
+
+```python
+# app/main.py
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=settings.cors_origins_list,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+```
+
+**If you see a CORS error in the browser console:**
+
+- Confirm the frontend's actual dev server URL (check the terminal output from `npm run dev`) exactly matches an entry in `CORS_ORIGINS`
+- Note that `localhost` and `127.0.0.1` are treated as **different origins** by browsers — include both if unsure which one the frontend is using
+- Restart the backend after changing `.env` — env vars are only read on startup
+
+---
+
+## 5. API Endpoints
 
 | Method | Endpoint                             | Description                                              |
 | ------ | ------------------------------------ | -------------------------------------------------------- |
@@ -144,6 +202,8 @@ Use this to explore and test every endpoint directly in the browser — no separ
 | GET    | `/songs/genre/{genre_name}`          | Filter songs by genre (substring match)                  |
 | GET    | `/songs/{song_id}`                   | Get a single song by ID                                  |
 | GET    | `/songs/{song_id}/recommend?top_n=5` | Get top-N similar songs for a given song ID              |
+
+Every `Song` object returned includes: `id`, `title`, `artist`, `genre`, `danceability`, `energy`, `valence`, `acousticness`, `tempo` — the audio feature values are exposed so the frontend can visualize each song's feature profile.
 
 ### Example
 
@@ -158,7 +218,12 @@ GET /songs/1/recommend?top_n=5
       "id": 797,
       "title": "Pop Virus",
       "artist": "Gen Hoshino",
-      "genre": "acoustic"
+      "genre": "acoustic",
+      "danceability": 0.58,
+      "energy": 0.61,
+      "valence": 0.45,
+      "acousticness": 0.32,
+      "tempo": 118.0
     },
     "similarity_score": 0.9983
   }
@@ -167,7 +232,7 @@ GET /songs/1/recommend?top_n=5
 
 ---
 
-## 5. How the Recommendation Engine Works
+## 6. How the Recommendation Engine Works
 
 1. **Feature extraction** — audio features (`danceability`, `energy`, `valence`, `acousticness`, `tempo`) are pulled from each song's row.
 2. **Vectorization / scaling** — `MinMaxScaler` normalizes all features to a 0–1 range so no single feature (e.g. tempo, which has larger raw values) dominates the similarity calculation.
@@ -178,7 +243,7 @@ This is a **content-based filtering** approach — recommendations are based on 
 
 ---
 
-## 6. Testing
+## 7. Testing
 
 Run the automated test suite:
 
@@ -198,7 +263,7 @@ Tests use a small fixture dataset independent of `songs.csv`, so they remain sta
 
 ---
 
-## 7. Evaluating Recommendation Quality
+## 8. Evaluating Recommendation Quality
 
 Since there's no user feedback data to validate against, `evaluate.py` measures **genre consistency** as a proxy metric — the percentage of top-3 recommendations that share the same genre as the source song, using audio-feature similarity alone (no genre passed into the model):
 
@@ -218,19 +283,19 @@ A result well above random chance (with 125+ genres in the dataset, random chanc
 
 ---
 
-## 8. Troubleshooting
+## 9. Troubleshooting
 
 | Problem                                               | Fix                                                                                                                                 |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | `uvicorn: command not found`                          | Use `python -m uvicorn app.main:app --reload`, or confirm the venv is active (`pip show uvicorn` should return version info)        |
 | `FileNotFoundError: songs.csv`                        | Run `python scripts/prepare_dataset.py` after placing `raw_kaggle.csv` in `data/`, or confirm `songs.csv` already exists in `data/` |
 | `ModuleNotFoundError: No module named 'app'` (pytest) | Ensure `pytest.ini` exists in `backend/` with `pythonpath = .`, and run `pytest` from inside `backend/`                             |
-| CORS errors from the frontend                         | Confirm the frontend's dev server URL is listed in `allow_origins` in `app/main.py`                                                 |
+| CORS errors from the frontend                         | Confirm the frontend's dev server URL is listed in `CORS_ORIGINS` in `.env`, and restart the backend after editing `.env`           |
 | `/openapi.json` returns 500                           | Check for unresolved type hints or forward references in router function signatures                                                 |
 
 ---
 
-## 9. Notes
+## 10. Notes
 
 - Dataset is capped at 2000 songs by default. Increasing this significantly increases memory usage, since the similarity matrix grows quadratically (`n × n`) — a 100,000-song dataset would require an unreasonably large in-memory matrix. For larger datasets, a nearest-neighbor approach (e.g. `sklearn.neighbors.NearestNeighbors`) would be more appropriate than a full pairwise similarity matrix.
 - This project uses **feature scaling + cosine similarity**, not a trained ML model (no `.fit()` on a predictive target). This is a standard, legitimate content-based filtering technique, commonly categorized under machine learning tooling (via scikit-learn) even without a training/optimization loop.
